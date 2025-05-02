@@ -1,0 +1,1802 @@
+====================================================================================================
+[2025/04/07_23:25:16.969] [Version] 19e696-dirty
+[2025/04/07_23:25:16.970] [Iteration] =====1=====
+[2025/04/07_23:25:16.970] [SelfPlay] Start 0
+[2025/04/07_23:29:58.907] [SelfPlay Progress] 500 / 2000
+[2025/04/07_23:34:28.310] [SelfPlay Progress] 1000 / 2000
+[2025/04/07_23:38:59.938] [SelfPlay Progress] 1500 / 2000
+[2025/04/07_23:43:25.560] [SelfPlay Progress] 2000 / 2000
+[2025/04/07_23:43:25.560] [SelfPlay] Finished.
+[2025/04/07_23:43:25.561] [SelfPlay # Finished Games] 2000
+[2025/04/07_23:43:25.561] [SelfPlay Min. Game Lengths] 32
+[2025/04/07_23:43:25.561] [SelfPlay Max. Game Lengths] 145
+[2025/04/07_23:43:25.561] [SelfPlay Avg. Game Lengths] 95.831001
+[2025/04/07_23:43:25.561] [SelfPlay Std. Game Lengths] 44.739113
+[2025/04/07_23:43:25.561] [SelfPlay Min. Game Returns] 10.999900
+[2025/04/07_23:43:25.561] [SelfPlay Max. Game Returns] 642.359985
+[2025/04/07_23:43:25.561] [SelfPlay Avg. Game Returns] 104.658226
+[2025/04/07_23:43:25.561] [SelfPlay Std. Game Returns] 107.699623
+[2025/04/07_23:43:25.561] [Optimization] Start.
+[2025/04/07_23:46:38.752] [Optimization] Finished.
+[2025/04/07_23:46:38.752] [Iteration] =====2=====
+[2025/04/07_23:46:38.752] [SelfPlay] Start 500
+[2025/04/07_23:51:11.070] [SelfPlay Progress] 500 / 2000
+[2025/04/07_23:55:53.283] [SelfPlay Progress] 1000 / 2000
+[2025/04/08_00:00:24.691] [SelfPlay Progress] 1500 / 2000
+[2025/04/08_00:05:05.408] [SelfPlay Progress] 2000 / 2000
+[2025/04/08_00:05:05.417] [SelfPlay] Finished.
+[2025/04/08_00:05:05.417] [SelfPlay # Finished Games] 2000
+[2025/04/08_00:05:05.417] [SelfPlay Min. Game Lengths] 32
+[2025/04/08_00:05:05.417] [SelfPlay Max. Game Lengths] 145
+[2025/04/08_00:05:05.417] [SelfPlay Avg. Game Lengths] 93.469002
+[2025/04/08_00:05:05.417] [SelfPlay Std. Game Lengths] 45.388866
+[2025/04/08_00:05:05.417] [SelfPlay Min. Game Returns] 10.999900
+[2025/04/08_00:05:05.417] [SelfPlay Max. Game Returns] 752.059998
+[2025/04/08_00:05:05.417] [SelfPlay Avg. Game Returns] 105.843666
+[2025/04/08_00:05:05.417] [SelfPlay Std. Game Returns] 109.111542
+[2025/04/08_00:05:05.417] [Optimization] Start.
+[2025/04/08_00:08:15.217] [Optimization] Finished.
+[2025/04/08_00:08:15.225] [Iteration] =====3=====
+[2025/04/08_00:08:15.225] [SelfPlay] Start 1000
+[2025/04/08_00:12:46.139] [SelfPlay Progress] 500 / 2000
+[2025/04/08_00:17:23.450] [SelfPlay Progress] 1000 / 2000
+[2025/04/08_00:22:09.175] [SelfPlay Progress] 1500 / 2000
+[2025/04/08_00:26:48.396] [SelfPlay Progress] 2000 / 2000
+[2025/04/08_00:26:48.396] [SelfPlay] Finished.
+[2025/04/08_00:26:48.396] [SelfPlay # Finished Games] 2000
+[2025/04/08_00:26:48.396] [SelfPlay Min. Game Lengths] 32
+[2025/04/08_00:26:48.396] [SelfPlay Max. Game Lengths] 145
+[2025/04/08_00:26:48.396] [SelfPlay Avg. Game Lengths] 91.170998
+[2025/04/08_00:26:48.396] [SelfPlay Std. Game Lengths] 44.855545
+[2025/04/08_00:26:48.396] [SelfPlay Min. Game Returns] -9.400000
+[2025/04/08_00:26:48.396] [SelfPlay Max. Game Returns] 671.400024
+[2025/04/08_00:26:48.396] [SelfPlay Avg. Game Returns] 114.814491
+[2025/04/08_00:26:48.396] [SelfPlay Std. Game Returns] 112.809143
+[2025/04/08_00:26:48.396] [Optimization] Start.
+[2025/04/08_00:30:03.283] [Optimization] Finished.
+[2025/04/08_00:30:03.283] [Iteration] =====4=====
+[2025/04/08_00:30:03.283] [SelfPlay] Start 1500
+[2025/04/08_00:34:38.388] [SelfPlay Progress] 500 / 2000
+[2025/04/08_00:39:27.419] [SelfPlay Progress] 1000 / 2000
+[2025/04/08_00:44:08.432] [SelfPlay Progress] 1500 / 2000
+[2025/04/08_00:48:51.776] [SelfPlay Progress] 2000 / 2000
+[2025/04/08_00:48:51.776] [SelfPlay] Finished.
+[2025/04/08_00:48:51.776] [SelfPlay # Finished Games] 2000
+[2025/04/08_00:48:51.776] [SelfPlay Min. Game Lengths] 32
+[2025/04/08_00:48:51.776] [SelfPlay Max. Game Lengths] 145
+[2025/04/08_00:48:51.776] [SelfPlay Avg. Game Lengths] 88.115501
+[2025/04/08_00:48:51.776] [SelfPlay Std. Game Lengths] 43.054932
+[2025/04/08_00:48:51.776] [SelfPlay Min. Game Returns] -9.400000
+[2025/04/08_00:48:51.776] [SelfPlay Max. Game Returns] 632.870972
+[2025/04/08_00:48:51.776] [SelfPlay Avg. Game Returns] 121.568260
+[2025/04/08_00:48:51.776] [SelfPlay Std. Game Returns] 112.157227
+[2025/04/08_00:48:51.776] [Optimization] Start.
+[2025/04/08_00:52:08.805] [Optimization] Finished.
+[2025/04/08_00:52:08.805] [Iteration] =====5=====
+[2025/04/08_00:52:08.805] [SelfPlay] Start 2000
+[2025/04/08_00:57:03.540] [SelfPlay Progress] 500 / 2000
+[2025/04/08_01:01:52.187] [SelfPlay Progress] 1000 / 2000
+[2025/04/08_01:06:42.014] [SelfPlay Progress] 1500 / 2000
+[2025/04/08_01:11:18.725] [SelfPlay Progress] 2000 / 2000
+[2025/04/08_01:11:18.725] [SelfPlay] Finished.
+[2025/04/08_01:11:18.725] [SelfPlay # Finished Games] 2000
+[2025/04/08_01:11:18.725] [SelfPlay Min. Game Lengths] 32
+[2025/04/08_01:11:18.725] [SelfPlay Max. Game Lengths] 145
+[2025/04/08_01:11:18.725] [SelfPlay Avg. Game Lengths] 90.500000
+[2025/04/08_01:11:18.726] [SelfPlay Std. Game Lengths] 42.434376
+[2025/04/08_01:11:18.726] [SelfPlay Min. Game Returns] -9.400000
+[2025/04/08_01:11:18.726] [SelfPlay Max. Game Returns] 719.500000
+[2025/04/08_01:11:18.726] [SelfPlay Avg. Game Returns] 119.529839
+[2025/04/08_01:11:18.726] [SelfPlay Std. Game Returns] 108.773972
+[2025/04/08_01:11:18.726] [Optimization] Start.
+[2025/04/08_01:14:33.405] [Optimization] Finished.
+[2025/04/08_01:14:33.405] [Iteration] =====6=====
+[2025/04/08_01:14:33.405] [SelfPlay] Start 2500
+[2025/04/08_01:19:30.838] [SelfPlay Progress] 500 / 2000
+[2025/04/08_01:24:29.781] [SelfPlay Progress] 1000 / 2000
+[2025/04/08_01:29:07.884] [SelfPlay Progress] 1500 / 2000
+[2025/04/08_01:34:08.833] [SelfPlay Progress] 2000 / 2000
+[2025/04/08_01:34:08.833] [SelfPlay] Finished.
+[2025/04/08_01:34:08.833] [SelfPlay # Finished Games] 2000
+[2025/04/08_01:34:08.833] [SelfPlay Min. Game Lengths] 32
+[2025/04/08_01:34:08.833] [SelfPlay Max. Game Lengths] 145
+[2025/04/08_01:34:08.833] [SelfPlay Avg. Game Lengths] 85.793999
+[2025/04/08_01:34:08.833] [SelfPlay Std. Game Lengths] 41.170441
+[2025/04/08_01:34:08.833] [SelfPlay Min. Game Returns] -9.400000
+[2025/04/08_01:34:08.834] [SelfPlay Max. Game Returns] 744.359985
+[2025/04/08_01:34:08.834] [SelfPlay Avg. Game Returns] 130.643799
+[2025/04/08_01:34:08.834] [SelfPlay Std. Game Returns] 110.724113
+[2025/04/08_01:34:08.834] [Optimization] Start.
+[2025/04/08_01:37:25.542] [Optimization] Finished.
+[2025/04/08_01:37:25.542] [Iteration] =====7=====
+[2025/04/08_01:37:25.542] [SelfPlay] Start 3000
+[2025/04/08_01:42:27.797] [SelfPlay Progress] 500 / 2000
+[2025/04/08_01:47:24.941] [SelfPlay Progress] 1000 / 2000
+[2025/04/08_01:52:20.183] [SelfPlay Progress] 1500 / 2000
+[2025/04/08_01:57:18.019] [SelfPlay Progress] 2000 / 2000
+[2025/04/08_01:57:18.019] [SelfPlay] Finished.
+[2025/04/08_01:57:18.019] [SelfPlay # Finished Games] 2000
+[2025/04/08_01:57:18.019] [SelfPlay Min. Game Lengths] 32
+[2025/04/08_01:57:18.019] [SelfPlay Max. Game Lengths] 145
+[2025/04/08_01:57:18.020] [SelfPlay Avg. Game Lengths] 88.222504
+[2025/04/08_01:57:18.020] [SelfPlay Std. Game Lengths] 41.667183
+[2025/04/08_01:57:18.020] [SelfPlay Min. Game Returns] -9.400000
+[2025/04/08_01:57:18.020] [SelfPlay Max. Game Returns] 627.817993
+[2025/04/08_01:57:18.020] [SelfPlay Avg. Game Returns] 129.411377
+[2025/04/08_01:57:18.020] [SelfPlay Std. Game Returns] 113.407555
+[2025/04/08_01:57:18.020] [Optimization] Start.
+[2025/04/08_02:00:34.988] [Optimization] Finished.
+[2025/04/08_02:00:34.988] [Iteration] =====8=====
+[2025/04/08_02:00:34.988] [SelfPlay] Start 3500
+[2025/04/08_02:05:27.934] [SelfPlay Progress] 500 / 2000
+[2025/04/08_02:10:17.978] [SelfPlay Progress] 1000 / 2000
+[2025/04/08_02:15:06.615] [SelfPlay Progress] 1500 / 2000
+[2025/04/08_02:19:48.452] [SelfPlay Progress] 2000 / 2000
+[2025/04/08_02:19:48.452] [SelfPlay] Finished.
+[2025/04/08_02:19:48.452] [SelfPlay # Finished Games] 2000
+[2025/04/08_02:19:48.452] [SelfPlay Min. Game Lengths] 32
+[2025/04/08_02:19:48.452] [SelfPlay Max. Game Lengths] 145
+[2025/04/08_02:19:48.452] [SelfPlay Avg. Game Lengths] 85.114998
+[2025/04/08_02:19:48.452] [SelfPlay Std. Game Lengths] 40.402340
+[2025/04/08_02:19:48.452] [SelfPlay Min. Game Returns] 5.899960
+[2025/04/08_02:19:48.452] [SelfPlay Max. Game Returns] 671.338013
+[2025/04/08_02:19:48.452] [SelfPlay Avg. Game Returns] 140.251511
+[2025/04/08_02:19:48.453] [SelfPlay Std. Game Returns] 114.640373
+[2025/04/08_02:19:48.453] [Optimization] Start.
+[2025/04/08_02:22:57.207] [Optimization] Finished.
+[2025/04/08_02:22:57.207] [Iteration] =====9=====
+[2025/04/08_02:22:57.207] [SelfPlay] Start 4000
+[2025/04/08_02:27:39.847] [SelfPlay Progress] 500 / 2000
+[2025/04/08_02:32:18.969] [SelfPlay Progress] 1000 / 2000
+[2025/04/08_02:37:08.410] [SelfPlay Progress] 1500 / 2000
+[2025/04/08_02:42:02.460] [SelfPlay Progress] 2000 / 2000
+[2025/04/08_02:42:02.460] [SelfPlay] Finished.
+[2025/04/08_02:42:02.460] [SelfPlay # Finished Games] 2000
+[2025/04/08_02:42:02.460] [SelfPlay Min. Game Lengths] 32
+[2025/04/08_02:42:02.460] [SelfPlay Max. Game Lengths] 145
+[2025/04/08_02:42:02.460] [SelfPlay Avg. Game Lengths] 84.347504
+[2025/04/08_02:42:02.460] [SelfPlay Std. Game Lengths] 41.013969
+[2025/04/08_02:42:02.460] [SelfPlay Min. Game Returns] -4.300000
+[2025/04/08_02:42:02.460] [SelfPlay Max. Game Returns] 763.640015
+[2025/04/08_02:42:02.460] [SelfPlay Avg. Game Returns] 140.404114
+[2025/04/08_02:42:02.460] [SelfPlay Std. Game Returns] 118.704697
+[2025/04/08_02:42:02.460] [Optimization] Start.
+[2025/04/08_02:45:19.374] [Optimization] Finished.
+[2025/04/08_02:45:19.374] [Iteration] =====10=====
+[2025/04/08_02:45:19.374] [SelfPlay] Start 4500
+[2025/04/08_02:50:10.606] [SelfPlay Progress] 500 / 2000
+[2025/04/08_02:55:01.042] [SelfPlay Progress] 1000 / 2000
+[2025/04/08_02:59:52.077] [SelfPlay Progress] 1500 / 2000
+[2025/04/08_03:04:58.629] [SelfPlay Progress] 2000 / 2000
+[2025/04/08_03:04:58.629] [SelfPlay] Finished.
+[2025/04/08_03:04:58.629] [SelfPlay # Finished Games] 2000
+[2025/04/08_03:04:58.629] [SelfPlay Min. Game Lengths] 32
+[2025/04/08_03:04:58.629] [SelfPlay Max. Game Lengths] 145
+[2025/04/08_03:04:58.629] [SelfPlay Avg. Game Lengths] 91.233002
+[2025/04/08_03:04:58.629] [SelfPlay Std. Game Lengths] 40.874943
+[2025/04/08_03:04:58.629] [SelfPlay Min. Game Returns] 5.899960
+[2025/04/08_03:04:58.629] [SelfPlay Max. Game Returns] 683.304016
+[2025/04/08_03:04:58.629] [SelfPlay Avg. Game Returns] 140.125046
+[2025/04/08_03:04:58.629] [SelfPlay Std. Game Returns] 124.677673
+[2025/04/08_03:04:58.629] [Optimization] Start.
+[2025/04/08_03:08:11.745] [Optimization] Finished.
+[2025/04/08_03:08:11.745] [Iteration] =====11=====
+[2025/04/08_03:08:11.745] [SelfPlay] Start 5000
+[2025/04/08_03:12:50.174] [SelfPlay Progress] 500 / 2000
+[2025/04/08_03:17:53.224] [SelfPlay Progress] 1000 / 2000
+[2025/04/08_03:22:46.360] [SelfPlay Progress] 1500 / 2000
+[2025/04/08_03:27:35.393] [SelfPlay Progress] 2000 / 2000
+[2025/04/08_03:27:35.393] [SelfPlay] Finished.
+[2025/04/08_03:27:35.394] [SelfPlay # Finished Games] 2000
+[2025/04/08_03:27:35.394] [SelfPlay Min. Game Lengths] 32
+[2025/04/08_03:27:35.394] [SelfPlay Max. Game Lengths] 145
+[2025/04/08_03:27:35.394] [SelfPlay Avg. Game Lengths] 89.615997
+[2025/04/08_03:27:35.394] [SelfPlay Std. Game Lengths] 40.455097
+[2025/04/08_03:27:35.394] [SelfPlay Min. Game Returns] -9.400000
+[2025/04/08_03:27:35.394] [SelfPlay Max. Game Returns] 711.640015
+[2025/04/08_03:27:35.394] [SelfPlay Avg. Game Returns] 141.421005
+[2025/04/08_03:27:35.394] [SelfPlay Std. Game Returns] 122.983414
+[2025/04/08_03:27:35.394] [Optimization] Start.
+[2025/04/08_03:30:51.716] [Optimization] Finished.
+[2025/04/08_03:30:51.716] [Iteration] =====12=====
+[2025/04/08_03:30:51.716] [SelfPlay] Start 5500
+[2025/04/08_03:35:58.158] [SelfPlay Progress] 500 / 2000
+[2025/04/08_03:40:56.798] [SelfPlay Progress] 1000 / 2000
+[2025/04/08_03:46:07.347] [SelfPlay Progress] 1500 / 2000
+[2025/04/08_03:51:02.985] [SelfPlay Progress] 2000 / 2000
+[2025/04/08_03:51:02.985] [SelfPlay] Finished.
+[2025/04/08_03:51:02.986] [SelfPlay # Finished Games] 2000
+[2025/04/08_03:51:02.986] [SelfPlay Min. Game Lengths] 32
+[2025/04/08_03:51:02.986] [SelfPlay Max. Game Lengths] 145
+[2025/04/08_03:51:02.986] [SelfPlay Avg. Game Lengths] 94.206001
+[2025/04/08_03:51:02.986] [SelfPlay Std. Game Lengths] 40.566765
+[2025/04/08_03:51:02.986] [SelfPlay Min. Game Returns] 0.799981
+[2025/04/08_03:51:02.986] [SelfPlay Max. Game Returns] 646.184998
+[2025/04/08_03:51:02.986] [SelfPlay Avg. Game Returns] 133.661606
+[2025/04/08_03:51:02.986] [SelfPlay Std. Game Returns] 122.875214
+[2025/04/08_03:51:02.986] [Optimization] Start.
+[2025/04/08_03:54:14.936] [Optimization] Finished.
+[2025/04/08_03:54:14.936] [Iteration] =====13=====
+[2025/04/08_03:54:14.936] [SelfPlay] Start 6000
+[2025/04/08_03:59:04.872] [SelfPlay Progress] 500 / 2000
+[2025/04/08_04:04:10.215] [SelfPlay Progress] 1000 / 2000
+[2025/04/08_04:09:04.962] [SelfPlay Progress] 1500 / 2000
+[2025/04/08_04:14:06.612] [SelfPlay Progress] 2000 / 2000
+[2025/04/08_04:14:06.612] [SelfPlay] Finished.
+[2025/04/08_04:14:06.612] [SelfPlay # Finished Games] 2000
+[2025/04/08_04:14:06.612] [SelfPlay Min. Game Lengths] 32
+[2025/04/08_04:14:06.613] [SelfPlay Max. Game Lengths] 145
+[2025/04/08_04:14:06.613] [SelfPlay Avg. Game Lengths] 99.373497
+[2025/04/08_04:14:06.613] [SelfPlay Std. Game Lengths] 40.874298
+[2025/04/08_04:14:06.613] [SelfPlay Min. Game Returns] -9.400000
+[2025/04/08_04:14:06.613] [SelfPlay Max. Game Returns] 738.643982
+[2025/04/08_04:14:06.613] [SelfPlay Avg. Game Returns] 129.205643
+[2025/04/08_04:14:06.613] [SelfPlay Std. Game Returns] 127.158691
+[2025/04/08_04:14:06.613] [Optimization] Start.
+[2025/04/08_04:17:23.131] [Optimization] Finished.
+[2025/04/08_04:17:23.131] [Iteration] =====14=====
+[2025/04/08_04:17:23.131] [SelfPlay] Start 6500
+[2025/04/08_04:22:10.566] [SelfPlay Progress] 500 / 2000
+[2025/04/08_04:26:54.507] [SelfPlay Progress] 1000 / 2000
+[2025/04/08_04:31:39.242] [SelfPlay Progress] 1500 / 2000
+[2025/04/08_04:36:38.905] [SelfPlay Progress] 2000 / 2000
+[2025/04/08_04:36:38.905] [SelfPlay] Finished.
+[2025/04/08_04:36:38.905] [SelfPlay # Finished Games] 2000
+[2025/04/08_04:36:38.905] [SelfPlay Min. Game Lengths] 32
+[2025/04/08_04:36:38.905] [SelfPlay Max. Game Lengths] 145
+[2025/04/08_04:36:38.905] [SelfPlay Avg. Game Lengths] 90.485497
+[2025/04/08_04:36:38.905] [SelfPlay Std. Game Lengths] 40.704819
+[2025/04/08_04:36:38.905] [SelfPlay Min. Game Returns] 0.799981
+[2025/04/08_04:36:38.906] [SelfPlay Max. Game Returns] 710.739990
+[2025/04/08_04:36:38.906] [SelfPlay Avg. Game Returns] 150.354218
+[2025/04/08_04:36:38.906] [SelfPlay Std. Game Returns] 130.482803
+[2025/04/08_04:36:38.906] [Optimization] Start.
+[2025/04/08_04:39:51.991] [Optimization] Finished.
+[2025/04/08_04:39:51.991] [Iteration] =====15=====
+[2025/04/08_04:39:51.991] [SelfPlay] Start 7000
+[2025/04/08_04:44:41.832] [SelfPlay Progress] 500 / 2000
+[2025/04/08_04:49:39.179] [SelfPlay Progress] 1000 / 2000
+[2025/04/08_04:54:28.825] [SelfPlay Progress] 1500 / 2000
+[2025/04/08_04:59:28.270] [SelfPlay Progress] 2000 / 2000
+[2025/04/08_04:59:28.270] [SelfPlay] Finished.
+[2025/04/08_04:59:28.270] [SelfPlay # Finished Games] 2000
+[2025/04/08_04:59:28.270] [SelfPlay Min. Game Lengths] 32
+[2025/04/08_04:59:28.270] [SelfPlay Max. Game Lengths] 145
+[2025/04/08_04:59:28.270] [SelfPlay Avg. Game Lengths] 90.030998
+[2025/04/08_04:59:28.271] [SelfPlay Std. Game Lengths] 41.146965
+[2025/04/08_04:59:28.271] [SelfPlay Min. Game Returns] 0.799981
+[2025/04/08_04:59:28.271] [SelfPlay Max. Game Returns] 681.478027
+[2025/04/08_04:59:28.271] [SelfPlay Avg. Game Returns] 151.768585
+[2025/04/08_04:59:28.271] [SelfPlay Std. Game Returns] 129.821381
+[2025/04/08_04:59:28.271] [Optimization] Start.
+[2025/04/08_05:02:46.383] [Optimization] Finished.
+[2025/04/08_05:02:46.383] [Iteration] =====16=====
+[2025/04/08_05:02:46.383] [SelfPlay] Start 7500
+[2025/04/08_05:07:33.707] [SelfPlay Progress] 500 / 2000
+[2025/04/08_05:12:22.037] [SelfPlay Progress] 1000 / 2000
+[2025/04/08_05:17:18.171] [SelfPlay Progress] 1500 / 2000
+[2025/04/08_05:22:11.712] [SelfPlay Progress] 2000 / 2000
+[2025/04/08_05:22:11.712] [SelfPlay] Finished.
+[2025/04/08_05:22:11.712] [SelfPlay # Finished Games] 2000
+[2025/04/08_05:22:11.712] [SelfPlay Min. Game Lengths] 32
+[2025/04/08_05:22:11.712] [SelfPlay Max. Game Lengths] 145
+[2025/04/08_05:22:11.712] [SelfPlay Avg. Game Lengths] 95.539497
+[2025/04/08_05:22:11.712] [SelfPlay Std. Game Lengths] 40.880020
+[2025/04/08_05:22:11.712] [SelfPlay Min. Game Returns] -9.400000
+[2025/04/08_05:22:11.712] [SelfPlay Max. Game Returns] 722.900024
+[2025/04/08_05:22:11.712] [SelfPlay Avg. Game Returns] 147.040375
+[2025/04/08_05:22:11.712] [SelfPlay Std. Game Returns] 138.120758
+[2025/04/08_05:22:11.712] [Optimization] Start.
+[2025/04/08_05:25:26.723] [Optimization] Finished.
+[2025/04/08_05:25:26.723] [Iteration] =====17=====
+[2025/04/08_05:25:26.723] [SelfPlay] Start 8000
+[2025/04/08_05:29:59.155] [SelfPlay Progress] 500 / 2000
+[2025/04/08_05:34:53.605] [SelfPlay Progress] 1000 / 2000
+[2025/04/08_05:39:40.031] [SelfPlay Progress] 1500 / 2000
+[2025/04/08_05:44:43.987] [SelfPlay Progress] 2000 / 2000
+[2025/04/08_05:44:43.987] [SelfPlay] Finished.
+[2025/04/08_05:44:43.988] [SelfPlay # Finished Games] 2000
+[2025/04/08_05:44:43.988] [SelfPlay Min. Game Lengths] 32
+[2025/04/08_05:44:43.988] [SelfPlay Max. Game Lengths] 145
+[2025/04/08_05:44:43.988] [SelfPlay Avg. Game Lengths] 94.362000
+[2025/04/08_05:44:43.988] [SelfPlay Std. Game Lengths] 40.863564
+[2025/04/08_05:44:43.988] [SelfPlay Min. Game Returns] 0.799981
+[2025/04/08_05:44:43.988] [SelfPlay Max. Game Returns] 739.583984
+[2025/04/08_05:44:43.988] [SelfPlay Avg. Game Returns] 157.397156
+[2025/04/08_05:44:43.988] [SelfPlay Std. Game Returns] 142.019012
+[2025/04/08_05:44:43.988] [Optimization] Start.
+[2025/04/08_05:47:59.815] [Optimization] Finished.
+[2025/04/08_05:47:59.815] [Iteration] =====18=====
+[2025/04/08_05:47:59.815] [SelfPlay] Start 8500
+[2025/04/08_05:52:51.464] [SelfPlay Progress] 500 / 2000
+[2025/04/08_05:57:54.413] [SelfPlay Progress] 1000 / 2000
+[2025/04/08_06:02:49.258] [SelfPlay Progress] 1500 / 2000
+[2025/04/08_06:07:43.815] [SelfPlay Progress] 2000 / 2000
+[2025/04/08_06:07:43.815] [SelfPlay] Finished.
+[2025/04/08_06:07:43.815] [SelfPlay # Finished Games] 2000
+[2025/04/08_06:07:43.815] [SelfPlay Min. Game Lengths] 32
+[2025/04/08_06:07:43.815] [SelfPlay Max. Game Lengths] 145
+[2025/04/08_06:07:43.815] [SelfPlay Avg. Game Lengths] 89.295502
+[2025/04/08_06:07:43.815] [SelfPlay Std. Game Lengths] 40.794502
+[2025/04/08_06:07:43.815] [SelfPlay Min. Game Returns] 0.799981
+[2025/04/08_06:07:43.815] [SelfPlay Max. Game Returns] 710.640015
+[2025/04/08_06:07:43.815] [SelfPlay Avg. Game Returns] 163.399185
+[2025/04/08_06:07:43.815] [SelfPlay Std. Game Returns] 135.818695
+[2025/04/08_06:07:43.815] [Optimization] Start.
+[2025/04/08_06:10:54.811] [Optimization] Finished.
+[2025/04/08_06:10:54.811] [Iteration] =====19=====
+[2025/04/08_06:10:54.811] [SelfPlay] Start 9000
+[2025/04/08_06:15:35.039] [SelfPlay Progress] 500 / 2000
+[2025/04/08_06:20:24.077] [SelfPlay Progress] 1000 / 2000
+[2025/04/08_06:25:23.525] [SelfPlay Progress] 1500 / 2000
+[2025/04/08_06:30:25.481] [SelfPlay Progress] 2000 / 2000
+[2025/04/08_06:30:25.481] [SelfPlay] Finished.
+[2025/04/08_06:30:25.481] [SelfPlay # Finished Games] 2000
+[2025/04/08_06:30:25.481] [SelfPlay Min. Game Lengths] 32
+[2025/04/08_06:30:25.481] [SelfPlay Max. Game Lengths] 145
+[2025/04/08_06:30:25.482] [SelfPlay Avg. Game Lengths] 88.323997
+[2025/04/08_06:30:25.482] [SelfPlay Std. Game Lengths] 39.573311
+[2025/04/08_06:30:25.482] [SelfPlay Min. Game Returns] 0.799981
+[2025/04/08_06:30:25.482] [SelfPlay Max. Game Returns] 755.539978
+[2025/04/08_06:30:25.482] [SelfPlay Avg. Game Returns] 174.511856
+[2025/04/08_06:30:25.482] [SelfPlay Std. Game Returns] 139.617432
+[2025/04/08_06:30:25.482] [Optimization] Start.
+[2025/04/08_06:33:42.079] [Optimization] Finished.
+[2025/04/08_06:33:42.079] [Iteration] =====20=====
+[2025/04/08_06:33:42.079] [SelfPlay] Start 9500
+[2025/04/08_06:38:40.023] [SelfPlay Progress] 500 / 2000
+[2025/04/08_06:43:14.755] [SelfPlay Progress] 1000 / 2000
+[2025/04/08_06:48:17.414] [SelfPlay Progress] 1500 / 2000
+[2025/04/08_06:53:07.048] [SelfPlay Progress] 2000 / 2000
+[2025/04/08_06:53:07.048] [SelfPlay] Finished.
+[2025/04/08_06:53:07.048] [SelfPlay # Finished Games] 2000
+[2025/04/08_06:53:07.048] [SelfPlay Min. Game Lengths] 32
+[2025/04/08_06:53:07.048] [SelfPlay Max. Game Lengths] 145
+[2025/04/08_06:53:07.048] [SelfPlay Avg. Game Lengths] 86.622002
+[2025/04/08_06:53:07.048] [SelfPlay Std. Game Lengths] 41.024807
+[2025/04/08_06:53:07.048] [SelfPlay Min. Game Returns] 0.799981
+[2025/04/08_06:53:07.048] [SelfPlay Max. Game Returns] 712.140015
+[2025/04/08_06:53:07.048] [SelfPlay Avg. Game Returns] 176.874924
+[2025/04/08_06:53:07.048] [SelfPlay Std. Game Returns] 142.513336
+[2025/04/08_06:53:07.048] [Optimization] Start.
+[2025/04/08_06:56:19.100] [Optimization] Finished.
+[2025/04/08_06:56:19.100] [Iteration] =====21=====
+[2025/04/08_06:56:19.100] [SelfPlay] Start 10000
+[2025/04/08_07:01:11.135] [SelfPlay Progress] 500 / 2000
+[2025/04/08_07:06:06.461] [SelfPlay Progress] 1000 / 2000
+[2025/04/08_07:11:02.708] [SelfPlay Progress] 1500 / 2000
+[2025/04/08_07:16:00.456] [SelfPlay Progress] 2000 / 2000
+[2025/04/08_07:16:00.456] [SelfPlay] Finished.
+[2025/04/08_07:16:00.456] [SelfPlay # Finished Games] 2000
+[2025/04/08_07:16:00.456] [SelfPlay Min. Game Lengths] 32
+[2025/04/08_07:16:00.456] [SelfPlay Max. Game Lengths] 145
+[2025/04/08_07:16:00.456] [SelfPlay Avg. Game Lengths] 89.778000
+[2025/04/08_07:16:00.456] [SelfPlay Std. Game Lengths] 41.747841
+[2025/04/08_07:16:00.456] [SelfPlay Min. Game Returns] -9.400000
+[2025/04/08_07:16:00.456] [SelfPlay Max. Game Returns] 777.504028
+[2025/04/08_07:16:00.456] [SelfPlay Avg. Game Returns] 163.822495
+[2025/04/08_07:16:00.456] [SelfPlay Std. Game Returns] 145.124496
+[2025/04/08_07:16:00.456] [Optimization] Start.
+[2025/04/08_07:19:19.048] [Optimization] Finished.
+[2025/04/08_07:19:19.048] [Iteration] =====22=====
+[2025/04/08_07:19:19.048] [SelfPlay] Start 10500
+[2025/04/08_07:23:53.074] [SelfPlay Progress] 500 / 2000
+[2025/04/08_07:28:44.407] [SelfPlay Progress] 1000 / 2000
+[2025/04/08_07:33:47.048] [SelfPlay Progress] 1500 / 2000
+[2025/04/08_07:38:38.377] [SelfPlay Progress] 2000 / 2000
+[2025/04/08_07:38:38.377] [SelfPlay] Finished.
+[2025/04/08_07:38:38.377] [SelfPlay # Finished Games] 2000
+[2025/04/08_07:38:38.377] [SelfPlay Min. Game Lengths] 32
+[2025/04/08_07:38:38.377] [SelfPlay Max. Game Lengths] 145
+[2025/04/08_07:38:38.377] [SelfPlay Avg. Game Lengths] 92.000999
+[2025/04/08_07:38:38.378] [SelfPlay Std. Game Lengths] 40.720596
+[2025/04/08_07:38:38.378] [SelfPlay Min. Game Returns] 0.799981
+[2025/04/08_07:38:38.378] [SelfPlay Max. Game Returns] 784.018005
+[2025/04/08_07:38:38.378] [SelfPlay Avg. Game Returns] 170.035995
+[2025/04/08_07:38:38.378] [SelfPlay Std. Game Returns] 147.225800
+[2025/04/08_07:38:38.378] [Optimization] Start.
+[2025/04/08_07:41:53.227] [Optimization] Finished.
+[2025/04/08_07:41:53.227] [Iteration] =====23=====
+[2025/04/08_07:41:53.227] [SelfPlay] Start 11000
+[2025/04/08_07:46:37.942] [SelfPlay Progress] 500 / 2000
+[2025/04/08_07:51:25.880] [SelfPlay Progress] 1000 / 2000
+[2025/04/08_07:56:04.608] [SelfPlay Progress] 1500 / 2000
+[2025/04/08_08:00:51.024] [SelfPlay Progress] 2000 / 2000
+[2025/04/08_08:00:51.024] [SelfPlay] Finished.
+[2025/04/08_08:00:51.024] [SelfPlay # Finished Games] 2000
+[2025/04/08_08:00:51.024] [SelfPlay Min. Game Lengths] 32
+[2025/04/08_08:00:51.024] [SelfPlay Max. Game Lengths] 145
+[2025/04/08_08:00:51.024] [SelfPlay Avg. Game Lengths] 90.173500
+[2025/04/08_08:00:51.024] [SelfPlay Std. Game Lengths] 41.013771
+[2025/04/08_08:00:51.024] [SelfPlay Min. Game Returns] -4.300000
+[2025/04/08_08:00:51.024] [SelfPlay Max. Game Returns] 787.171021
+[2025/04/08_08:00:51.024] [SelfPlay Avg. Game Returns] 187.095612
+[2025/04/08_08:00:51.024] [SelfPlay Std. Game Returns] 155.707794
+[2025/04/08_08:00:51.024] [Optimization] Start.
+[2025/04/08_08:04:03.941] [Optimization] Finished.
+[2025/04/08_08:04:03.941] [Iteration] =====24=====
+[2025/04/08_08:04:03.941] [SelfPlay] Start 11500
+[2025/04/08_08:08:47.465] [SelfPlay Progress] 500 / 2000
+[2025/04/08_08:13:41.100] [SelfPlay Progress] 1000 / 2000
+[2025/04/08_08:18:34.736] [SelfPlay Progress] 1500 / 2000
+[2025/04/08_08:23:22.069] [SelfPlay Progress] 2000 / 2000
+[2025/04/08_08:23:22.069] [SelfPlay] Finished.
+[2025/04/08_08:23:22.069] [SelfPlay # Finished Games] 2000
+[2025/04/08_08:23:22.069] [SelfPlay Min. Game Lengths] 32
+[2025/04/08_08:23:22.069] [SelfPlay Max. Game Lengths] 145
+[2025/04/08_08:23:22.069] [SelfPlay Avg. Game Lengths] 87.932503
+[2025/04/08_08:23:22.069] [SelfPlay Std. Game Lengths] 41.747711
+[2025/04/08_08:23:22.069] [SelfPlay Min. Game Returns] -4.200000
+[2025/04/08_08:23:22.069] [SelfPlay Max. Game Returns] 781.317993
+[2025/04/08_08:23:22.069] [SelfPlay Avg. Game Returns] 185.120010
+[2025/04/08_08:23:22.069] [SelfPlay Std. Game Returns] 151.427155
+[2025/04/08_08:23:22.070] [Optimization] Start.
+[2025/04/08_08:26:40.208] [Optimization] Finished.
+[2025/04/08_08:26:40.209] [Iteration] =====25=====
+[2025/04/08_08:26:40.209] [SelfPlay] Start 12000
+[2025/04/08_08:31:28.342] [SelfPlay Progress] 500 / 2000
+[2025/04/08_08:36:14.065] [SelfPlay Progress] 1000 / 2000
+[2025/04/08_08:40:55.693] [SelfPlay Progress] 1500 / 2000
+[2025/04/08_08:45:48.143] [SelfPlay Progress] 2000 / 2000
+[2025/04/08_08:45:48.143] [SelfPlay] Finished.
+[2025/04/08_08:45:48.143] [SelfPlay # Finished Games] 2000
+[2025/04/08_08:45:48.143] [SelfPlay Min. Game Lengths] 32
+[2025/04/08_08:45:48.143] [SelfPlay Max. Game Lengths] 145
+[2025/04/08_08:45:48.143] [SelfPlay Avg. Game Lengths] 85.159500
+[2025/04/08_08:45:48.143] [SelfPlay Std. Game Lengths] 41.883091
+[2025/04/08_08:45:48.144] [SelfPlay Min. Game Returns] 0.799981
+[2025/04/08_08:45:48.144] [SelfPlay Max. Game Returns] 809.159973
+[2025/04/08_08:45:48.144] [SelfPlay Avg. Game Returns] 196.779770
+[2025/04/08_08:45:48.144] [SelfPlay Std. Game Returns] 157.594681
+[2025/04/08_08:45:48.144] [Optimization] Start.
+[2025/04/08_08:48:59.712] [Optimization] Finished.
+[2025/04/08_08:48:59.712] [Iteration] =====26=====
+[2025/04/08_08:48:59.712] [SelfPlay] Start 12500
+[2025/04/08_08:53:56.950] [SelfPlay Progress] 500 / 2000
+[2025/04/08_08:58:43.868] [SelfPlay Progress] 1000 / 2000
+[2025/04/08_09:03:44.725] [SelfPlay Progress] 1500 / 2000
+[2025/04/08_09:08:30.552] [SelfPlay Progress] 2000 / 2000
+[2025/04/08_09:08:30.552] [SelfPlay] Finished.
+[2025/04/08_09:08:30.552] [SelfPlay # Finished Games] 2000
+[2025/04/08_09:08:30.552] [SelfPlay Min. Game Lengths] 32
+[2025/04/08_09:08:30.552] [SelfPlay Max. Game Lengths] 145
+[2025/04/08_09:08:30.552] [SelfPlay Avg. Game Lengths] 88.166496
+[2025/04/08_09:08:30.552] [SelfPlay Std. Game Lengths] 41.752766
+[2025/04/08_09:08:30.552] [SelfPlay Min. Game Returns] 0.799981
+[2025/04/08_09:08:30.552] [SelfPlay Max. Game Returns] 775.900024
+[2025/04/08_09:08:30.552] [SelfPlay Avg. Game Returns] 189.757812
+[2025/04/08_09:08:30.552] [SelfPlay Std. Game Returns] 155.194824
+[2025/04/08_09:08:30.552] [Optimization] Start.
+[2025/04/08_09:11:40.067] [Optimization] Finished.
+[2025/04/08_09:11:40.067] [Iteration] =====27=====
+[2025/04/08_09:11:40.067] [SelfPlay] Start 13000
+[2025/04/08_09:16:21.286] [SelfPlay Progress] 500 / 2000
+[2025/04/08_09:21:02.028] [SelfPlay Progress] 1000 / 2000
+[2025/04/08_09:25:43.359] [SelfPlay Progress] 1500 / 2000
+[2025/04/08_09:30:24.479] [SelfPlay Progress] 2000 / 2000
+[2025/04/08_09:30:24.479] [SelfPlay] Finished.
+[2025/04/08_09:30:24.479] [SelfPlay # Finished Games] 2000
+[2025/04/08_09:30:24.479] [SelfPlay Min. Game Lengths] 32
+[2025/04/08_09:30:24.479] [SelfPlay Max. Game Lengths] 145
+[2025/04/08_09:30:24.479] [SelfPlay Avg. Game Lengths] 88.282997
+[2025/04/08_09:30:24.479] [SelfPlay Std. Game Lengths] 42.342548
+[2025/04/08_09:30:24.479] [SelfPlay Min. Game Returns] 0.799981
+[2025/04/08_09:30:24.479] [SelfPlay Max. Game Returns] 804.083984
+[2025/04/08_09:30:24.479] [SelfPlay Avg. Game Returns] 199.205124
+[2025/04/08_09:30:24.479] [SelfPlay Std. Game Returns] 164.522217
+[2025/04/08_09:30:24.479] [Optimization] Start.
+[2025/04/08_09:33:38.105] [Optimization] Finished.
+[2025/04/08_09:33:38.105] [Iteration] =====28=====
+[2025/04/08_09:33:38.105] [SelfPlay] Start 13500
+[2025/04/08_09:38:01.223] [SelfPlay Progress] 500 / 2000
+[2025/04/08_09:42:34.447] [SelfPlay Progress] 1000 / 2000
+[2025/04/08_09:47:23.379] [SelfPlay Progress] 1500 / 2000
+[2025/04/08_09:52:00.299] [SelfPlay Progress] 2000 / 2000
+[2025/04/08_09:52:00.299] [SelfPlay] Finished.
+[2025/04/08_09:52:00.299] [SelfPlay # Finished Games] 2000
+[2025/04/08_09:52:00.299] [SelfPlay Min. Game Lengths] 32
+[2025/04/08_09:52:00.299] [SelfPlay Max. Game Lengths] 145
+[2025/04/08_09:52:00.299] [SelfPlay Avg. Game Lengths] 82.957497
+[2025/04/08_09:52:00.299] [SelfPlay Std. Game Lengths] 41.510712
+[2025/04/08_09:52:00.299] [SelfPlay Min. Game Returns] -4.200000
+[2025/04/08_09:52:00.299] [SelfPlay Max. Game Returns] 774.599976
+[2025/04/08_09:52:00.299] [SelfPlay Avg. Game Returns] 217.217743
+[2025/04/08_09:52:00.299] [SelfPlay Std. Game Returns] 168.796631
+[2025/04/08_09:52:00.299] [Optimization] Start.
+[2025/04/08_09:55:17.060] [Optimization] Finished.
+[2025/04/08_09:55:17.060] [Iteration] =====29=====
+[2025/04/08_09:55:17.060] [SelfPlay] Start 14000
+[2025/04/08_10:00:03.684] [SelfPlay Progress] 500 / 2000
+[2025/04/08_10:04:59.642] [SelfPlay Progress] 1000 / 2000
+[2025/04/08_10:09:40.960] [SelfPlay Progress] 1500 / 2000
+[2025/04/08_10:14:29.681] [SelfPlay Progress] 2000 / 2000
+[2025/04/08_10:14:29.681] [SelfPlay] Finished.
+[2025/04/08_10:14:29.681] [SelfPlay # Finished Games] 2000
+[2025/04/08_10:14:29.682] [SelfPlay Min. Game Lengths] 32
+[2025/04/08_10:14:29.682] [SelfPlay Max. Game Lengths] 145
+[2025/04/08_10:14:29.682] [SelfPlay Avg. Game Lengths] 85.368500
+[2025/04/08_10:14:29.682] [SelfPlay Std. Game Lengths] 42.599720
+[2025/04/08_10:14:29.682] [SelfPlay Min. Game Returns] -4.200000
+[2025/04/08_10:14:29.682] [SelfPlay Max. Game Returns] 816.838013
+[2025/04/08_10:14:29.682] [SelfPlay Avg. Game Returns] 224.424118
+[2025/04/08_10:14:29.682] [SelfPlay Std. Game Returns] 177.427094
+[2025/04/08_10:14:29.682] [Optimization] Start.
+[2025/04/08_10:17:46.825] [Optimization] Finished.
+[2025/04/08_10:17:46.825] [Iteration] =====30=====
+[2025/04/08_10:17:46.825] [SelfPlay] Start 14500
+[2025/04/08_10:22:13.819] [SelfPlay Progress] 500 / 2000
+[2025/04/08_10:27:08.773] [SelfPlay Progress] 1000 / 2000
+[2025/04/08_10:31:52.491] [SelfPlay Progress] 1500 / 2000
+[2025/04/08_10:36:35.531] [SelfPlay Progress] 2000 / 2000
+[2025/04/08_10:36:35.531] [SelfPlay] Finished.
+[2025/04/08_10:36:35.531] [SelfPlay # Finished Games] 2000
+[2025/04/08_10:36:35.531] [SelfPlay Min. Game Lengths] 32
+[2025/04/08_10:36:35.531] [SelfPlay Max. Game Lengths] 145
+[2025/04/08_10:36:35.531] [SelfPlay Avg. Game Lengths] 86.112999
+[2025/04/08_10:36:35.531] [SelfPlay Std. Game Lengths] 42.627182
+[2025/04/08_10:36:35.531] [SelfPlay Min. Game Returns] -4.200000
+[2025/04/08_10:36:35.531] [SelfPlay Max. Game Returns] 779.804016
+[2025/04/08_10:36:35.531] [SelfPlay Avg. Game Returns] 216.678772
+[2025/04/08_10:36:35.531] [SelfPlay Std. Game Returns] 174.788956
+[2025/04/08_10:36:35.531] [Optimization] Start.
+[2025/04/08_10:39:54.644] [Optimization] Finished.
+[2025/04/08_10:39:54.644] [Iteration] =====31=====
+[2025/04/08_10:39:54.644] [SelfPlay] Start 15000
+[2025/04/08_10:44:41.276] [SelfPlay Progress] 500 / 2000
+[2025/04/08_10:49:20.490] [SelfPlay Progress] 1000 / 2000
+[2025/04/08_10:53:50.305] [SelfPlay Progress] 1500 / 2000
+[2025/04/08_10:58:32.727] [SelfPlay Progress] 2000 / 2000
+[2025/04/08_10:58:32.727] [SelfPlay] Finished.
+[2025/04/08_10:58:32.727] [SelfPlay # Finished Games] 2000
+[2025/04/08_10:58:32.727] [SelfPlay Min. Game Lengths] 32
+[2025/04/08_10:58:32.727] [SelfPlay Max. Game Lengths] 145
+[2025/04/08_10:58:32.727] [SelfPlay Avg. Game Lengths] 88.448502
+[2025/04/08_10:58:32.728] [SelfPlay Std. Game Lengths] 43.759018
+[2025/04/08_10:58:32.728] [SelfPlay Min. Game Returns] 0.799981
+[2025/04/08_10:58:32.728] [SelfPlay Max. Game Returns] 791.171021
+[2025/04/08_10:58:32.728] [SelfPlay Avg. Game Returns] 219.732346
+[2025/04/08_10:58:32.728] [SelfPlay Std. Game Returns] 180.540283
+[2025/04/08_10:58:32.728] [Optimization] Start.
+[2025/04/08_11:01:38.032] [Optimization] Finished.
+[2025/04/08_11:01:38.032] [Iteration] =====32=====
+[2025/04/08_11:01:38.032] [SelfPlay] Start 15500
+[2025/04/08_11:06:21.581] [SelfPlay Progress] 500 / 2000
+[2025/04/08_11:10:43.082] [SelfPlay Progress] 1000 / 2000
+[2025/04/08_11:15:08.502] [SelfPlay Progress] 1500 / 2000
+[2025/04/08_11:19:45.339] [SelfPlay Progress] 2000 / 2000
+[2025/04/08_11:19:45.339] [SelfPlay] Finished.
+[2025/04/08_11:19:45.339] [SelfPlay # Finished Games] 2000
+[2025/04/08_11:19:45.339] [SelfPlay Min. Game Lengths] 32
+[2025/04/08_11:19:45.339] [SelfPlay Max. Game Lengths] 145
+[2025/04/08_11:19:45.339] [SelfPlay Avg. Game Lengths] 86.713501
+[2025/04/08_11:19:45.339] [SelfPlay Std. Game Lengths] 43.596924
+[2025/04/08_11:19:45.339] [SelfPlay Min. Game Returns] -4.200000
+[2025/04/08_11:19:45.339] [SelfPlay Max. Game Returns] 812.143982
+[2025/04/08_11:19:45.339] [SelfPlay Avg. Game Returns] 220.548203
+[2025/04/08_11:19:45.339] [SelfPlay Std. Game Returns] 183.381592
+[2025/04/08_11:19:45.339] [Optimization] Start.
+[2025/04/08_11:22:50.151] [Optimization] Finished.
+[2025/04/08_11:22:50.151] [Iteration] =====33=====
+[2025/04/08_11:22:50.151] [SelfPlay] Start 16000
+[2025/04/08_11:27:11.859] [SelfPlay Progress] 500 / 2000
+[2025/04/08_11:31:41.691] [SelfPlay Progress] 1000 / 2000
+[2025/04/08_11:36:17.223] [SelfPlay Progress] 1500 / 2000
+[2025/04/08_11:41:01.058] [SelfPlay Progress] 2000 / 2000
+[2025/04/08_11:41:01.058] [SelfPlay] Finished.
+[2025/04/08_11:41:01.058] [SelfPlay # Finished Games] 2000
+[2025/04/08_11:41:01.058] [SelfPlay Min. Game Lengths] 32
+[2025/04/08_11:41:01.058] [SelfPlay Max. Game Lengths] 145
+[2025/04/08_11:41:01.058] [SelfPlay Avg. Game Lengths] 81.136002
+[2025/04/08_11:41:01.058] [SelfPlay Std. Game Lengths] 42.861324
+[2025/04/08_11:41:01.058] [SelfPlay Min. Game Returns] 0.799981
+[2025/04/08_11:41:01.058] [SelfPlay Max. Game Returns] 786.039978
+[2025/04/08_11:41:01.058] [SelfPlay Avg. Game Returns] 246.285828
+[2025/04/08_11:41:01.058] [SelfPlay Std. Game Returns] 183.287201
+[2025/04/08_11:41:01.059] [Optimization] Start.
+[2025/04/08_11:44:05.313] [Optimization] Finished.
+[2025/04/08_11:44:05.313] [Iteration] =====34=====
+[2025/04/08_11:44:05.313] [SelfPlay] Start 16500
+[2025/04/08_11:48:24.532] [SelfPlay Progress] 500 / 2000
+[2025/04/08_11:53:00.966] [SelfPlay Progress] 1000 / 2000
+[2025/04/08_11:57:39.799] [SelfPlay Progress] 1500 / 2000
+[2025/04/08_12:02:06.010] [SelfPlay Progress] 2000 / 2000
+[2025/04/08_12:02:06.010] [SelfPlay] Finished.
+[2025/04/08_12:02:06.010] [SelfPlay # Finished Games] 2000
+[2025/04/08_12:02:06.010] [SelfPlay Min. Game Lengths] 32
+[2025/04/08_12:02:06.010] [SelfPlay Max. Game Lengths] 145
+[2025/04/08_12:02:06.010] [SelfPlay Avg. Game Lengths] 81.872002
+[2025/04/08_12:02:06.010] [SelfPlay Std. Game Lengths] 43.206055
+[2025/04/08_12:02:06.010] [SelfPlay Min. Game Returns] -4.200000
+[2025/04/08_12:02:06.010] [SelfPlay Max. Game Returns] 805.883972
+[2025/04/08_12:02:06.010] [SelfPlay Avg. Game Returns] 247.993378
+[2025/04/08_12:02:06.010] [SelfPlay Std. Game Returns] 185.248886
+[2025/04/08_12:02:06.010] [Optimization] Start.
+[2025/04/08_12:05:11.878] [Optimization] Finished.
+[2025/04/08_12:05:11.878] [Iteration] =====35=====
+[2025/04/08_12:05:11.878] [SelfPlay] Start 17000
+[2025/04/08_12:09:42.095] [SelfPlay Progress] 500 / 2000
+[2025/04/08_12:14:25.120] [SelfPlay Progress] 1000 / 2000
+[2025/04/08_12:18:47.151] [SelfPlay Progress] 1500 / 2000
+[2025/04/08_12:23:08.967] [SelfPlay Progress] 2000 / 2000
+[2025/04/08_12:23:08.967] [SelfPlay] Finished.
+[2025/04/08_12:23:08.967] [SelfPlay # Finished Games] 2000
+[2025/04/08_12:23:08.967] [SelfPlay Min. Game Lengths] 32
+[2025/04/08_12:23:08.967] [SelfPlay Max. Game Lengths] 145
+[2025/04/08_12:23:08.967] [SelfPlay Avg. Game Lengths] 86.019997
+[2025/04/08_12:23:08.967] [SelfPlay Std. Game Lengths] 44.124382
+[2025/04/08_12:23:08.967] [SelfPlay Min. Game Returns] -9.300000
+[2025/04/08_12:23:08.967] [SelfPlay Max. Game Returns] 820.551025
+[2025/04/08_12:23:08.967] [SelfPlay Avg. Game Returns] 246.473511
+[2025/04/08_12:23:08.967] [SelfPlay Std. Game Returns] 198.400558
+[2025/04/08_12:23:08.967] [Optimization] Start.
+[2025/04/08_12:26:13.712] [Optimization] Finished.
+[2025/04/08_12:26:13.712] [Iteration] =====36=====
+[2025/04/08_12:26:13.712] [SelfPlay] Start 17500
+[2025/04/08_12:30:32.829] [SelfPlay Progress] 500 / 2000
+[2025/04/08_12:34:35.915] [SelfPlay Progress] 1000 / 2000
+[2025/04/08_12:37:43.193] [SelfPlay Progress] 1500 / 2000
+[2025/04/08_12:40:52.975] [SelfPlay Progress] 2000 / 2000
+[2025/04/08_12:40:52.975] [SelfPlay] Finished.
+[2025/04/08_12:40:52.975] [SelfPlay # Finished Games] 2000
+[2025/04/08_12:40:52.975] [SelfPlay Min. Game Lengths] 32
+[2025/04/08_12:40:52.975] [SelfPlay Max. Game Lengths] 145
+[2025/04/08_12:40:52.975] [SelfPlay Avg. Game Lengths] 79.901001
+[2025/04/08_12:40:52.975] [SelfPlay Std. Game Lengths] 43.643860
+[2025/04/08_12:40:52.975] [SelfPlay Min. Game Returns] -9.300000
+[2025/04/08_12:40:52.975] [SelfPlay Max. Game Returns] 816.838013
+[2025/04/08_12:40:52.975] [SelfPlay Avg. Game Returns] 260.443268
+[2025/04/08_12:40:52.976] [SelfPlay Std. Game Returns] 195.472504
+[2025/04/08_12:40:52.976] [Optimization] Start.
+[2025/04/08_12:44:00.307] [Optimization] Finished.
+[2025/04/08_12:44:00.308] [Iteration] =====37=====
+[2025/04/08_12:44:00.308] [SelfPlay] Start 18000
+[2025/04/08_12:48:12.803] [SelfPlay Progress] 500 / 2000
+[2025/04/08_12:52:38.502] [SelfPlay Progress] 1000 / 2000
+[2025/04/08_12:56:59.208] [SelfPlay Progress] 1500 / 2000
+[2025/04/08_13:01:08.308] [SelfPlay Progress] 2000 / 2000
+[2025/04/08_13:01:08.309] [SelfPlay] Finished.
+[2025/04/08_13:01:08.309] [SelfPlay # Finished Games] 2000
+[2025/04/08_13:01:08.309] [SelfPlay Min. Game Lengths] 32
+[2025/04/08_13:01:08.309] [SelfPlay Max. Game Lengths] 145
+[2025/04/08_13:01:08.309] [SelfPlay Avg. Game Lengths] 79.041496
+[2025/04/08_13:01:08.309] [SelfPlay Std. Game Lengths] 42.912674
+[2025/04/08_13:01:08.309] [SelfPlay Min. Game Returns] -9.300000
+[2025/04/08_13:01:08.309] [SelfPlay Max. Game Returns] 820.640015
+[2025/04/08_13:01:08.309] [SelfPlay Avg. Game Returns] 266.008362
+[2025/04/08_13:01:08.309] [SelfPlay Std. Game Returns] 191.602081
+[2025/04/08_13:01:08.309] [Optimization] Start.
+[2025/04/08_13:04:14.632] [Optimization] Finished.
+[2025/04/08_13:04:14.632] [Iteration] =====38=====
+[2025/04/08_13:04:14.632] [SelfPlay] Start 18500
+[2025/04/08_13:08:39.056] [SelfPlay Progress] 500 / 2000
+[2025/04/08_13:13:09.280] [SelfPlay Progress] 1000 / 2000
+[2025/04/08_13:17:39.406] [SelfPlay Progress] 1500 / 2000
+[2025/04/08_13:21:58.512] [SelfPlay Progress] 2000 / 2000
+[2025/04/08_13:21:58.512] [SelfPlay] Finished.
+[2025/04/08_13:21:58.512] [SelfPlay # Finished Games] 2000
+[2025/04/08_13:21:58.512] [SelfPlay Min. Game Lengths] 32
+[2025/04/08_13:21:58.512] [SelfPlay Max. Game Lengths] 145
+[2025/04/08_13:21:58.512] [SelfPlay Avg. Game Lengths] 77.401001
+[2025/04/08_13:21:58.512] [SelfPlay Std. Game Lengths] 43.062321
+[2025/04/08_13:21:58.512] [SelfPlay Min. Game Returns] -4.200000
+[2025/04/08_13:21:58.512] [SelfPlay Max. Game Returns] 805.883972
+[2025/04/08_13:21:58.512] [SelfPlay Avg. Game Returns] 283.501160
+[2025/04/08_13:21:58.512] [SelfPlay Std. Game Returns] 198.787476
+[2025/04/08_13:21:58.512] [Optimization] Start.
+[2025/04/08_13:25:04.825] [Optimization] Finished.
+[2025/04/08_13:25:04.825] [Iteration] =====39=====
+[2025/04/08_13:25:04.825] [SelfPlay] Start 19000
+[2025/04/08_13:29:24.843] [SelfPlay Progress] 500 / 2000
+[2025/04/08_13:33:51.153] [SelfPlay Progress] 1000 / 2000
+[2025/04/08_13:37:58.532] [SelfPlay Progress] 1500 / 2000
+[2025/04/08_13:42:22.848] [SelfPlay Progress] 2000 / 2000
+[2025/04/08_13:42:22.848] [SelfPlay] Finished.
+[2025/04/08_13:42:22.848] [SelfPlay # Finished Games] 2000
+[2025/04/08_13:42:22.848] [SelfPlay Min. Game Lengths] 32
+[2025/04/08_13:42:22.849] [SelfPlay Max. Game Lengths] 145
+[2025/04/08_13:42:22.849] [SelfPlay Avg. Game Lengths] 81.585999
+[2025/04/08_13:42:22.849] [SelfPlay Std. Game Lengths] 43.583061
+[2025/04/08_13:42:22.849] [SelfPlay Min. Game Returns] -4.199990
+[2025/04/08_13:42:22.849] [SelfPlay Max. Game Returns] 820.340027
+[2025/04/08_13:42:22.849] [SelfPlay Avg. Game Returns] 278.279907
+[2025/04/08_13:42:22.849] [SelfPlay Std. Game Returns] 207.067871
+[2025/04/08_13:42:22.849] [Optimization] Start.
+[2025/04/08_13:45:29.621] [Optimization] Finished.
+[2025/04/08_13:45:29.621] [Iteration] =====40=====
+[2025/04/08_13:45:29.621] [SelfPlay] Start 19500
+[2025/04/08_13:49:56.142] [SelfPlay Progress] 500 / 2000
+[2025/04/08_13:54:25.160] [SelfPlay Progress] 1000 / 2000
+[2025/04/08_13:58:45.969] [SelfPlay Progress] 1500 / 2000
+[2025/04/08_14:03:09.282] [SelfPlay Progress] 2000 / 2000
+[2025/04/08_14:03:09.283] [SelfPlay] Finished.
+[2025/04/08_14:03:09.283] [SelfPlay # Finished Games] 2000
+[2025/04/08_14:03:09.283] [SelfPlay Min. Game Lengths] 32
+[2025/04/08_14:03:09.283] [SelfPlay Max. Game Lengths] 145
+[2025/04/08_14:03:09.283] [SelfPlay Avg. Game Lengths] 80.470497
+[2025/04/08_14:03:09.283] [SelfPlay Std. Game Lengths] 43.477516
+[2025/04/08_14:03:09.283] [SelfPlay Min. Game Returns] 0.799981
+[2025/04/08_14:03:09.283] [SelfPlay Max. Game Returns] 830.799988
+[2025/04/08_14:03:09.283] [SelfPlay Avg. Game Returns] 286.412903
+[2025/04/08_14:03:09.283] [SelfPlay Std. Game Returns] 206.345108
+[2025/04/08_14:03:09.283] [Optimization] Start.
+[2025/04/08_14:06:15.863] [Optimization] Finished.
+[2025/04/08_14:06:15.863] [Iteration] =====41=====
+[2025/04/08_14:06:15.863] [SelfPlay] Start 20000
+[2025/04/08_14:10:22.769] [SelfPlay Progress] 500 / 2000
+[2025/04/08_14:14:43.264] [SelfPlay Progress] 1000 / 2000
+[2025/04/08_14:19:15.688] [SelfPlay Progress] 1500 / 2000
+[2025/04/08_14:23:36.605] [SelfPlay Progress] 2000 / 2000
+[2025/04/08_14:23:36.605] [SelfPlay] Finished.
+[2025/04/08_14:23:36.605] [SelfPlay # Finished Games] 2000
+[2025/04/08_14:23:36.605] [SelfPlay Min. Game Lengths] 32
+[2025/04/08_14:23:36.605] [SelfPlay Max. Game Lengths] 145
+[2025/04/08_14:23:36.605] [SelfPlay Avg. Game Lengths] 73.518997
+[2025/04/08_14:23:36.605] [SelfPlay Std. Game Lengths] 41.599770
+[2025/04/08_14:23:36.605] [SelfPlay Min. Game Returns] -9.300000
+[2025/04/08_14:23:36.605] [SelfPlay Max. Game Returns] 831.299988
+[2025/04/08_14:23:36.605] [SelfPlay Avg. Game Returns] 307.942444
+[2025/04/08_14:23:36.605] [SelfPlay Std. Game Returns] 203.962936
+[2025/04/08_14:23:36.605] [Optimization] Start.
+[2025/04/08_14:26:38.880] [Optimization] Finished.
+[2025/04/08_14:26:38.880] [Iteration] =====42=====
+[2025/04/08_14:26:38.880] [SelfPlay] Start 20500
+[2025/04/08_14:30:34.852] [SelfPlay Progress] 500 / 2000
+[2025/04/08_14:34:46.148] [SelfPlay Progress] 1000 / 2000
+[2025/04/08_14:38:37.010] [SelfPlay Progress] 1500 / 2000
+[2025/04/08_14:42:38.981] [SelfPlay Progress] 2000 / 2000
+[2025/04/08_14:42:38.982] [SelfPlay] Finished.
+[2025/04/08_14:42:38.982] [SelfPlay # Finished Games] 2000
+[2025/04/08_14:42:38.982] [SelfPlay Min. Game Lengths] 32
+[2025/04/08_14:42:38.982] [SelfPlay Max. Game Lengths] 145
+[2025/04/08_14:42:38.982] [SelfPlay Avg. Game Lengths] 76.831001
+[2025/04/08_14:42:38.982] [SelfPlay Std. Game Lengths] 42.900860
+[2025/04/08_14:42:38.982] [SelfPlay Min. Game Returns] -9.300000
+[2025/04/08_14:42:38.982] [SelfPlay Max. Game Returns] 846.304016
+[2025/04/08_14:42:38.982] [SelfPlay Avg. Game Returns] 300.706024
+[2025/04/08_14:42:38.982] [SelfPlay Std. Game Returns] 208.001862
+[2025/04/08_14:42:38.982] [Optimization] Start.
+[2025/04/08_14:45:48.005] [Optimization] Finished.
+[2025/04/08_14:45:48.005] [Iteration] =====43=====
+[2025/04/08_14:45:48.005] [SelfPlay] Start 21000
+[2025/04/08_14:49:25.842] [SelfPlay Progress] 500 / 2000
+[2025/04/08_14:53:20.407] [SelfPlay Progress] 1000 / 2000
+[2025/04/08_14:57:37.895] [SelfPlay Progress] 1500 / 2000
+[2025/04/08_15:01:42.073] [SelfPlay Progress] 2000 / 2000
+[2025/04/08_15:01:42.073] [SelfPlay] Finished.
+[2025/04/08_15:01:42.073] [SelfPlay # Finished Games] 2000
+[2025/04/08_15:01:42.073] [SelfPlay Min. Game Lengths] 32
+[2025/04/08_15:01:42.073] [SelfPlay Max. Game Lengths] 145
+[2025/04/08_15:01:42.073] [SelfPlay Avg. Game Lengths] 76.841003
+[2025/04/08_15:01:42.074] [SelfPlay Std. Game Lengths] 43.606644
+[2025/04/08_15:01:42.074] [SelfPlay Min. Game Returns] -4.200000
+[2025/04/08_15:01:42.074] [SelfPlay Max. Game Returns] 805.984009
+[2025/04/08_15:01:42.074] [SelfPlay Avg. Game Returns] 317.302185
+[2025/04/08_15:01:42.074] [SelfPlay Std. Game Returns] 219.760910
+[2025/04/08_15:01:42.074] [Optimization] Start.
+[2025/04/08_15:04:44.680] [Optimization] Finished.
+[2025/04/08_15:04:44.680] [Iteration] =====44=====
+[2025/04/08_15:04:44.680] [SelfPlay] Start 21500
+[2025/04/08_15:08:22.028] [SelfPlay Progress] 500 / 2000
+[2025/04/08_15:11:56.175] [SelfPlay Progress] 1000 / 2000
+[2025/04/08_15:16:06.561] [SelfPlay Progress] 1500 / 2000
+[2025/04/08_15:20:21.957] [SelfPlay Progress] 2000 / 2000
+[2025/04/08_15:20:21.957] [SelfPlay] Finished.
+[2025/04/08_15:20:21.957] [SelfPlay # Finished Games] 2000
+[2025/04/08_15:20:21.957] [SelfPlay Min. Game Lengths] 32
+[2025/04/08_15:20:21.957] [SelfPlay Max. Game Lengths] 145
+[2025/04/08_15:20:21.957] [SelfPlay Avg. Game Lengths] 72.411499
+[2025/04/08_15:20:21.957] [SelfPlay Std. Game Lengths] 42.689522
+[2025/04/08_15:20:21.958] [SelfPlay Min. Game Returns] -4.200000
+[2025/04/08_15:20:21.958] [SelfPlay Max. Game Returns] 826.900024
+[2025/04/08_15:20:21.958] [SelfPlay Avg. Game Returns] 328.182434
+[2025/04/08_15:20:21.958] [SelfPlay Std. Game Returns] 215.459061
+[2025/04/08_15:20:21.958] [Optimization] Start.
+[2025/04/08_15:23:28.024] [Optimization] Finished.
+[2025/04/08_15:23:28.024] [Iteration] =====45=====
+[2025/04/08_15:23:28.024] [SelfPlay] Start 22000
+[2025/04/08_15:27:42.121] [SelfPlay Progress] 500 / 2000
+[2025/04/08_15:31:49.816] [SelfPlay Progress] 1000 / 2000
+[2025/04/08_15:36:04.714] [SelfPlay Progress] 1500 / 2000
+[2025/04/08_15:40:27.223] [SelfPlay Progress] 2000 / 2000
+[2025/04/08_15:40:27.223] [SelfPlay] Finished.
+[2025/04/08_15:40:27.223] [SelfPlay # Finished Games] 2000
+[2025/04/08_15:40:27.223] [SelfPlay Min. Game Lengths] 32
+[2025/04/08_15:40:27.223] [SelfPlay Max. Game Lengths] 145
+[2025/04/08_15:40:27.223] [SelfPlay Avg. Game Lengths] 74.050003
+[2025/04/08_15:40:27.223] [SelfPlay Std. Game Lengths] 43.030552
+[2025/04/08_15:40:27.223] [SelfPlay Min. Game Returns] -9.300000
+[2025/04/08_15:40:27.223] [SelfPlay Max. Game Returns] 804.984009
+[2025/04/08_15:40:27.223] [SelfPlay Avg. Game Returns] 328.727600
+[2025/04/08_15:40:27.223] [SelfPlay Std. Game Returns] 221.797455
+[2025/04/08_15:40:27.223] [Optimization] Start.
+[2025/04/08_15:43:30.254] [Optimization] Finished.
+[2025/04/08_15:43:30.254] [Iteration] =====46=====
+[2025/04/08_15:43:30.254] [SelfPlay] Start 22500
+[2025/04/08_15:47:43.360] [SelfPlay Progress] 500 / 2000
+[2025/04/08_15:52:11.975] [SelfPlay Progress] 1000 / 2000
+[2025/04/08_15:56:14.866] [SelfPlay Progress] 1500 / 2000
+[2025/04/08_16:00:33.778] [SelfPlay Progress] 2000 / 2000
+[2025/04/08_16:00:33.779] [SelfPlay] Finished.
+[2025/04/08_16:00:33.779] [SelfPlay # Finished Games] 2000
+[2025/04/08_16:00:33.779] [SelfPlay Min. Game Lengths] 32
+[2025/04/08_16:00:33.779] [SelfPlay Max. Game Lengths] 145
+[2025/04/08_16:00:33.779] [SelfPlay Avg. Game Lengths] 79.644997
+[2025/04/08_16:00:33.779] [SelfPlay Std. Game Lengths] 43.988800
+[2025/04/08_16:00:33.779] [SelfPlay Min. Game Returns] -9.300000
+[2025/04/08_16:00:33.779] [SelfPlay Max. Game Returns] 830.700012
+[2025/04/08_16:00:33.779] [SelfPlay Avg. Game Returns] 314.471222
+[2025/04/08_16:00:33.779] [SelfPlay Std. Game Returns] 224.971146
+[2025/04/08_16:00:33.779] [Optimization] Start.
+[2025/04/08_16:03:36.550] [Optimization] Finished.
+[2025/04/08_16:03:36.550] [Iteration] =====47=====
+[2025/04/08_16:03:36.551] [SelfPlay] Start 23000
+[2025/04/08_16:07:41.735] [SelfPlay Progress] 500 / 2000
+[2025/04/08_16:12:01.757] [SelfPlay Progress] 1000 / 2000
+[2025/04/08_16:16:13.555] [SelfPlay Progress] 1500 / 2000
+[2025/04/08_16:20:27.468] [SelfPlay Progress] 2000 / 2000
+[2025/04/08_16:20:27.468] [SelfPlay] Finished.
+[2025/04/08_16:20:27.468] [SelfPlay # Finished Games] 2000
+[2025/04/08_16:20:27.468] [SelfPlay Min. Game Lengths] 32
+[2025/04/08_16:20:27.468] [SelfPlay Max. Game Lengths] 145
+[2025/04/08_16:20:27.469] [SelfPlay Avg. Game Lengths] 77.893501
+[2025/04/08_16:20:27.469] [SelfPlay Std. Game Lengths] 43.555122
+[2025/04/08_16:20:27.469] [SelfPlay Min. Game Returns] -9.300000
+[2025/04/08_16:20:27.469] [SelfPlay Max. Game Returns] 842.940002
+[2025/04/08_16:20:27.469] [SelfPlay Avg. Game Returns] 331.216400
+[2025/04/08_16:20:27.469] [SelfPlay Std. Game Returns] 223.967758
+[2025/04/08_16:20:27.469] [Optimization] Start.
+[2025/04/08_16:23:28.801] [Optimization] Finished.
+[2025/04/08_16:23:28.801] [Iteration] =====48=====
+[2025/04/08_16:23:28.801] [SelfPlay] Start 23500
+[2025/04/08_16:27:36.905] [SelfPlay Progress] 500 / 2000
+[2025/04/08_16:31:44.808] [SelfPlay Progress] 1000 / 2000
+[2025/04/08_16:35:52.210] [SelfPlay Progress] 1500 / 2000
+[2025/04/08_16:40:10.814] [SelfPlay Progress] 2000 / 2000
+[2025/04/08_16:40:10.814] [SelfPlay] Finished.
+[2025/04/08_16:40:10.814] [SelfPlay # Finished Games] 2000
+[2025/04/08_16:40:10.814] [SelfPlay Min. Game Lengths] 32
+[2025/04/08_16:40:10.814] [SelfPlay Max. Game Lengths] 145
+[2025/04/08_16:40:10.814] [SelfPlay Avg. Game Lengths] 72.052498
+[2025/04/08_16:40:10.814] [SelfPlay Std. Game Lengths] 43.085983
+[2025/04/08_16:40:10.814] [SelfPlay Min. Game Returns] -9.300000
+[2025/04/08_16:40:10.814] [SelfPlay Max. Game Returns] 842.640015
+[2025/04/08_16:40:10.814] [SelfPlay Avg. Game Returns] 347.628021
+[2025/04/08_16:40:10.814] [SelfPlay Std. Game Returns] 227.070114
+[2025/04/08_16:40:10.814] [Optimization] Start.
+[2025/04/08_16:43:11.864] [Optimization] Finished.
+[2025/04/08_16:43:11.864] [Iteration] =====49=====
+[2025/04/08_16:43:11.864] [SelfPlay] Start 24000
+[2025/04/08_16:47:18.783] [SelfPlay Progress] 500 / 2000
+[2025/04/08_16:51:30.384] [SelfPlay Progress] 1000 / 2000
+[2025/04/08_16:55:33.487] [SelfPlay Progress] 1500 / 2000
+[2025/04/08_16:59:48.006] [SelfPlay Progress] 2000 / 2000
+[2025/04/08_16:59:48.007] [SelfPlay] Finished.
+[2025/04/08_16:59:48.007] [SelfPlay # Finished Games] 2000
+[2025/04/08_16:59:48.007] [SelfPlay Min. Game Lengths] 32
+[2025/04/08_16:59:48.007] [SelfPlay Max. Game Lengths] 145
+[2025/04/08_16:59:48.007] [SelfPlay Avg. Game Lengths] 73.097000
+[2025/04/08_16:59:48.007] [SelfPlay Std. Game Lengths] 42.784363
+[2025/04/08_16:59:48.007] [SelfPlay Min. Game Returns] -9.300000
+[2025/04/08_16:59:48.007] [SelfPlay Max. Game Returns] 842.140015
+[2025/04/08_16:59:48.007] [SelfPlay Avg. Game Returns] 345.267792
+[2025/04/08_16:59:48.007] [SelfPlay Std. Game Returns] 218.247955
+[2025/04/08_16:59:48.007] [Optimization] Start.
+[2025/04/08_17:02:46.673] [Optimization] Finished.
+[2025/04/08_17:02:46.673] [Iteration] =====50=====
+[2025/04/08_17:02:46.673] [SelfPlay] Start 24500
+[2025/04/08_17:06:48.573] [SelfPlay Progress] 500 / 2000
+[2025/04/08_17:10:55.468] [SelfPlay Progress] 1000 / 2000
+[2025/04/08_17:15:02.483] [SelfPlay Progress] 1500 / 2000
+[2025/04/08_17:19:09.572] [SelfPlay Progress] 2000 / 2000
+[2025/04/08_17:19:09.573] [SelfPlay] Finished.
+[2025/04/08_17:19:09.573] [SelfPlay # Finished Games] 2000
+[2025/04/08_17:19:09.573] [SelfPlay Min. Game Lengths] 32
+[2025/04/08_17:19:09.573] [SelfPlay Max. Game Lengths] 145
+[2025/04/08_17:19:09.573] [SelfPlay Avg. Game Lengths] 72.016502
+[2025/04/08_17:19:09.573] [SelfPlay Std. Game Lengths] 43.469070
+[2025/04/08_17:19:09.573] [SelfPlay Min. Game Returns] -4.200000
+[2025/04/08_17:19:09.573] [SelfPlay Max. Game Returns] 835.840027
+[2025/04/08_17:19:09.573] [SelfPlay Avg. Game Returns] 352.575165
+[2025/04/08_17:19:09.573] [SelfPlay Std. Game Returns] 232.734695
+[2025/04/08_17:19:09.573] [Optimization] Start.
+[2025/04/08_17:22:12.684] [Optimization] Finished.
+[2025/04/08_17:22:12.684] [Iteration] =====51=====
+[2025/04/08_17:22:12.684] [SelfPlay] Start 25000
+[2025/04/08_17:26:11.574] [SelfPlay Progress] 500 / 2000
+[2025/04/08_17:30:25.289] [SelfPlay Progress] 1000 / 2000
+[2025/04/08_17:34:24.775] [SelfPlay Progress] 1500 / 2000
+[2025/04/08_17:38:33.766] [SelfPlay Progress] 2000 / 2000
+[2025/04/08_17:38:33.766] [SelfPlay] Finished.
+[2025/04/08_17:38:33.766] [SelfPlay # Finished Games] 2000
+[2025/04/08_17:38:33.766] [SelfPlay Min. Game Lengths] 32
+[2025/04/08_17:38:33.766] [SelfPlay Max. Game Lengths] 145
+[2025/04/08_17:38:33.766] [SelfPlay Avg. Game Lengths] 71.453003
+[2025/04/08_17:38:33.766] [SelfPlay Std. Game Lengths] 43.448093
+[2025/04/08_17:38:33.766] [SelfPlay Min. Game Returns] -4.200000
+[2025/04/08_17:38:33.766] [SelfPlay Max. Game Returns] 816.237976
+[2025/04/08_17:38:33.766] [SelfPlay Avg. Game Returns] 359.572693
+[2025/04/08_17:38:33.766] [SelfPlay Std. Game Returns] 230.958527
+[2025/04/08_17:38:33.766] [Optimization] Start.
+[2025/04/08_17:41:36.603] [Optimization] Finished.
+[2025/04/08_17:41:36.603] [Iteration] =====52=====
+[2025/04/08_17:41:36.603] [SelfPlay] Start 25500
+[2025/04/08_17:45:40.695] [SelfPlay Progress] 500 / 2000
+[2025/04/08_17:49:59.397] [SelfPlay Progress] 1000 / 2000
+[2025/04/08_17:54:16.610] [SelfPlay Progress] 1500 / 2000
+[2025/04/08_17:58:19.293] [SelfPlay Progress] 2000 / 2000
+[2025/04/08_17:58:19.294] [SelfPlay] Finished.
+[2025/04/08_17:58:19.294] [SelfPlay # Finished Games] 2000
+[2025/04/08_17:58:19.294] [SelfPlay Min. Game Lengths] 32
+[2025/04/08_17:58:19.294] [SelfPlay Max. Game Lengths] 145
+[2025/04/08_17:58:19.294] [SelfPlay Avg. Game Lengths] 74.257500
+[2025/04/08_17:58:19.294] [SelfPlay Std. Game Lengths] 43.752663
+[2025/04/08_17:58:19.294] [SelfPlay Min. Game Returns] -9.400000
+[2025/04/08_17:58:19.294] [SelfPlay Max. Game Returns] 804.083984
+[2025/04/08_17:58:19.294] [SelfPlay Avg. Game Returns] 351.972351
+[2025/04/08_17:58:19.294] [SelfPlay Std. Game Returns] 233.510849
+[2025/04/08_17:58:19.294] [Optimization] Start.
+[2025/04/08_18:01:22.332] [Optimization] Finished.
+[2025/04/08_18:01:22.332] [Iteration] =====53=====
+[2025/04/08_18:01:22.332] [SelfPlay] Start 26000
+[2025/04/08_18:05:21.018] [SelfPlay Progress] 500 / 2000
+[2025/04/08_18:09:19.392] [SelfPlay Progress] 1000 / 2000
+[2025/04/08_18:13:18.981] [SelfPlay Progress] 1500 / 2000
+[2025/04/08_18:17:24.478] [SelfPlay Progress] 2000 / 2000
+[2025/04/08_18:17:24.478] [SelfPlay] Finished.
+[2025/04/08_18:17:24.478] [SelfPlay # Finished Games] 2000
+[2025/04/08_18:17:24.478] [SelfPlay Min. Game Lengths] 32
+[2025/04/08_18:17:24.478] [SelfPlay Max. Game Lengths] 145
+[2025/04/08_18:17:24.478] [SelfPlay Avg. Game Lengths] 71.221497
+[2025/04/08_18:17:24.478] [SelfPlay Std. Game Lengths] 43.135181
+[2025/04/08_18:17:24.478] [SelfPlay Min. Game Returns] -9.300000
+[2025/04/08_18:17:24.479] [SelfPlay Max. Game Returns] 829.900024
+[2025/04/08_18:17:24.479] [SelfPlay Avg. Game Returns] 370.941254
+[2025/04/08_18:17:24.479] [SelfPlay Std. Game Returns] 232.209641
+[2025/04/08_18:17:24.479] [Optimization] Start.
+[2025/04/08_18:20:28.899] [Optimization] Finished.
+[2025/04/08_18:20:28.899] [Iteration] =====54=====
+[2025/04/08_18:20:28.899] [SelfPlay] Start 26500
+[2025/04/08_18:24:39.897] [SelfPlay Progress] 500 / 2000
+[2025/04/08_18:28:54.302] [SelfPlay Progress] 1000 / 2000
+[2025/04/08_18:32:57.788] [SelfPlay Progress] 1500 / 2000
+[2025/04/08_18:37:08.591] [SelfPlay Progress] 2000 / 2000
+[2025/04/08_18:37:08.591] [SelfPlay] Finished.
+[2025/04/08_18:37:08.591] [SelfPlay # Finished Games] 2000
+[2025/04/08_18:37:08.591] [SelfPlay Min. Game Lengths] 32
+[2025/04/08_18:37:08.591] [SelfPlay Max. Game Lengths] 145
+[2025/04/08_18:37:08.591] [SelfPlay Avg. Game Lengths] 75.462997
+[2025/04/08_18:37:08.592] [SelfPlay Std. Game Lengths] 44.503494
+[2025/04/08_18:37:08.592] [SelfPlay Min. Game Returns] -9.300000
+[2025/04/08_18:37:08.592] [SelfPlay Max. Game Returns] 822.551025
+[2025/04/08_18:37:08.592] [SelfPlay Avg. Game Returns] 345.813782
+[2025/04/08_18:37:08.592] [SelfPlay Std. Game Returns] 235.006866
+[2025/04/08_18:37:08.592] [Optimization] Start.
+[2025/04/08_18:40:11.053] [Optimization] Finished.
+[2025/04/08_18:40:11.054] [Iteration] =====55=====
+[2025/04/08_18:40:11.054] [SelfPlay] Start 27000
+[2025/04/08_18:44:14.547] [SelfPlay Progress] 500 / 2000
+[2025/04/08_18:48:11.026] [SelfPlay Progress] 1000 / 2000
+[2025/04/08_18:52:16.441] [SelfPlay Progress] 1500 / 2000
+[2025/04/08_18:56:26.134] [SelfPlay Progress] 2000 / 2000
+[2025/04/08_18:56:26.134] [SelfPlay] Finished.
+[2025/04/08_18:56:26.134] [SelfPlay # Finished Games] 2000
+[2025/04/08_18:56:26.134] [SelfPlay Min. Game Lengths] 32
+[2025/04/08_18:56:26.134] [SelfPlay Max. Game Lengths] 145
+[2025/04/08_18:56:26.134] [SelfPlay Avg. Game Lengths] 70.971001
+[2025/04/08_18:56:26.134] [SelfPlay Std. Game Lengths] 42.761810
+[2025/04/08_18:56:26.134] [SelfPlay Min. Game Returns] -4.200000
+[2025/04/08_18:56:26.134] [SelfPlay Max. Game Returns] 842.940002
+[2025/04/08_18:56:26.134] [SelfPlay Avg. Game Returns] 376.768372
+[2025/04/08_18:56:26.134] [SelfPlay Std. Game Returns] 230.583954
+[2025/04/08_18:56:26.134] [Optimization] Start.
+[2025/04/08_18:59:27.949] [Optimization] Finished.
+[2025/04/08_18:59:27.949] [Iteration] =====56=====
+[2025/04/08_18:59:27.949] [SelfPlay] Start 27500
+[2025/04/08_19:03:11.424] [SelfPlay Progress] 500 / 2000
+[2025/04/08_19:07:10.721] [SelfPlay Progress] 1000 / 2000
+[2025/04/08_19:11:10.996] [SelfPlay Progress] 1500 / 2000
+[2025/04/08_19:15:07.978] [SelfPlay Progress] 2000 / 2000
+[2025/04/08_19:15:07.978] [SelfPlay] Finished.
+[2025/04/08_19:15:07.978] [SelfPlay # Finished Games] 2000
+[2025/04/08_19:15:07.978] [SelfPlay Min. Game Lengths] 32
+[2025/04/08_19:15:07.978] [SelfPlay Max. Game Lengths] 145
+[2025/04/08_19:15:07.978] [SelfPlay Avg. Game Lengths] 64.873497
+[2025/04/08_19:15:07.978] [SelfPlay Std. Game Lengths] 39.864773
+[2025/04/08_19:15:07.978] [SelfPlay Min. Game Returns] -9.400000
+[2025/04/08_19:15:07.978] [SelfPlay Max. Game Returns] 831.200012
+[2025/04/08_19:15:07.978] [SelfPlay Avg. Game Returns] 394.391296
+[2025/04/08_19:15:07.978] [SelfPlay Std. Game Returns] 216.624130
+[2025/04/08_19:15:07.978] [Optimization] Start.
+[2025/04/08_19:18:11.434] [Optimization] Finished.
+[2025/04/08_19:18:11.434] [Iteration] =====57=====
+[2025/04/08_19:18:11.434] [SelfPlay] Start 28000
+[2025/04/08_19:21:57.102] [SelfPlay Progress] 500 / 2000
+[2025/04/08_19:25:54.987] [SelfPlay Progress] 1000 / 2000
+[2025/04/08_19:29:42.675] [SelfPlay Progress] 1500 / 2000
+[2025/04/08_19:33:41.058] [SelfPlay Progress] 2000 / 2000
+[2025/04/08_19:33:41.058] [SelfPlay] Finished.
+[2025/04/08_19:33:41.058] [SelfPlay # Finished Games] 2000
+[2025/04/08_19:33:41.058] [SelfPlay Min. Game Lengths] 32
+[2025/04/08_19:33:41.058] [SelfPlay Max. Game Lengths] 145
+[2025/04/08_19:33:41.058] [SelfPlay Avg. Game Lengths] 66.121002
+[2025/04/08_19:33:41.058] [SelfPlay Std. Game Lengths] 40.724571
+[2025/04/08_19:33:41.058] [SelfPlay Min. Game Returns] -4.200000
+[2025/04/08_19:33:41.058] [SelfPlay Max. Game Returns] 842.739990
+[2025/04/08_19:33:41.058] [SelfPlay Avg. Game Returns] 407.865173
+[2025/04/08_19:33:41.058] [SelfPlay Std. Game Returns] 228.946045
+[2025/04/08_19:33:41.058] [Optimization] Start.
+[2025/04/08_19:36:44.559] [Optimization] Finished.
+[2025/04/08_19:36:44.559] [Iteration] =====58=====
+[2025/04/08_19:36:44.559] [SelfPlay] Start 28500
+[2025/04/08_19:40:37.229] [SelfPlay Progress] 500 / 2000
+[2025/04/08_19:44:35.003] [SelfPlay Progress] 1000 / 2000
+[2025/04/08_19:48:22.963] [SelfPlay Progress] 1500 / 2000
+[2025/04/08_19:52:18.442] [SelfPlay Progress] 2000 / 2000
+[2025/04/08_19:52:18.442] [SelfPlay] Finished.
+[2025/04/08_19:52:18.442] [SelfPlay # Finished Games] 2000
+[2025/04/08_19:52:18.442] [SelfPlay Min. Game Lengths] 32
+[2025/04/08_19:52:18.442] [SelfPlay Max. Game Lengths] 145
+[2025/04/08_19:52:18.442] [SelfPlay Avg. Game Lengths] 63.487499
+[2025/04/08_19:52:18.442] [SelfPlay Std. Game Lengths] 38.465813
+[2025/04/08_19:52:18.442] [SelfPlay Min. Game Returns] -9.300000
+[2025/04/08_19:52:18.442] [SelfPlay Max. Game Returns] 843.039978
+[2025/04/08_19:52:18.442] [SelfPlay Avg. Game Returns] 408.262756
+[2025/04/08_19:52:18.442] [SelfPlay Std. Game Returns] 213.242798
+[2025/04/08_19:52:18.442] [Optimization] Start.
+[2025/04/08_19:55:19.874] [Optimization] Finished.
+[2025/04/08_19:55:19.874] [Iteration] =====59=====
+[2025/04/08_19:55:19.874] [SelfPlay] Start 29000
+[2025/04/08_19:59:20.962] [SelfPlay Progress] 500 / 2000
+[2025/04/08_20:03:25.753] [SelfPlay Progress] 1000 / 2000
+[2025/04/08_20:07:19.843] [SelfPlay Progress] 1500 / 2000
+[2025/04/08_20:11:23.231] [SelfPlay Progress] 2000 / 2000
+[2025/04/08_20:11:23.231] [SelfPlay] Finished.
+[2025/04/08_20:11:23.231] [SelfPlay # Finished Games] 2000
+[2025/04/08_20:11:23.231] [SelfPlay Min. Game Lengths] 32
+[2025/04/08_20:11:23.231] [SelfPlay Max. Game Lengths] 145
+[2025/04/08_20:11:23.231] [SelfPlay Avg. Game Lengths] 68.055000
+[2025/04/08_20:11:23.232] [SelfPlay Std. Game Lengths] 41.447968
+[2025/04/08_20:11:23.232] [SelfPlay Min. Game Returns] -4.200000
+[2025/04/08_20:11:23.232] [SelfPlay Max. Game Returns] 842.640015
+[2025/04/08_20:11:23.232] [SelfPlay Avg. Game Returns] 377.842010
+[2025/04/08_20:11:23.232] [SelfPlay Std. Game Returns] 218.951828
+[2025/04/08_20:11:23.232] [Optimization] Start.
+[2025/04/08_20:14:25.946] [Optimization] Finished.
+[2025/04/08_20:14:25.946] [Iteration] =====60=====
+[2025/04/08_20:14:25.946] [SelfPlay] Start 29500
+[2025/04/08_20:18:12.229] [SelfPlay Progress] 500 / 2000
+[2025/04/08_20:22:06.408] [SelfPlay Progress] 1000 / 2000
+[2025/04/08_20:26:08.395] [SelfPlay Progress] 1500 / 2000
+[2025/04/08_20:30:11.191] [SelfPlay Progress] 2000 / 2000
+[2025/04/08_20:30:11.191] [SelfPlay] Finished.
+[2025/04/08_20:30:11.191] [SelfPlay # Finished Games] 2000
+[2025/04/08_20:30:11.191] [SelfPlay Min. Game Lengths] 32
+[2025/04/08_20:30:11.191] [SelfPlay Max. Game Lengths] 145
+[2025/04/08_20:30:11.191] [SelfPlay Avg. Game Lengths] 66.666496
+[2025/04/08_20:30:11.191] [SelfPlay Std. Game Lengths] 42.213249
+[2025/04/08_20:30:11.191] [SelfPlay Min. Game Returns] -4.200000
+[2025/04/08_20:30:11.191] [SelfPlay Max. Game Returns] 816.638000
+[2025/04/08_20:30:11.191] [SelfPlay Avg. Game Returns] 381.132843
+[2025/04/08_20:30:11.191] [SelfPlay Std. Game Returns] 220.159637
+[2025/04/08_20:30:11.191] [Optimization] Start.
+[2025/04/08_20:33:18.142] [Optimization] Finished.
+[2025/04/08_20:33:18.142] [Iteration] =====61=====
+[2025/04/08_20:33:18.142] [SelfPlay] Start 30000
+[2025/04/08_20:37:19.128] [SelfPlay Progress] 500 / 2000
+[2025/04/08_20:41:18.306] [SelfPlay Progress] 1000 / 2000
+[2025/04/08_20:45:11.093] [SelfPlay Progress] 1500 / 2000
+[2025/04/08_20:49:15.970] [SelfPlay Progress] 2000 / 2000
+[2025/04/08_20:49:15.970] [SelfPlay] Finished.
+[2025/04/08_20:49:15.970] [SelfPlay # Finished Games] 2000
+[2025/04/08_20:49:15.970] [SelfPlay Min. Game Lengths] 32
+[2025/04/08_20:49:15.970] [SelfPlay Max. Game Lengths] 145
+[2025/04/08_20:49:15.971] [SelfPlay Avg. Game Lengths] 66.861504
+[2025/04/08_20:49:15.971] [SelfPlay Std. Game Lengths] 41.198483
+[2025/04/08_20:49:15.971] [SelfPlay Min. Game Returns] -9.300000
+[2025/04/08_20:49:15.971] [SelfPlay Max. Game Returns] 843.039978
+[2025/04/08_20:49:15.971] [SelfPlay Avg. Game Returns] 388.621613
+[2025/04/08_20:49:15.971] [SelfPlay Std. Game Returns] 220.263702
+[2025/04/08_20:49:15.971] [Optimization] Start.
+[2025/04/08_20:52:22.926] [Optimization] Finished.
+[2025/04/08_20:52:22.927] [Iteration] =====62=====
+[2025/04/08_20:52:22.927] [SelfPlay] Start 30500
+[2025/04/08_20:55:56.279] [SelfPlay Progress] 500 / 2000
+[2025/04/08_20:59:45.158] [SelfPlay Progress] 1000 / 2000
+[2025/04/08_21:03:29.816] [SelfPlay Progress] 1500 / 2000
+[2025/04/08_21:07:09.776] [SelfPlay Progress] 2000 / 2000
+[2025/04/08_21:07:09.776] [SelfPlay] Finished.
+[2025/04/08_21:07:09.776] [SelfPlay # Finished Games] 2000
+[2025/04/08_21:07:09.776] [SelfPlay Min. Game Lengths] 32
+[2025/04/08_21:07:09.776] [SelfPlay Max. Game Lengths] 145
+[2025/04/08_21:07:09.776] [SelfPlay Avg. Game Lengths] 59.614498
+[2025/04/08_21:07:09.776] [SelfPlay Std. Game Lengths] 38.631348
+[2025/04/08_21:07:09.776] [SelfPlay Min. Game Returns] -9.300000
+[2025/04/08_21:07:09.776] [SelfPlay Max. Game Returns] 843.039978
+[2025/04/08_21:07:09.777] [SelfPlay Avg. Game Returns] 423.170868
+[2025/04/08_21:07:09.777] [SelfPlay Std. Game Returns] 214.437378
+[2025/04/08_21:07:09.777] [Optimization] Start.
+[2025/04/08_21:10:17.291] [Optimization] Finished.
+[2025/04/08_21:10:17.291] [Iteration] =====63=====
+[2025/04/08_21:10:17.291] [SelfPlay] Start 31000
+[2025/04/08_21:14:05.960] [SelfPlay Progress] 500 / 2000
+[2025/04/08_21:18:04.139] [SelfPlay Progress] 1000 / 2000
+[2025/04/08_21:22:01.207] [SelfPlay Progress] 1500 / 2000
+[2025/04/08_21:26:06.385] [SelfPlay Progress] 2000 / 2000
+[2025/04/08_21:26:06.385] [SelfPlay] Finished.
+[2025/04/08_21:26:06.385] [SelfPlay # Finished Games] 2000
+[2025/04/08_21:26:06.385] [SelfPlay Min. Game Lengths] 32
+[2025/04/08_21:26:06.385] [SelfPlay Max. Game Lengths] 145
+[2025/04/08_21:26:06.385] [SelfPlay Avg. Game Lengths] 66.318001
+[2025/04/08_21:26:06.385] [SelfPlay Std. Game Lengths] 42.365837
+[2025/04/08_21:26:06.385] [SelfPlay Min. Game Returns] -9.300000
+[2025/04/08_21:26:06.385] [SelfPlay Max. Game Returns] 842.940002
+[2025/04/08_21:26:06.385] [SelfPlay Avg. Game Returns] 393.211945
+[2025/04/08_21:26:06.385] [SelfPlay Std. Game Returns] 228.305435
+[2025/04/08_21:26:06.385] [Optimization] Start.
+[2025/04/08_21:29:24.783] [Optimization] Finished.
+[2025/04/08_21:29:24.783] [Iteration] =====64=====
+[2025/04/08_21:29:24.783] [SelfPlay] Start 31500
+[2025/04/08_21:33:39.979] [SelfPlay Progress] 500 / 2000
+[2025/04/08_21:37:58.878] [SelfPlay Progress] 1000 / 2000
+[2025/04/08_21:42:04.865] [SelfPlay Progress] 1500 / 2000
+[2025/04/08_21:46:14.535] [SelfPlay Progress] 2000 / 2000
+[2025/04/08_21:46:14.536] [SelfPlay] Finished.
+[2025/04/08_21:46:14.536] [SelfPlay # Finished Games] 2000
+[2025/04/08_21:46:14.536] [SelfPlay Min. Game Lengths] 32
+[2025/04/08_21:46:14.536] [SelfPlay Max. Game Lengths] 145
+[2025/04/08_21:46:14.536] [SelfPlay Avg. Game Lengths] 71.010498
+[2025/04/08_21:46:14.536] [SelfPlay Std. Game Lengths] 44.113323
+[2025/04/08_21:46:14.536] [SelfPlay Min. Game Returns] -4.300000
+[2025/04/08_21:46:14.536] [SelfPlay Max. Game Returns] 843.140015
+[2025/04/08_21:46:14.536] [SelfPlay Avg. Game Returns] 384.294037
+[2025/04/08_21:46:14.536] [SelfPlay Std. Game Returns] 236.026642
+[2025/04/08_21:46:14.536] [Optimization] Start.
+[2025/04/08_21:49:29.319] [Optimization] Finished.
+[2025/04/08_21:49:29.319] [Iteration] =====65=====
+[2025/04/08_21:49:29.319] [SelfPlay] Start 32000
+[2025/04/08_21:53:31.293] [SelfPlay Progress] 500 / 2000
+[2025/04/08_21:57:44.587] [SelfPlay Progress] 1000 / 2000
+[2025/04/08_22:01:53.284] [SelfPlay Progress] 1500 / 2000
+[2025/04/08_22:05:54.272] [SelfPlay Progress] 2000 / 2000
+[2025/04/08_22:05:54.272] [SelfPlay] Finished.
+[2025/04/08_22:05:54.272] [SelfPlay # Finished Games] 2000
+[2025/04/08_22:05:54.272] [SelfPlay Min. Game Lengths] 32
+[2025/04/08_22:05:54.272] [SelfPlay Max. Game Lengths] 145
+[2025/04/08_22:05:54.272] [SelfPlay Avg. Game Lengths] 66.878502
+[2025/04/08_22:05:54.272] [SelfPlay Std. Game Lengths] 40.792557
+[2025/04/08_22:05:54.272] [SelfPlay Min. Game Returns] 0.799981
+[2025/04/08_22:05:54.272] [SelfPlay Max. Game Returns] 843.140015
+[2025/04/08_22:05:54.272] [SelfPlay Avg. Game Returns] 403.572968
+[2025/04/08_22:05:54.272] [SelfPlay Std. Game Returns] 221.084885
+[2025/04/08_22:05:54.272] [Optimization] Start.
+[2025/04/08_22:09:11.655] [Optimization] Finished.
+[2025/04/08_22:09:11.655] [Iteration] =====66=====
+[2025/04/08_22:09:11.655] [SelfPlay] Start 32500
+[2025/04/08_22:13:10.929] [SelfPlay Progress] 500 / 2000
+[2025/04/08_22:17:27.730] [SelfPlay Progress] 1000 / 2000
+[2025/04/08_22:21:33.807] [SelfPlay Progress] 1500 / 2000
+[2025/04/08_22:25:53.602] [SelfPlay Progress] 2000 / 2000
+[2025/04/08_22:25:53.602] [SelfPlay] Finished.
+[2025/04/08_22:25:53.602] [SelfPlay # Finished Games] 2000
+[2025/04/08_22:25:53.602] [SelfPlay Min. Game Lengths] 32
+[2025/04/08_22:25:53.602] [SelfPlay Max. Game Lengths] 145
+[2025/04/08_22:25:53.603] [SelfPlay Avg. Game Lengths] 69.718498
+[2025/04/08_22:25:53.603] [SelfPlay Std. Game Lengths] 43.611984
+[2025/04/08_22:25:53.603] [SelfPlay Min. Game Returns] -4.200000
+[2025/04/08_22:25:53.603] [SelfPlay Max. Game Returns] 843.039978
+[2025/04/08_22:25:53.603] [SelfPlay Avg. Game Returns] 395.576355
+[2025/04/08_22:25:53.603] [SelfPlay Std. Game Returns] 239.387207
+[2025/04/08_22:25:53.603] [Optimization] Start.
+[2025/04/08_22:29:13.882] [Optimization] Finished.
+[2025/04/08_22:29:13.882] [Iteration] =====67=====
+[2025/04/08_22:29:13.882] [SelfPlay] Start 33000
+[2025/04/08_22:33:07.449] [SelfPlay Progress] 500 / 2000
+[2025/04/08_22:37:16.138] [SelfPlay Progress] 1000 / 2000
+[2025/04/08_22:41:19.314] [SelfPlay Progress] 1500 / 2000
+[2025/04/08_22:45:24.988] [SelfPlay Progress] 2000 / 2000
+[2025/04/08_22:45:24.988] [SelfPlay] Finished.
+[2025/04/08_22:45:24.988] [SelfPlay # Finished Games] 2000
+[2025/04/08_22:45:24.988] [SelfPlay Min. Game Lengths] 32
+[2025/04/08_22:45:24.989] [SelfPlay Max. Game Lengths] 145
+[2025/04/08_22:45:24.989] [SelfPlay Avg. Game Lengths] 66.081497
+[2025/04/08_22:45:24.989] [SelfPlay Std. Game Lengths] 41.087429
+[2025/04/08_22:45:24.989] [SelfPlay Min. Game Returns] -9.300000
+[2025/04/08_22:45:24.989] [SelfPlay Max. Game Returns] 843.140015
+[2025/04/08_22:45:24.989] [SelfPlay Avg. Game Returns] 414.404541
+[2025/04/08_22:45:24.989] [SelfPlay Std. Game Returns] 231.446136
+[2025/04/08_22:45:24.989] [Optimization] Start.
+[2025/04/08_22:48:45.303] [Optimization] Finished.
+[2025/04/08_22:48:45.303] [Iteration] =====68=====
+[2025/04/08_22:48:45.303] [SelfPlay] Start 33500
+[2025/04/08_22:52:42.097] [SelfPlay Progress] 500 / 2000
+[2025/04/08_22:56:36.673] [SelfPlay Progress] 1000 / 2000
+[2025/04/08_23:00:30.246] [SelfPlay Progress] 1500 / 2000
+[2025/04/08_23:04:38.943] [SelfPlay Progress] 2000 / 2000
+[2025/04/08_23:04:38.944] [SelfPlay] Finished.
+[2025/04/08_23:04:38.944] [SelfPlay # Finished Games] 2000
+[2025/04/08_23:04:38.944] [SelfPlay Min. Game Lengths] 32
+[2025/04/08_23:04:38.944] [SelfPlay Max. Game Lengths] 145
+[2025/04/08_23:04:38.944] [SelfPlay Avg. Game Lengths] 63.696999
+[2025/04/08_23:04:38.944] [SelfPlay Std. Game Lengths] 39.809731
+[2025/04/08_23:04:38.944] [SelfPlay Min. Game Returns] -9.300000
+[2025/04/08_23:04:38.944] [SelfPlay Max. Game Returns] 843.140015
+[2025/04/08_23:04:38.944] [SelfPlay Avg. Game Returns] 421.585510
+[2025/04/08_23:04:38.944] [SelfPlay Std. Game Returns] 220.115341
+[2025/04/08_23:04:38.944] [Optimization] Start.
+[2025/04/08_23:07:57.504] [Optimization] Finished.
+[2025/04/08_23:07:57.505] [Iteration] =====69=====
+[2025/04/08_23:07:57.505] [SelfPlay] Start 34000
+[2025/04/08_23:11:56.380] [SelfPlay Progress] 500 / 2000
+[2025/04/08_23:16:00.556] [SelfPlay Progress] 1000 / 2000
+[2025/04/08_23:20:03.245] [SelfPlay Progress] 1500 / 2000
+[2025/04/08_23:23:54.433] [SelfPlay Progress] 2000 / 2000
+[2025/04/08_23:23:54.434] [SelfPlay] Finished.
+[2025/04/08_23:23:54.434] [SelfPlay # Finished Games] 2000
+[2025/04/08_23:23:54.434] [SelfPlay Min. Game Lengths] 32
+[2025/04/08_23:23:54.434] [SelfPlay Max. Game Lengths] 145
+[2025/04/08_23:23:54.434] [SelfPlay Avg. Game Lengths] 64.531998
+[2025/04/08_23:23:54.434] [SelfPlay Std. Game Lengths] 39.766251
+[2025/04/08_23:23:54.434] [SelfPlay Min. Game Returns] -4.300000
+[2025/04/08_23:23:54.434] [SelfPlay Max. Game Returns] 843.140015
+[2025/04/08_23:23:54.434] [SelfPlay Avg. Game Returns] 434.384827
+[2025/04/08_23:23:54.434] [SelfPlay Std. Game Returns] 226.915985
+[2025/04/08_23:23:54.434] [Optimization] Start.
+[2025/04/08_23:27:13.279] [Optimization] Finished.
+[2025/04/08_23:27:13.279] [Iteration] =====70=====
+[2025/04/08_23:27:13.279] [SelfPlay] Start 34500
+[2025/04/08_23:31:26.877] [SelfPlay Progress] 500 / 2000
+[2025/04/08_23:35:44.079] [SelfPlay Progress] 1000 / 2000
+[2025/04/08_23:39:42.858] [SelfPlay Progress] 1500 / 2000
+[2025/04/08_23:43:56.844] [SelfPlay Progress] 2000 / 2000
+[2025/04/08_23:43:56.844] [SelfPlay] Finished.
+[2025/04/08_23:43:56.844] [SelfPlay # Finished Games] 2000
+[2025/04/08_23:43:56.844] [SelfPlay Min. Game Lengths] 32
+[2025/04/08_23:43:56.844] [SelfPlay Max. Game Lengths] 145
+[2025/04/08_23:43:56.844] [SelfPlay Avg. Game Lengths] 69.217003
+[2025/04/08_23:43:56.844] [SelfPlay Std. Game Lengths] 42.082947
+[2025/04/08_23:43:56.844] [SelfPlay Min. Game Returns] -4.199990
+[2025/04/08_23:43:56.845] [SelfPlay Max. Game Returns] 843.140015
+[2025/04/08_23:43:56.845] [SelfPlay Avg. Game Returns] 409.452301
+[2025/04/08_23:43:56.845] [SelfPlay Std. Game Returns] 238.334610
+[2025/04/08_23:43:56.845] [Optimization] Start.
+[2025/04/08_23:47:18.071] [Optimization] Finished.
+[2025/04/08_23:47:18.071] [Iteration] =====71=====
+[2025/04/08_23:47:18.071] [SelfPlay] Start 35000
+[2025/04/08_23:51:05.649] [SelfPlay Progress] 500 / 2000
+[2025/04/08_23:55:18.643] [SelfPlay Progress] 1000 / 2000
+[2025/04/08_23:59:26.029] [SelfPlay Progress] 1500 / 2000
+[2025/04/09_00:03:22.496] [SelfPlay Progress] 2000 / 2000
+[2025/04/09_00:03:22.497] [SelfPlay] Finished.
+[2025/04/09_00:03:22.497] [SelfPlay # Finished Games] 2000
+[2025/04/09_00:03:22.497] [SelfPlay Min. Game Lengths] 32
+[2025/04/09_00:03:22.497] [SelfPlay Max. Game Lengths] 145
+[2025/04/09_00:03:22.497] [SelfPlay Avg. Game Lengths] 68.037498
+[2025/04/09_00:03:22.497] [SelfPlay Std. Game Lengths] 41.144363
+[2025/04/09_00:03:22.497] [SelfPlay Min. Game Returns] -4.200000
+[2025/04/09_00:03:22.497] [SelfPlay Max. Game Returns] 843.140015
+[2025/04/09_00:03:22.497] [SelfPlay Avg. Game Returns] 419.890564
+[2025/04/09_00:03:22.497] [SelfPlay Std. Game Returns] 238.565094
+[2025/04/09_00:03:22.497] [Optimization] Start.
+[2025/04/09_00:06:43.621] [Optimization] Finished.
+[2025/04/09_00:06:43.621] [Iteration] =====72=====
+[2025/04/09_00:06:43.621] [SelfPlay] Start 35500
+[2025/04/09_00:10:46.410] [SelfPlay Progress] 500 / 2000
+[2025/04/09_00:15:07.311] [SelfPlay Progress] 1000 / 2000
+[2025/04/09_00:19:11.095] [SelfPlay Progress] 1500 / 2000
+[2025/04/09_00:23:12.681] [SelfPlay Progress] 2000 / 2000
+[2025/04/09_00:23:12.681] [SelfPlay] Finished.
+[2025/04/09_00:23:12.681] [SelfPlay # Finished Games] 2000
+[2025/04/09_00:23:12.681] [SelfPlay Min. Game Lengths] 32
+[2025/04/09_00:23:12.681] [SelfPlay Max. Game Lengths] 145
+[2025/04/09_00:23:12.681] [SelfPlay Avg. Game Lengths] 66.940002
+[2025/04/09_00:23:12.681] [SelfPlay Std. Game Lengths] 40.541363
+[2025/04/09_00:23:12.681] [SelfPlay Min. Game Returns] -9.400000
+[2025/04/09_00:23:12.681] [SelfPlay Max. Game Returns] 843.140015
+[2025/04/09_00:23:12.681] [SelfPlay Avg. Game Returns] 424.752747
+[2025/04/09_00:23:12.681] [SelfPlay Std. Game Returns] 232.284439
+[2025/04/09_00:23:12.681] [Optimization] Start.
+[2025/04/09_00:26:33.723] [Optimization] Finished.
+[2025/04/09_00:26:33.723] [Iteration] =====73=====
+[2025/04/09_00:26:33.723] [SelfPlay] Start 36000
+[2025/04/09_00:30:45.613] [SelfPlay Progress] 500 / 2000
+[2025/04/09_00:35:03.612] [SelfPlay Progress] 1000 / 2000
+[2025/04/09_00:39:32.126] [SelfPlay Progress] 1500 / 2000
+[2025/04/09_00:43:49.114] [SelfPlay Progress] 2000 / 2000
+[2025/04/09_00:43:49.114] [SelfPlay] Finished.
+[2025/04/09_00:43:49.114] [SelfPlay # Finished Games] 2000
+[2025/04/09_00:43:49.114] [SelfPlay Min. Game Lengths] 32
+[2025/04/09_00:43:49.114] [SelfPlay Max. Game Lengths] 145
+[2025/04/09_00:43:49.114] [SelfPlay Avg. Game Lengths] 70.205498
+[2025/04/09_00:43:49.114] [SelfPlay Std. Game Lengths] 41.367268
+[2025/04/09_00:43:49.114] [SelfPlay Min. Game Returns] -9.300000
+[2025/04/09_00:43:49.114] [SelfPlay Max. Game Returns] 843.140015
+[2025/04/09_00:43:49.114] [SelfPlay Avg. Game Returns] 411.834412
+[2025/04/09_00:43:49.114] [SelfPlay Std. Game Returns] 241.517761
+[2025/04/09_00:43:49.114] [Optimization] Start.
+[2025/04/09_00:47:08.772] [Optimization] Finished.
+[2025/04/09_00:47:08.772] [Iteration] =====74=====
+[2025/04/09_00:47:08.772] [SelfPlay] Start 36500
+[2025/04/09_00:51:13.361] [SelfPlay Progress] 500 / 2000
+[2025/04/09_00:55:27.345] [SelfPlay Progress] 1000 / 2000
+[2025/04/09_00:59:31.426] [SelfPlay Progress] 1500 / 2000
+[2025/04/09_01:03:46.008] [SelfPlay Progress] 2000 / 2000
+[2025/04/09_01:03:46.008] [SelfPlay] Finished.
+[2025/04/09_01:03:46.008] [SelfPlay # Finished Games] 2000
+[2025/04/09_01:03:46.008] [SelfPlay Min. Game Lengths] 32
+[2025/04/09_01:03:46.008] [SelfPlay Max. Game Lengths] 145
+[2025/04/09_01:03:46.008] [SelfPlay Avg. Game Lengths] 68.031502
+[2025/04/09_01:03:46.008] [SelfPlay Std. Game Lengths] 41.253407
+[2025/04/09_01:03:46.008] [SelfPlay Min. Game Returns] -9.300000
+[2025/04/09_01:03:46.008] [SelfPlay Max. Game Returns] 843.140015
+[2025/04/09_01:03:46.009] [SelfPlay Avg. Game Returns] 417.775635
+[2025/04/09_01:03:46.009] [SelfPlay Std. Game Returns] 240.748993
+[2025/04/09_01:03:46.009] [Optimization] Start.
+[2025/04/09_01:07:04.157] [Optimization] Finished.
+[2025/04/09_01:07:04.157] [Iteration] =====75=====
+[2025/04/09_01:07:04.157] [SelfPlay] Start 37000
+[2025/04/09_01:11:18.153] [SelfPlay Progress] 500 / 2000
+[2025/04/09_01:15:29.737] [SelfPlay Progress] 1000 / 2000
+[2025/04/09_01:19:48.649] [SelfPlay Progress] 1500 / 2000
+[2025/04/09_01:24:04.626] [SelfPlay Progress] 2000 / 2000
+[2025/04/09_01:24:04.627] [SelfPlay] Finished.
+[2025/04/09_01:24:04.627] [SelfPlay # Finished Games] 2000
+[2025/04/09_01:24:04.627] [SelfPlay Min. Game Lengths] 32
+[2025/04/09_01:24:04.627] [SelfPlay Max. Game Lengths] 145
+[2025/04/09_01:24:04.627] [SelfPlay Avg. Game Lengths] 72.692001
+[2025/04/09_01:24:04.627] [SelfPlay Std. Game Lengths] 43.222706
+[2025/04/09_01:24:04.627] [SelfPlay Min. Game Returns] -9.300000
+[2025/04/09_01:24:04.627] [SelfPlay Max. Game Returns] 843.140015
+[2025/04/09_01:24:04.627] [SelfPlay Avg. Game Returns] 390.084015
+[2025/04/09_01:24:04.627] [SelfPlay Std. Game Returns] 240.587891
+[2025/04/09_01:24:04.627] [Optimization] Start.
+[2025/04/09_01:27:23.437] [Optimization] Finished.
+[2025/04/09_01:27:23.437] [Iteration] =====76=====
+[2025/04/09_01:27:23.437] [SelfPlay] Start 37500
+[2025/04/09_01:31:27.135] [SelfPlay Progress] 500 / 2000
+[2025/04/09_01:35:40.033] [SelfPlay Progress] 1000 / 2000
+[2025/04/09_01:39:39.727] [SelfPlay Progress] 1500 / 2000
+[2025/04/09_01:43:55.614] [SelfPlay Progress] 2000 / 2000
+[2025/04/09_01:43:55.614] [SelfPlay] Finished.
+[2025/04/09_01:43:55.614] [SelfPlay # Finished Games] 2000
+[2025/04/09_01:43:55.614] [SelfPlay Min. Game Lengths] 32
+[2025/04/09_01:43:55.614] [SelfPlay Max. Game Lengths] 145
+[2025/04/09_01:43:55.614] [SelfPlay Avg. Game Lengths] 70.584999
+[2025/04/09_01:43:55.614] [SelfPlay Std. Game Lengths] 41.693607
+[2025/04/09_01:43:55.614] [SelfPlay Min. Game Returns] -9.400000
+[2025/04/09_01:43:55.615] [SelfPlay Max. Game Returns] 843.140015
+[2025/04/09_01:43:55.615] [SelfPlay Avg. Game Returns] 422.159424
+[2025/04/09_01:43:55.615] [SelfPlay Std. Game Returns] 246.274948
+[2025/04/09_01:43:55.615] [Optimization] Start.
+[2025/04/09_01:47:15.208] [Optimization] Finished.
+[2025/04/09_01:47:15.208] [Iteration] =====77=====
+[2025/04/09_01:47:15.208] [SelfPlay] Start 38000
+[2025/04/09_01:51:10.880] [SelfPlay Progress] 500 / 2000
+[2025/04/09_01:55:08.057] [SelfPlay Progress] 1000 / 2000
+[2025/04/09_01:59:11.151] [SelfPlay Progress] 1500 / 2000
+[2025/04/09_02:03:22.725] [SelfPlay Progress] 2000 / 2000
+[2025/04/09_02:03:22.726] [SelfPlay] Finished.
+[2025/04/09_02:03:22.726] [SelfPlay # Finished Games] 2000
+[2025/04/09_02:03:22.726] [SelfPlay Min. Game Lengths] 32
+[2025/04/09_02:03:22.726] [SelfPlay Max. Game Lengths] 145
+[2025/04/09_02:03:22.726] [SelfPlay Avg. Game Lengths] 64.083000
+[2025/04/09_02:03:22.726] [SelfPlay Std. Game Lengths] 38.984818
+[2025/04/09_02:03:22.726] [SelfPlay Min. Game Returns] -9.300000
+[2025/04/09_02:03:22.726] [SelfPlay Max. Game Returns] 843.140015
+[2025/04/09_02:03:22.726] [SelfPlay Avg. Game Returns] 440.964905
+[2025/04/09_02:03:22.726] [SelfPlay Std. Game Returns] 234.010910
+[2025/04/09_02:03:22.726] [Optimization] Start.
+[2025/04/09_02:06:44.937] [Optimization] Finished.
+[2025/04/09_02:06:44.937] [Iteration] =====78=====
+[2025/04/09_02:06:44.937] [SelfPlay] Start 38500
+[2025/04/09_02:10:45.722] [SelfPlay Progress] 500 / 2000
+[2025/04/09_02:14:41.892] [SelfPlay Progress] 1000 / 2000
+[2025/04/09_02:18:37.169] [SelfPlay Progress] 1500 / 2000
+[2025/04/09_02:22:48.755] [SelfPlay Progress] 2000 / 2000
+[2025/04/09_02:22:48.755] [SelfPlay] Finished.
+[2025/04/09_02:22:48.755] [SelfPlay # Finished Games] 2000
+[2025/04/09_02:22:48.755] [SelfPlay Min. Game Lengths] 32
+[2025/04/09_02:22:48.755] [SelfPlay Max. Game Lengths] 145
+[2025/04/09_02:22:48.755] [SelfPlay Avg. Game Lengths] 68.319000
+[2025/04/09_02:22:48.755] [SelfPlay Std. Game Lengths] 42.079433
+[2025/04/09_02:22:48.755] [SelfPlay Min. Game Returns] -9.300000
+[2025/04/09_02:22:48.755] [SelfPlay Max. Game Returns] 843.039978
+[2025/04/09_02:22:48.755] [SelfPlay Avg. Game Returns] 406.774109
+[2025/04/09_02:22:48.755] [SelfPlay Std. Game Returns] 235.818466
+[2025/04/09_02:22:48.755] [Optimization] Start.
+[2025/04/09_02:26:08.347] [Optimization] Finished.
+[2025/04/09_02:26:08.347] [Iteration] =====79=====
+[2025/04/09_02:26:08.347] [SelfPlay] Start 39000
+[2025/04/09_02:30:11.643] [SelfPlay Progress] 500 / 2000
+[2025/04/09_02:34:17.222] [SelfPlay Progress] 1000 / 2000
+[2025/04/09_02:38:21.233] [SelfPlay Progress] 1500 / 2000
+[2025/04/09_02:42:37.132] [SelfPlay Progress] 2000 / 2000
+[2025/04/09_02:42:37.132] [SelfPlay] Finished.
+[2025/04/09_02:42:37.132] [SelfPlay # Finished Games] 2000
+[2025/04/09_02:42:37.132] [SelfPlay Min. Game Lengths] 32
+[2025/04/09_02:42:37.132] [SelfPlay Max. Game Lengths] 145
+[2025/04/09_02:42:37.132] [SelfPlay Avg. Game Lengths] 71.460503
+[2025/04/09_02:42:37.132] [SelfPlay Std. Game Lengths] 42.713882
+[2025/04/09_02:42:37.132] [SelfPlay Min. Game Returns] -4.300000
+[2025/04/09_02:42:37.132] [SelfPlay Max. Game Returns] 841.340027
+[2025/04/09_02:42:37.132] [SelfPlay Avg. Game Returns] 408.414185
+[2025/04/09_02:42:37.132] [SelfPlay Std. Game Returns] 234.351181
+[2025/04/09_02:42:37.132] [Optimization] Start.
+[2025/04/09_02:45:55.033] [Optimization] Finished.
+[2025/04/09_02:45:55.033] [Iteration] =====80=====
+[2025/04/09_02:45:55.033] [SelfPlay] Start 39500
+[2025/04/09_02:50:02.415] [SelfPlay Progress] 500 / 2000
+[2025/04/09_02:54:04.786] [SelfPlay Progress] 1000 / 2000
+[2025/04/09_02:58:03.372] [SelfPlay Progress] 1500 / 2000
+[2025/04/09_03:02:03.250] [SelfPlay Progress] 2000 / 2000
+[2025/04/09_03:02:03.250] [SelfPlay] Finished.
+[2025/04/09_03:02:03.250] [SelfPlay # Finished Games] 2000
+[2025/04/09_03:02:03.250] [SelfPlay Min. Game Lengths] 32
+[2025/04/09_03:02:03.250] [SelfPlay Max. Game Lengths] 145
+[2025/04/09_03:02:03.250] [SelfPlay Avg. Game Lengths] 65.740501
+[2025/04/09_03:02:03.250] [SelfPlay Std. Game Lengths] 38.896847
+[2025/04/09_03:02:03.250] [SelfPlay Min. Game Returns] -9.300000
+[2025/04/09_03:02:03.250] [SelfPlay Max. Game Returns] 843.039978
+[2025/04/09_03:02:03.250] [SelfPlay Avg. Game Returns] 425.998657
+[2025/04/09_03:02:03.250] [SelfPlay Std. Game Returns] 224.539642
+[2025/04/09_03:02:03.250] [Optimization] Start.
+[2025/04/09_03:05:17.486] [Optimization] Finished.
+[2025/04/09_03:05:17.486] [Iteration] =====81=====
+[2025/04/09_03:05:17.486] [SelfPlay] Start 40000
+[2025/04/09_03:09:15.666] [SelfPlay Progress] 500 / 2000
+[2025/04/09_03:13:14.846] [SelfPlay Progress] 1000 / 2000
+[2025/04/09_03:17:38.644] [SelfPlay Progress] 1500 / 2000
+[2025/04/09_03:21:42.229] [SelfPlay Progress] 2000 / 2000
+[2025/04/09_03:21:42.229] [SelfPlay] Finished.
+[2025/04/09_03:21:42.229] [SelfPlay # Finished Games] 2000
+[2025/04/09_03:21:42.229] [SelfPlay Min. Game Lengths] 32
+[2025/04/09_03:21:42.229] [SelfPlay Max. Game Lengths] 145
+[2025/04/09_03:21:42.229] [SelfPlay Avg. Game Lengths] 68.075996
+[2025/04/09_03:21:42.229] [SelfPlay Std. Game Lengths] 39.402546
+[2025/04/09_03:21:42.229] [SelfPlay Min. Game Returns] -4.300000
+[2025/04/09_03:21:42.229] [SelfPlay Max. Game Returns] 843.140015
+[2025/04/09_03:21:42.229] [SelfPlay Avg. Game Returns] 429.133545
+[2025/04/09_03:21:42.229] [SelfPlay Std. Game Returns] 237.079987
+[2025/04/09_03:21:42.229] [Optimization] Start.
+[2025/04/09_03:25:00.112] [Optimization] Finished.
+[2025/04/09_03:25:00.112] [Iteration] =====82=====
+[2025/04/09_03:25:00.112] [SelfPlay] Start 40500
+[2025/04/09_03:29:08.793] [SelfPlay Progress] 500 / 2000
+[2025/04/09_03:33:27.977] [SelfPlay Progress] 1000 / 2000
+[2025/04/09_03:37:24.144] [SelfPlay Progress] 1500 / 2000
+[2025/04/09_03:41:46.153] [SelfPlay Progress] 2000 / 2000
+[2025/04/09_03:41:46.153] [SelfPlay] Finished.
+[2025/04/09_03:41:46.153] [SelfPlay # Finished Games] 2000
+[2025/04/09_03:41:46.153] [SelfPlay Min. Game Lengths] 32
+[2025/04/09_03:41:46.153] [SelfPlay Max. Game Lengths] 145
+[2025/04/09_03:41:46.153] [SelfPlay Avg. Game Lengths] 68.262001
+[2025/04/09_03:41:46.153] [SelfPlay Std. Game Lengths] 40.966370
+[2025/04/09_03:41:46.153] [SelfPlay Min. Game Returns] -9.300000
+[2025/04/09_03:41:46.153] [SelfPlay Max. Game Returns] 843.140015
+[2025/04/09_03:41:46.153] [SelfPlay Avg. Game Returns] 416.929016
+[2025/04/09_03:41:46.153] [SelfPlay Std. Game Returns] 237.274979
+[2025/04/09_03:41:46.153] [Optimization] Start.
+[2025/04/09_03:45:05.447] [Optimization] Finished.
+[2025/04/09_03:45:05.447] [Iteration] =====83=====
+[2025/04/09_03:45:05.447] [SelfPlay] Start 41000
+[2025/04/09_03:49:00.107] [SelfPlay Progress] 500 / 2000
+[2025/04/09_03:53:02.683] [SelfPlay Progress] 1000 / 2000
+[2025/04/09_03:57:10.064] [SelfPlay Progress] 1500 / 2000
+[2025/04/09_04:01:14.827] [SelfPlay Progress] 2000 / 2000
+[2025/04/09_04:01:14.827] [SelfPlay] Finished.
+[2025/04/09_04:01:14.827] [SelfPlay # Finished Games] 2000
+[2025/04/09_04:01:14.827] [SelfPlay Min. Game Lengths] 32
+[2025/04/09_04:01:14.827] [SelfPlay Max. Game Lengths] 145
+[2025/04/09_04:01:14.827] [SelfPlay Avg. Game Lengths] 63.909500
+[2025/04/09_04:01:14.827] [SelfPlay Std. Game Lengths] 38.222950
+[2025/04/09_04:01:14.827] [SelfPlay Min. Game Returns] -4.200000
+[2025/04/09_04:01:14.827] [SelfPlay Max. Game Returns] 843.140015
+[2025/04/09_04:01:14.827] [SelfPlay Avg. Game Returns] 448.022614
+[2025/04/09_04:01:14.827] [SelfPlay Std. Game Returns] 225.843628
+[2025/04/09_04:01:14.827] [Optimization] Start.
+[2025/04/09_04:04:35.713] [Optimization] Finished.
+[2025/04/09_04:04:35.713] [Iteration] =====84=====
+[2025/04/09_04:04:35.713] [SelfPlay] Start 41500
+[2025/04/09_04:08:16.664] [SelfPlay Progress] 500 / 2000
+[2025/04/09_04:12:04.028] [SelfPlay Progress] 1000 / 2000
+[2025/04/09_04:16:08.203] [SelfPlay Progress] 1500 / 2000
+[2025/04/09_04:20:11.882] [SelfPlay Progress] 2000 / 2000
+[2025/04/09_04:20:11.882] [SelfPlay] Finished.
+[2025/04/09_04:20:11.882] [SelfPlay # Finished Games] 2000
+[2025/04/09_04:20:11.882] [SelfPlay Min. Game Lengths] 32
+[2025/04/09_04:20:11.882] [SelfPlay Max. Game Lengths] 145
+[2025/04/09_04:20:11.882] [SelfPlay Avg. Game Lengths] 62.825001
+[2025/04/09_04:20:11.882] [SelfPlay Std. Game Lengths] 37.535103
+[2025/04/09_04:20:11.882] [SelfPlay Min. Game Returns] -9.300000
+[2025/04/09_04:20:11.882] [SelfPlay Max. Game Returns] 843.140015
+[2025/04/09_04:20:11.882] [SelfPlay Avg. Game Returns] 447.366760
+[2025/04/09_04:20:11.882] [SelfPlay Std. Game Returns] 224.742340
+[2025/04/09_04:20:11.882] [Optimization] Start.
+[2025/04/09_04:23:30.882] [Optimization] Finished.
+[2025/04/09_04:23:30.882] [Iteration] =====85=====
+[2025/04/09_04:23:30.882] [SelfPlay] Start 42000
+[2025/04/09_04:27:41.987] [SelfPlay Progress] 500 / 2000
+[2025/04/09_04:32:03.397] [SelfPlay Progress] 1000 / 2000
+[2025/04/09_04:36:14.495] [SelfPlay Progress] 1500 / 2000
+[2025/04/09_04:40:32.076] [SelfPlay Progress] 2000 / 2000
+[2025/04/09_04:40:32.076] [SelfPlay] Finished.
+[2025/04/09_04:40:32.076] [SelfPlay # Finished Games] 2000
+[2025/04/09_04:40:32.076] [SelfPlay Min. Game Lengths] 32
+[2025/04/09_04:40:32.076] [SelfPlay Max. Game Lengths] 145
+[2025/04/09_04:40:32.076] [SelfPlay Avg. Game Lengths] 71.694504
+[2025/04/09_04:40:32.076] [SelfPlay Std. Game Lengths] 42.893509
+[2025/04/09_04:40:32.076] [SelfPlay Min. Game Returns] -9.300000
+[2025/04/09_04:40:32.076] [SelfPlay Max. Game Returns] 843.039978
+[2025/04/09_04:40:32.076] [SelfPlay Avg. Game Returns] 411.481079
+[2025/04/09_04:40:32.076] [SelfPlay Std. Game Returns] 248.144852
+[2025/04/09_04:40:32.076] [Optimization] Start.
+[2025/04/09_04:43:51.865] [Optimization] Finished.
+[2025/04/09_04:43:51.865] [Iteration] =====86=====
+[2025/04/09_04:43:51.865] [SelfPlay] Start 42500
+[2025/04/09_04:47:57.567] [SelfPlay Progress] 500 / 2000
+[2025/04/09_04:52:02.444] [SelfPlay Progress] 1000 / 2000
+[2025/04/09_04:56:18.052] [SelfPlay Progress] 1500 / 2000
+[2025/04/09_05:00:25.835] [SelfPlay Progress] 2000 / 2000
+[2025/04/09_05:00:25.835] [SelfPlay] Finished.
+[2025/04/09_05:00:25.835] [SelfPlay # Finished Games] 2000
+[2025/04/09_05:00:25.835] [SelfPlay Min. Game Lengths] 32
+[2025/04/09_05:00:25.836] [SelfPlay Max. Game Lengths] 145
+[2025/04/09_05:00:25.836] [SelfPlay Avg. Game Lengths] 68.926498
+[2025/04/09_05:00:25.836] [SelfPlay Std. Game Lengths] 40.852058
+[2025/04/09_05:00:25.836] [SelfPlay Min. Game Returns] -9.300000
+[2025/04/09_05:00:25.836] [SelfPlay Max. Game Returns] 843.039978
+[2025/04/09_05:00:25.836] [SelfPlay Avg. Game Returns] 428.751892
+[2025/04/09_05:00:25.836] [SelfPlay Std. Game Returns] 240.732315
+[2025/04/09_05:00:25.836] [Optimization] Start.
+[2025/04/09_05:03:44.789] [Optimization] Finished.
+[2025/04/09_05:03:44.789] [Iteration] =====87=====
+[2025/04/09_05:03:44.789] [SelfPlay] Start 43000
+[2025/04/09_05:07:48.777] [SelfPlay Progress] 500 / 2000
+[2025/04/09_05:11:46.657] [SelfPlay Progress] 1000 / 2000
+[2025/04/09_05:16:02.654] [SelfPlay Progress] 1500 / 2000
+[2025/04/09_05:20:26.757] [SelfPlay Progress] 2000 / 2000
+[2025/04/09_05:20:26.757] [SelfPlay] Finished.
+[2025/04/09_05:20:26.757] [SelfPlay # Finished Games] 2000
+[2025/04/09_05:20:26.757] [SelfPlay Min. Game Lengths] 32
+[2025/04/09_05:20:26.757] [SelfPlay Max. Game Lengths] 145
+[2025/04/09_05:20:26.757] [SelfPlay Avg. Game Lengths] 68.752998
+[2025/04/09_05:20:26.757] [SelfPlay Std. Game Lengths] 41.546745
+[2025/04/09_05:20:26.757] [SelfPlay Min. Game Returns] -9.300000
+[2025/04/09_05:20:26.757] [SelfPlay Max. Game Returns] 843.039978
+[2025/04/09_05:20:26.757] [SelfPlay Avg. Game Returns] 422.348785
+[2025/04/09_05:20:26.757] [SelfPlay Std. Game Returns] 239.004944
+[2025/04/09_05:20:26.757] [Optimization] Start.
+[2025/04/09_05:23:47.669] [Optimization] Finished.
+[2025/04/09_05:23:47.669] [Iteration] =====88=====
+[2025/04/09_05:23:47.669] [SelfPlay] Start 43500
+[2025/04/09_05:27:47.851] [SelfPlay Progress] 500 / 2000
+[2025/04/09_05:32:16.672] [SelfPlay Progress] 1000 / 2000
+[2025/04/09_05:36:14.238] [SelfPlay Progress] 1500 / 2000
+[2025/04/09_05:40:28.349] [SelfPlay Progress] 2000 / 2000
+[2025/04/09_05:40:28.349] [SelfPlay] Finished.
+[2025/04/09_05:40:28.349] [SelfPlay # Finished Games] 2000
+[2025/04/09_05:40:28.349] [SelfPlay Min. Game Lengths] 32
+[2025/04/09_05:40:28.349] [SelfPlay Max. Game Lengths] 145
+[2025/04/09_05:40:28.350] [SelfPlay Avg. Game Lengths] 72.469002
+[2025/04/09_05:40:28.350] [SelfPlay Std. Game Lengths] 43.474049
+[2025/04/09_05:40:28.350] [SelfPlay Min. Game Returns] -9.400000
+[2025/04/09_05:40:28.350] [SelfPlay Max. Game Returns] 843.039978
+[2025/04/09_05:40:28.350] [SelfPlay Avg. Game Returns] 416.232117
+[2025/04/09_05:40:28.350] [SelfPlay Std. Game Returns] 254.076645
+[2025/04/09_05:40:28.350] [Optimization] Start.
+[2025/04/09_05:43:49.988] [Optimization] Finished.
+[2025/04/09_05:43:49.988] [Iteration] =====89=====
+[2025/04/09_05:43:49.988] [SelfPlay] Start 44000
+[2025/04/09_05:47:40.573] [SelfPlay Progress] 500 / 2000
+[2025/04/09_05:51:43.665] [SelfPlay Progress] 1000 / 2000
+[2025/04/09_05:55:51.850] [SelfPlay Progress] 1500 / 2000
+[2025/04/09_05:59:46.619] [SelfPlay Progress] 2000 / 2000
+[2025/04/09_05:59:46.619] [SelfPlay] Finished.
+[2025/04/09_05:59:46.619] [SelfPlay # Finished Games] 2000
+[2025/04/09_05:59:46.619] [SelfPlay Min. Game Lengths] 32
+[2025/04/09_05:59:46.619] [SelfPlay Max. Game Lengths] 145
+[2025/04/09_05:59:46.619] [SelfPlay Avg. Game Lengths] 65.012497
+[2025/04/09_05:59:46.619] [SelfPlay Std. Game Lengths] 38.843658
+[2025/04/09_05:59:46.619] [SelfPlay Min. Game Returns] -9.400000
+[2025/04/09_05:59:46.619] [SelfPlay Max. Game Returns] 843.140015
+[2025/04/09_05:59:46.619] [SelfPlay Avg. Game Returns] 456.067200
+[2025/04/09_05:59:46.619] [SelfPlay Std. Game Returns] 235.855698
+[2025/04/09_05:59:46.619] [Optimization] Start.
+[2025/04/09_06:02:58.685] [Optimization] Finished.
+[2025/04/09_06:02:58.685] [Iteration] =====90=====
+[2025/04/09_06:02:58.685] [SelfPlay] Start 44500
+[2025/04/09_06:06:28.113] [SelfPlay Progress] 500 / 2000
+[2025/04/09_06:10:43.497] [SelfPlay Progress] 1000 / 2000
+[2025/04/09_06:14:57.983] [SelfPlay Progress] 1500 / 2000
+[2025/04/09_06:19:08.660] [SelfPlay Progress] 2000 / 2000
+[2025/04/09_06:19:08.660] [SelfPlay] Finished.
+[2025/04/09_06:19:08.660] [SelfPlay # Finished Games] 2000
+[2025/04/09_06:19:08.660] [SelfPlay Min. Game Lengths] 32
+[2025/04/09_06:19:08.660] [SelfPlay Max. Game Lengths] 145
+[2025/04/09_06:19:08.660] [SelfPlay Avg. Game Lengths] 71.388000
+[2025/04/09_06:19:08.660] [SelfPlay Std. Game Lengths] 43.140583
+[2025/04/09_06:19:08.660] [SelfPlay Min. Game Returns] -9.300000
+[2025/04/09_06:19:08.660] [SelfPlay Max. Game Returns] 843.039978
+[2025/04/09_06:19:08.660] [SelfPlay Avg. Game Returns] 424.012329
+[2025/04/09_06:19:08.660] [SelfPlay Std. Game Returns] 259.016266
+[2025/04/09_06:19:08.660] [Optimization] Start.
+[2025/04/09_06:22:27.048] [Optimization] Finished.
+[2025/04/09_06:22:27.048] [Iteration] =====91=====
+[2025/04/09_06:22:27.048] [SelfPlay] Start 45000
+[2025/04/09_06:26:31.623] [SelfPlay Progress] 500 / 2000
+[2025/04/09_06:30:50.615] [SelfPlay Progress] 1000 / 2000
+[2025/04/09_06:35:07.307] [SelfPlay Progress] 1500 / 2000
+[2025/04/09_06:39:16.385] [SelfPlay Progress] 2000 / 2000
+[2025/04/09_06:39:16.385] [SelfPlay] Finished.
+[2025/04/09_06:39:16.385] [SelfPlay # Finished Games] 2000
+[2025/04/09_06:39:16.385] [SelfPlay Min. Game Lengths] 32
+[2025/04/09_06:39:16.385] [SelfPlay Max. Game Lengths] 145
+[2025/04/09_06:39:16.385] [SelfPlay Avg. Game Lengths] 68.987503
+[2025/04/09_06:39:16.385] [SelfPlay Std. Game Lengths] 41.583385
+[2025/04/09_06:39:16.385] [SelfPlay Min. Game Returns] -9.300000
+[2025/04/09_06:39:16.385] [SelfPlay Max. Game Returns] 843.039978
+[2025/04/09_06:39:16.385] [SelfPlay Avg. Game Returns] 428.490570
+[2025/04/09_06:39:16.385] [SelfPlay Std. Game Returns] 243.795898
+[2025/04/09_06:39:16.385] [Optimization] Start.
+[2025/04/09_06:42:35.849] [Optimization] Finished.
+[2025/04/09_06:42:35.849] [Iteration] =====92=====
+[2025/04/09_06:42:35.849] [SelfPlay] Start 45500
+[2025/04/09_06:46:30.711] [SelfPlay Progress] 500 / 2000
+[2025/04/09_06:50:24.591] [SelfPlay Progress] 1000 / 2000
+[2025/04/09_06:54:23.168] [SelfPlay Progress] 1500 / 2000
+[2025/04/09_06:58:20.540] [SelfPlay Progress] 2000 / 2000
+[2025/04/09_06:58:20.540] [SelfPlay] Finished.
+[2025/04/09_06:58:20.540] [SelfPlay # Finished Games] 2000
+[2025/04/09_06:58:20.540] [SelfPlay Min. Game Lengths] 32
+[2025/04/09_06:58:20.540] [SelfPlay Max. Game Lengths] 145
+[2025/04/09_06:58:20.540] [SelfPlay Avg. Game Lengths] 65.013496
+[2025/04/09_06:58:20.540] [SelfPlay Std. Game Lengths] 38.858555
+[2025/04/09_06:58:20.540] [SelfPlay Min. Game Returns] -9.400000
+[2025/04/09_06:58:20.540] [SelfPlay Max. Game Returns] 843.039978
+[2025/04/09_06:58:20.540] [SelfPlay Avg. Game Returns] 462.978607
+[2025/04/09_06:58:20.540] [SelfPlay Std. Game Returns] 233.375061
+[2025/04/09_06:58:20.540] [Optimization] Start.
+[2025/04/09_07:01:37.064] [Optimization] Finished.
+[2025/04/09_07:01:37.064] [Iteration] =====93=====
+[2025/04/09_07:01:37.064] [SelfPlay] Start 46000
+[2025/04/09_07:05:59.662] [SelfPlay Progress] 500 / 2000
+[2025/04/09_07:10:15.355] [SelfPlay Progress] 1000 / 2000
+[2025/04/09_07:14:26.636] [SelfPlay Progress] 1500 / 2000
+[2025/04/09_07:18:56.454] [SelfPlay Progress] 2000 / 2000
+[2025/04/09_07:18:56.454] [SelfPlay] Finished.
+[2025/04/09_07:18:56.454] [SelfPlay # Finished Games] 2000
+[2025/04/09_07:18:56.454] [SelfPlay Min. Game Lengths] 32
+[2025/04/09_07:18:56.454] [SelfPlay Max. Game Lengths] 145
+[2025/04/09_07:18:56.454] [SelfPlay Avg. Game Lengths] 75.959000
+[2025/04/09_07:18:56.454] [SelfPlay Std. Game Lengths] 43.635105
+[2025/04/09_07:18:56.454] [SelfPlay Min. Game Returns] -9.300000
+[2025/04/09_07:18:56.454] [SelfPlay Max. Game Returns] 843.039978
+[2025/04/09_07:18:56.455] [SelfPlay Avg. Game Returns] 417.121552
+[2025/04/09_07:18:56.455] [SelfPlay Std. Game Returns] 259.786072
+[2025/04/09_07:18:56.455] [Optimization] Start.
+[2025/04/09_07:22:17.674] [Optimization] Finished.
+[2025/04/09_07:22:17.674] [Iteration] =====94=====
+[2025/04/09_07:22:17.674] [SelfPlay] Start 46500
+[2025/04/09_07:26:10.150] [SelfPlay Progress] 500 / 2000
+[2025/04/09_07:30:17.449] [SelfPlay Progress] 1000 / 2000
+[2025/04/09_07:34:18.732] [SelfPlay Progress] 1500 / 2000
+[2025/04/09_07:38:17.625] [SelfPlay Progress] 2000 / 2000
+[2025/04/09_07:38:17.625] [SelfPlay] Finished.
+[2025/04/09_07:38:17.625] [SelfPlay # Finished Games] 2000
+[2025/04/09_07:38:17.625] [SelfPlay Min. Game Lengths] 32
+[2025/04/09_07:38:17.625] [SelfPlay Max. Game Lengths] 145
+[2025/04/09_07:38:17.625] [SelfPlay Avg. Game Lengths] 66.142502
+[2025/04/09_07:38:17.625] [SelfPlay Std. Game Lengths] 40.197514
+[2025/04/09_07:38:17.625] [SelfPlay Min. Game Returns] -9.300000
+[2025/04/09_07:38:17.625] [SelfPlay Max. Game Returns] 843.140015
+[2025/04/09_07:38:17.625] [SelfPlay Avg. Game Returns] 457.308990
+[2025/04/09_07:38:17.625] [SelfPlay Std. Game Returns] 248.029907
+[2025/04/09_07:38:17.625] [Optimization] Start.
+[2025/04/09_07:41:32.127] [Optimization] Finished.
+[2025/04/09_07:41:32.127] [Iteration] =====95=====
+[2025/04/09_07:41:32.127] [SelfPlay] Start 47000
+[2025/04/09_07:45:24.598] [SelfPlay Progress] 500 / 2000
+[2025/04/09_07:49:32.779] [SelfPlay Progress] 1000 / 2000
+[2025/04/09_07:53:26.950] [SelfPlay Progress] 1500 / 2000
+[2025/04/09_07:57:27.825] [SelfPlay Progress] 2000 / 2000
+[2025/04/09_07:57:27.825] [SelfPlay] Finished.
+[2025/04/09_07:57:27.825] [SelfPlay # Finished Games] 2000
+[2025/04/09_07:57:27.825] [SelfPlay Min. Game Lengths] 32
+[2025/04/09_07:57:27.825] [SelfPlay Max. Game Lengths] 145
+[2025/04/09_07:57:27.825] [SelfPlay Avg. Game Lengths] 65.206001
+[2025/04/09_07:57:27.825] [SelfPlay Std. Game Lengths] 39.259346
+[2025/04/09_07:57:27.825] [SelfPlay Min. Game Returns] -9.400000
+[2025/04/09_07:57:27.825] [SelfPlay Max. Game Returns] 843.039978
+[2025/04/09_07:57:27.825] [SelfPlay Avg. Game Returns] 455.609711
+[2025/04/09_07:57:27.825] [SelfPlay Std. Game Returns] 236.551483
+[2025/04/09_07:57:27.825] [Optimization] Start.
+[2025/04/09_08:00:46.327] [Optimization] Finished.
+[2025/04/09_08:00:46.327] [Iteration] =====96=====
+[2025/04/09_08:00:46.327] [SelfPlay] Start 47500
+[2025/04/09_08:04:55.809] [SelfPlay Progress] 500 / 2000
+[2025/04/09_08:09:09.807] [SelfPlay Progress] 1000 / 2000
+[2025/04/09_08:13:24.615] [SelfPlay Progress] 1500 / 2000
+[2025/04/09_08:17:34.996] [SelfPlay Progress] 2000 / 2000
+[2025/04/09_08:17:34.996] [SelfPlay] Finished.
+[2025/04/09_08:17:34.996] [SelfPlay # Finished Games] 2000
+[2025/04/09_08:17:34.996] [SelfPlay Min. Game Lengths] 32
+[2025/04/09_08:17:34.996] [SelfPlay Max. Game Lengths] 145
+[2025/04/09_08:17:34.996] [SelfPlay Avg. Game Lengths] 70.554001
+[2025/04/09_08:17:34.997] [SelfPlay Std. Game Lengths] 40.306358
+[2025/04/09_08:17:34.997] [SelfPlay Min. Game Returns] -9.300000
+[2025/04/09_08:17:34.997] [SelfPlay Max. Game Returns] 843.039978
+[2025/04/09_08:17:34.997] [SelfPlay Avg. Game Returns] 443.974731
+[2025/04/09_08:17:34.997] [SelfPlay Std. Game Returns] 250.177353
+[2025/04/09_08:17:34.997] [Optimization] Start.
+[2025/04/09_08:20:55.748] [Optimization] Finished.
+[2025/04/09_08:20:55.749] [Iteration] =====97=====
+[2025/04/09_08:20:55.749] [SelfPlay] Start 48000
+[2025/04/09_08:24:57.627] [SelfPlay Progress] 500 / 2000
+[2025/04/09_08:28:59.404] [SelfPlay Progress] 1000 / 2000
+[2025/04/09_08:33:09.196] [SelfPlay Progress] 1500 / 2000
+[2025/04/09_08:37:30.705] [SelfPlay Progress] 2000 / 2000
+[2025/04/09_08:37:30.705] [SelfPlay] Finished.
+[2025/04/09_08:37:30.705] [SelfPlay # Finished Games] 2000
+[2025/04/09_08:37:30.706] [SelfPlay Min. Game Lengths] 32
+[2025/04/09_08:37:30.706] [SelfPlay Max. Game Lengths] 145
+[2025/04/09_08:37:30.706] [SelfPlay Avg. Game Lengths] 70.028000
+[2025/04/09_08:37:30.706] [SelfPlay Std. Game Lengths] 41.944904
+[2025/04/09_08:37:30.706] [SelfPlay Min. Game Returns] -9.300000
+[2025/04/09_08:37:30.706] [SelfPlay Max. Game Returns] 843.140015
+[2025/04/09_08:37:30.706] [SelfPlay Avg. Game Returns] 431.118378
+[2025/04/09_08:37:30.706] [SelfPlay Std. Game Returns] 247.626236
+[2025/04/09_08:37:30.706] [Optimization] Start.
+[2025/04/09_08:40:53.069] [Optimization] Finished.
+[2025/04/09_08:40:53.070] [Iteration] =====98=====
+[2025/04/09_08:40:53.070] [SelfPlay] Start 48500
+[2025/04/09_08:44:52.041] [SelfPlay Progress] 500 / 2000
+[2025/04/09_08:49:17.939] [SelfPlay Progress] 1000 / 2000
+[2025/04/09_08:53:33.726] [SelfPlay Progress] 1500 / 2000
+[2025/04/09_08:57:41.413] [SelfPlay Progress] 2000 / 2000
+[2025/04/09_08:57:41.413] [SelfPlay] Finished.
+[2025/04/09_08:57:41.413] [SelfPlay # Finished Games] 2000
+[2025/04/09_08:57:41.413] [SelfPlay Min. Game Lengths] 32
+[2025/04/09_08:57:41.414] [SelfPlay Max. Game Lengths] 145
+[2025/04/09_08:57:41.414] [SelfPlay Avg. Game Lengths] 70.372498
+[2025/04/09_08:57:41.414] [SelfPlay Std. Game Lengths] 41.996887
+[2025/04/09_08:57:41.414] [SelfPlay Min. Game Returns] -9.300000
+[2025/04/09_08:57:41.414] [SelfPlay Max. Game Returns] 843.140015
+[2025/04/09_08:57:41.414] [SelfPlay Avg. Game Returns] 444.923279
+[2025/04/09_08:57:41.414] [SelfPlay Std. Game Returns] 256.069183
+[2025/04/09_08:57:41.414] [Optimization] Start.
+[2025/04/09_09:01:02.314] [Optimization] Finished.
+[2025/04/09_09:01:02.314] [Iteration] =====99=====
+[2025/04/09_09:01:02.314] [SelfPlay] Start 49000
+[2025/04/09_09:05:01.005] [SelfPlay Progress] 500 / 2000
+[2025/04/09_09:09:03.393] [SelfPlay Progress] 1000 / 2000
+[2025/04/09_09:13:10.886] [SelfPlay Progress] 1500 / 2000
+[2025/04/09_09:17:24.776] [SelfPlay Progress] 2000 / 2000
+[2025/04/09_09:17:24.776] [SelfPlay] Finished.
+[2025/04/09_09:17:24.776] [SelfPlay # Finished Games] 2000
+[2025/04/09_09:17:24.776] [SelfPlay Min. Game Lengths] 32
+[2025/04/09_09:17:24.776] [SelfPlay Max. Game Lengths] 145
+[2025/04/09_09:17:24.776] [SelfPlay Avg. Game Lengths] 68.178497
+[2025/04/09_09:17:24.776] [SelfPlay Std. Game Lengths] 38.340210
+[2025/04/09_09:17:24.776] [SelfPlay Min. Game Returns] -4.300000
+[2025/04/09_09:17:24.776] [SelfPlay Max. Game Returns] 843.039978
+[2025/04/09_09:17:24.776] [SelfPlay Avg. Game Returns] 469.539520
+[2025/04/09_09:17:24.776] [SelfPlay Std. Game Returns] 245.561539
+[2025/04/09_09:17:24.776] [Optimization] Start.
+[2025/04/09_09:20:45.640] [Optimization] Finished.
+[2025/04/09_09:20:45.640] [Iteration] =====100=====
+[2025/04/09_09:20:45.640] [SelfPlay] Start 49500
+[2025/04/09_09:24:39.704] [SelfPlay Progress] 500 / 2000
+[2025/04/09_09:28:44.879] [SelfPlay Progress] 1000 / 2000
+[2025/04/09_09:32:54.463] [SelfPlay Progress] 1500 / 2000
+[2025/04/09_09:36:54.434] [SelfPlay Progress] 2000 / 2000
+[2025/04/09_09:36:54.434] [SelfPlay] Finished.
+[2025/04/09_09:36:54.434] [SelfPlay # Finished Games] 2000
+[2025/04/09_09:36:54.434] [SelfPlay Min. Game Lengths] 32
+[2025/04/09_09:36:54.434] [SelfPlay Max. Game Lengths] 145
+[2025/04/09_09:36:54.434] [SelfPlay Avg. Game Lengths] 66.806000
+[2025/04/09_09:36:54.434] [SelfPlay Std. Game Lengths] 39.171436
+[2025/04/09_09:36:54.434] [SelfPlay Min. Game Returns] -9.300000
+[2025/04/09_09:36:54.434] [SelfPlay Max. Game Returns] 841.840027
+[2025/04/09_09:36:54.434] [SelfPlay Avg. Game Returns] 472.412262
+[2025/04/09_09:36:54.434] [SelfPlay Std. Game Returns] 240.643723
+[2025/04/09_09:36:54.434] [Optimization] Start.
+[2025/04/09_09:40:15.012] [Optimization] Finished.

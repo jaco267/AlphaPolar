@@ -1,0 +1,2200 @@
+[2025-04-07 23:43:25] [command] train weight_iter_0.pkl 1 1
+[2025-04-07 23:44:06] nn step 100, lr: 0.02.
+	loss_policy: 1.19372
+	accuracy_policy: 0.25616
+	loss_value: 1.50914
+[2025-04-07 23:44:44] nn step 200, lr: 0.02.
+	loss_policy: 1.0087
+	accuracy_policy: 0.33213
+	loss_value: 1.0973
+[2025-04-07 23:45:23] nn step 300, lr: 0.02.
+	loss_policy: 0.94142
+	accuracy_policy: 0.36164
+	loss_value: 1.07114
+[2025-04-07 23:46:01] nn step 400, lr: 0.02.
+	loss_policy: 0.89793
+	accuracy_policy: 0.37871
+	loss_value: 1.05101
+[2025-04-07 23:46:38] nn step 500, lr: 0.02.
+	loss_policy: 0.87023
+	accuracy_policy: 0.3901
+	loss_value: 1.00071
+Optimization_Done 500
+[2025-04-08 00:05:05] [command] train weight_iter_500.pkl 1 2
+[2025-04-08 00:05:42] nn step 600, lr: 0.02.
+	loss_policy: 1.41949
+	accuracy_policy: 0.28431
+	loss_value: 1.56508
+[2025-04-08 00:06:20] nn step 700, lr: 0.02.
+	loss_policy: 1.33434
+	accuracy_policy: 0.31372
+	loss_value: 1.42894
+[2025-04-08 00:06:59] nn step 800, lr: 0.02.
+	loss_policy: 1.29754
+	accuracy_policy: 0.3301
+	loss_value: 1.39141
+[2025-04-08 00:07:37] nn step 900, lr: 0.02.
+	loss_policy: 1.26535
+	accuracy_policy: 0.34103
+	loss_value: 1.34689
+[2025-04-08 00:08:14] nn step 1000, lr: 0.02.
+	loss_policy: 1.24481
+	accuracy_policy: 0.34817
+	loss_value: 1.2999
+Optimization_Done 1000
+[2025-04-08 00:26:48] [command] train weight_iter_1000.pkl 1 3
+[2025-04-08 00:27:26] nn step 1100, lr: 0.02.
+	loss_policy: 1.47505
+	accuracy_policy: 0.31734
+	loss_value: 1.6168
+[2025-04-08 00:28:05] nn step 1200, lr: 0.02.
+	loss_policy: 1.41545
+	accuracy_policy: 0.33963
+	loss_value: 1.47998
+[2025-04-08 00:28:44] nn step 1300, lr: 0.02.
+	loss_policy: 1.37287
+	accuracy_policy: 0.35022
+	loss_value: 1.42208
+[2025-04-08 00:29:24] nn step 1400, lr: 0.02.
+	loss_policy: 1.356
+	accuracy_policy: 0.35613
+	loss_value: 1.38992
+[2025-04-08 00:30:02] nn step 1500, lr: 0.02.
+	loss_policy: 1.32977
+	accuracy_policy: 0.37101
+	loss_value: 1.36334
+Optimization_Done 1500
+[2025-04-08 00:48:51] [command] train weight_iter_1500.pkl 1 4
+[2025-04-08 00:49:30] nn step 1600, lr: 0.02.
+	loss_policy: 1.47199
+	accuracy_policy: 0.34138
+	loss_value: 1.49367
+[2025-04-08 00:50:10] nn step 1700, lr: 0.02.
+	loss_policy: 1.42594
+	accuracy_policy: 0.35687
+	loss_value: 1.43903
+[2025-04-08 00:50:50] nn step 1800, lr: 0.02.
+	loss_policy: 1.40669
+	accuracy_policy: 0.3655
+	loss_value: 1.42009
+[2025-04-08 00:51:29] nn step 1900, lr: 0.02.
+	loss_policy: 1.39134
+	accuracy_policy: 0.37147
+	loss_value: 1.38562
+[2025-04-08 00:52:08] nn step 2000, lr: 0.02.
+	loss_policy: 1.37322
+	accuracy_policy: 0.37672
+	loss_value: 1.37082
+Optimization_Done 2000
+[2025-04-08 01:11:18] [command] train weight_iter_2000.pkl 1 5
+[2025-04-08 01:11:57] nn step 2100, lr: 0.02.
+	loss_policy: 1.48213
+	accuracy_policy: 0.3552
+	loss_value: 1.4437
+[2025-04-08 01:12:36] nn step 2200, lr: 0.02.
+	loss_policy: 1.43834
+	accuracy_policy: 0.36985
+	loss_value: 1.40507
+[2025-04-08 01:13:15] nn step 2300, lr: 0.02.
+	loss_policy: 1.42804
+	accuracy_policy: 0.3727
+	loss_value: 1.39464
+[2025-04-08 01:13:54] nn step 2400, lr: 0.02.
+	loss_policy: 1.42516
+	accuracy_policy: 0.37575
+	loss_value: 1.38069
+[2025-04-08 01:14:33] nn step 2500, lr: 0.02.
+	loss_policy: 1.40303
+	accuracy_policy: 0.38238
+	loss_value: 1.36103
+Optimization_Done 2500
+[2025-04-08 01:34:08] [command] train weight_iter_2500.pkl 1 6
+[2025-04-08 01:34:47] nn step 2600, lr: 0.02.
+	loss_policy: 1.48549
+	accuracy_policy: 0.36726
+	loss_value: 1.45962
+[2025-04-08 01:35:26] nn step 2700, lr: 0.02.
+	loss_policy: 1.46024
+	accuracy_policy: 0.37309
+	loss_value: 1.43337
+[2025-04-08 01:36:06] nn step 2800, lr: 0.02.
+	loss_policy: 1.44514
+	accuracy_policy: 0.3796
+	loss_value: 1.41626
+[2025-04-08 01:36:45] nn step 2900, lr: 0.02.
+	loss_policy: 1.43415
+	accuracy_policy: 0.38397
+	loss_value: 1.40198
+[2025-04-08 01:37:25] nn step 3000, lr: 0.02.
+	loss_policy: 1.41636
+	accuracy_policy: 0.39006
+	loss_value: 1.39197
+Optimization_Done 3000
+[2025-04-08 01:57:18] [command] train weight_iter_3000.pkl 1 7
+[2025-04-08 01:57:56] nn step 3100, lr: 0.02.
+	loss_policy: 1.48488
+	accuracy_policy: 0.37652
+	loss_value: 1.4583
+[2025-04-08 01:58:34] nn step 3200, lr: 0.02.
+	loss_policy: 1.46647
+	accuracy_policy: 0.38464
+	loss_value: 1.43346
+[2025-04-08 01:59:14] nn step 3300, lr: 0.02.
+	loss_policy: 1.4599
+	accuracy_policy: 0.38204
+	loss_value: 1.41389
+[2025-04-08 01:59:54] nn step 3400, lr: 0.02.
+	loss_policy: 1.43611
+	accuracy_policy: 0.38953
+	loss_value: 1.40335
+[2025-04-08 02:00:34] nn step 3500, lr: 0.02.
+	loss_policy: 1.4365
+	accuracy_policy: 0.39152
+	loss_value: 1.3978
+Optimization_Done 3500
+[2025-04-08 02:19:48] [command] train weight_iter_3500.pkl 1 8
+[2025-04-08 02:20:26] nn step 3600, lr: 0.02.
+	loss_policy: 1.49315
+	accuracy_policy: 0.38122
+	loss_value: 1.45285
+[2025-04-08 02:21:04] nn step 3700, lr: 0.02.
+	loss_policy: 1.47451
+	accuracy_policy: 0.38413
+	loss_value: 1.43402
+[2025-04-08 02:21:43] nn step 3800, lr: 0.02.
+	loss_policy: 1.46362
+	accuracy_policy: 0.39005
+	loss_value: 1.42686
+[2025-04-08 02:22:20] nn step 3900, lr: 0.02.
+	loss_policy: 1.45282
+	accuracy_policy: 0.39397
+	loss_value: 1.41654
+[2025-04-08 02:22:56] nn step 4000, lr: 0.02.
+	loss_policy: 1.44745
+	accuracy_policy: 0.39545
+	loss_value: 1.40303
+Optimization_Done 4000
+[2025-04-08 02:42:02] [command] train weight_iter_4000.pkl 1 9
+[2025-04-08 02:42:40] nn step 4100, lr: 0.02.
+	loss_policy: 1.49465
+	accuracy_policy: 0.38474
+	loss_value: 1.44923
+[2025-04-08 02:43:19] nn step 4200, lr: 0.02.
+	loss_policy: 1.4822
+	accuracy_policy: 0.3883
+	loss_value: 1.43657
+[2025-04-08 02:43:59] nn step 4300, lr: 0.02.
+	loss_policy: 1.47204
+	accuracy_policy: 0.39375
+	loss_value: 1.41289
+[2025-04-08 02:44:40] nn step 4400, lr: 0.02.
+	loss_policy: 1.46213
+	accuracy_policy: 0.39812
+	loss_value: 1.41598
+[2025-04-08 02:45:19] nn step 4500, lr: 0.02.
+	loss_policy: 1.45809
+	accuracy_policy: 0.39757
+	loss_value: 1.40157
+Optimization_Done 4500
+[2025-04-08 03:04:58] [command] train weight_iter_4500.pkl 1 10
+[2025-04-08 03:05:36] nn step 4600, lr: 0.02.
+	loss_policy: 1.50581
+	accuracy_policy: 0.3891
+	loss_value: 1.44462
+[2025-04-08 03:06:15] nn step 4700, lr: 0.02.
+	loss_policy: 1.48058
+	accuracy_policy: 0.39678
+	loss_value: 1.42968
+[2025-04-08 03:06:53] nn step 4800, lr: 0.02.
+	loss_policy: 1.47647
+	accuracy_policy: 0.39646
+	loss_value: 1.41649
+[2025-04-08 03:07:32] nn step 4900, lr: 0.02.
+	loss_policy: 1.47169
+	accuracy_policy: 0.39565
+	loss_value: 1.40737
+[2025-04-08 03:08:11] nn step 5000, lr: 0.02.
+	loss_policy: 1.46118
+	accuracy_policy: 0.40146
+	loss_value: 1.39967
+Optimization_Done 5000
+[2025-04-08 03:27:35] [command] train weight_iter_5000.pkl 1 11
+[2025-04-08 03:28:13] nn step 5100, lr: 0.02.
+	loss_policy: 1.51909
+	accuracy_policy: 0.38708
+	loss_value: 1.43473
+[2025-04-08 03:28:52] nn step 5200, lr: 0.02.
+	loss_policy: 1.50043
+	accuracy_policy: 0.39318
+	loss_value: 1.41532
+[2025-04-08 03:29:32] nn step 5300, lr: 0.02.
+	loss_policy: 1.49357
+	accuracy_policy: 0.39379
+	loss_value: 1.41434
+[2025-04-08 03:30:12] nn step 5400, lr: 0.02.
+	loss_policy: 1.48004
+	accuracy_policy: 0.39986
+	loss_value: 1.40028
+[2025-04-08 03:30:51] nn step 5500, lr: 0.02.
+	loss_policy: 1.47562
+	accuracy_policy: 0.40318
+	loss_value: 1.39375
+Optimization_Done 5500
+[2025-04-08 03:51:02] [command] train weight_iter_5500.pkl 1 12
+[2025-04-08 03:51:39] nn step 5600, lr: 0.02.
+	loss_policy: 1.51493
+	accuracy_policy: 0.39219
+	loss_value: 1.42342
+[2025-04-08 03:52:18] nn step 5700, lr: 0.02.
+	loss_policy: 1.50265
+	accuracy_policy: 0.39319
+	loss_value: 1.41762
+[2025-04-08 03:52:56] nn step 5800, lr: 0.02.
+	loss_policy: 1.48969
+	accuracy_policy: 0.40008
+	loss_value: 1.40219
+[2025-04-08 03:53:35] nn step 5900, lr: 0.02.
+	loss_policy: 1.48563
+	accuracy_policy: 0.39879
+	loss_value: 1.39908
+[2025-04-08 03:54:14] nn step 6000, lr: 0.02.
+	loss_policy: 1.48567
+	accuracy_policy: 0.40096
+	loss_value: 1.3955
+Optimization_Done 6000
+[2025-04-08 04:14:06] [command] train weight_iter_6000.pkl 1 13
+[2025-04-08 04:14:44] nn step 6100, lr: 0.02.
+	loss_policy: 1.5124
+	accuracy_policy: 0.3943
+	loss_value: 1.42557
+[2025-04-08 04:15:24] nn step 6200, lr: 0.02.
+	loss_policy: 1.50145
+	accuracy_policy: 0.39792
+	loss_value: 1.40684
+[2025-04-08 04:16:04] nn step 6300, lr: 0.02.
+	loss_policy: 1.49648
+	accuracy_policy: 0.39843
+	loss_value: 1.4021
+[2025-04-08 04:16:44] nn step 6400, lr: 0.02.
+	loss_policy: 1.48665
+	accuracy_policy: 0.40176
+	loss_value: 1.39879
+[2025-04-08 04:17:22] nn step 6500, lr: 0.02.
+	loss_policy: 1.47446
+	accuracy_policy: 0.40625
+	loss_value: 1.38927
+Optimization_Done 6500
+[2025-04-08 04:36:38] [command] train weight_iter_6500.pkl 1 14
+[2025-04-08 04:37:17] nn step 6600, lr: 0.02.
+	loss_policy: 1.51217
+	accuracy_policy: 0.39918
+	loss_value: 1.40791
+[2025-04-08 04:37:55] nn step 6700, lr: 0.02.
+	loss_policy: 1.50421
+	accuracy_policy: 0.3989
+	loss_value: 1.40523
+[2025-04-08 04:38:35] nn step 6800, lr: 0.02.
+	loss_policy: 1.49433
+	accuracy_policy: 0.40209
+	loss_value: 1.40054
+[2025-04-08 04:39:14] nn step 6900, lr: 0.02.
+	loss_policy: 1.48837
+	accuracy_policy: 0.40568
+	loss_value: 1.38957
+[2025-04-08 04:39:51] nn step 7000, lr: 0.02.
+	loss_policy: 1.48092
+	accuracy_policy: 0.40683
+	loss_value: 1.38807
+Optimization_Done 7000
+[2025-04-08 04:59:28] [command] train weight_iter_7000.pkl 1 15
+[2025-04-08 05:00:06] nn step 7100, lr: 0.02.
+	loss_policy: 1.51313
+	accuracy_policy: 0.39739
+	loss_value: 1.40022
+[2025-04-08 05:00:46] nn step 7200, lr: 0.02.
+	loss_policy: 1.50598
+	accuracy_policy: 0.40031
+	loss_value: 1.39788
+[2025-04-08 05:01:26] nn step 7300, lr: 0.02.
+	loss_policy: 1.49562
+	accuracy_policy: 0.40493
+	loss_value: 1.38819
+[2025-04-08 05:02:06] nn step 7400, lr: 0.02.
+	loss_policy: 1.48557
+	accuracy_policy: 0.4056
+	loss_value: 1.37902
+[2025-04-08 05:02:46] nn step 7500, lr: 0.02.
+	loss_policy: 1.48256
+	accuracy_policy: 0.40666
+	loss_value: 1.37745
+Optimization_Done 7500
+[2025-04-08 05:22:11] [command] train weight_iter_7500.pkl 1 16
+[2025-04-08 05:22:50] nn step 7600, lr: 0.02.
+	loss_policy: 1.50536
+	accuracy_policy: 0.40069
+	loss_value: 1.40126
+[2025-04-08 05:23:28] nn step 7700, lr: 0.02.
+	loss_policy: 1.50975
+	accuracy_policy: 0.39823
+	loss_value: 1.38778
+[2025-04-08 05:24:07] nn step 7800, lr: 0.02.
+	loss_policy: 1.49668
+	accuracy_policy: 0.40357
+	loss_value: 1.38349
+[2025-04-08 05:24:47] nn step 7900, lr: 0.02.
+	loss_policy: 1.49268
+	accuracy_policy: 0.4063
+	loss_value: 1.38167
+[2025-04-08 05:25:26] nn step 8000, lr: 0.02.
+	loss_policy: 1.48617
+	accuracy_policy: 0.40632
+	loss_value: 1.37957
+Optimization_Done 8000
+[2025-04-08 05:44:43] [command] train weight_iter_8000.pkl 1 17
+[2025-04-08 05:45:22] nn step 8100, lr: 0.02.
+	loss_policy: 1.50586
+	accuracy_policy: 0.40309
+	loss_value: 1.40464
+[2025-04-08 05:46:00] nn step 8200, lr: 0.02.
+	loss_policy: 1.50388
+	accuracy_policy: 0.40336
+	loss_value: 1.39448
+[2025-04-08 05:46:39] nn step 8300, lr: 0.02.
+	loss_policy: 1.49666
+	accuracy_policy: 0.40712
+	loss_value: 1.38744
+[2025-04-08 05:47:19] nn step 8400, lr: 0.02.
+	loss_policy: 1.49228
+	accuracy_policy: 0.40755
+	loss_value: 1.37529
+[2025-04-08 05:47:59] nn step 8500, lr: 0.02.
+	loss_policy: 1.48485
+	accuracy_policy: 0.40971
+	loss_value: 1.37248
+Optimization_Done 8500
+[2025-04-08 06:07:43] [command] train weight_iter_8500.pkl 1 18
+[2025-04-08 06:08:20] nn step 8600, lr: 0.02.
+	loss_policy: 1.50998
+	accuracy_policy: 0.40192
+	loss_value: 1.39305
+[2025-04-08 06:08:58] nn step 8700, lr: 0.02.
+	loss_policy: 1.50687
+	accuracy_policy: 0.40088
+	loss_value: 1.38395
+[2025-04-08 06:09:37] nn step 8800, lr: 0.02.
+	loss_policy: 1.4942
+	accuracy_policy: 0.40582
+	loss_value: 1.37421
+[2025-04-08 06:10:16] nn step 8900, lr: 0.02.
+	loss_policy: 1.49056
+	accuracy_policy: 0.40748
+	loss_value: 1.37322
+[2025-04-08 06:10:54] nn step 9000, lr: 0.02.
+	loss_policy: 1.48885
+	accuracy_policy: 0.40727
+	loss_value: 1.36718
+Optimization_Done 9000
+[2025-04-08 06:30:25] [command] train weight_iter_9000.pkl 1 19
+[2025-04-08 06:31:03] nn step 9100, lr: 0.02.
+	loss_policy: 1.51135
+	accuracy_policy: 0.40238
+	loss_value: 1.39611
+[2025-04-08 06:31:43] nn step 9200, lr: 0.02.
+	loss_policy: 1.50593
+	accuracy_policy: 0.40299
+	loss_value: 1.38985
+[2025-04-08 06:32:22] nn step 9300, lr: 0.02.
+	loss_policy: 1.50085
+	accuracy_policy: 0.4063
+	loss_value: 1.38741
+[2025-04-08 06:33:02] nn step 9400, lr: 0.02.
+	loss_policy: 1.49222
+	accuracy_policy: 0.40747
+	loss_value: 1.38127
+[2025-04-08 06:33:41] nn step 9500, lr: 0.02.
+	loss_policy: 1.49374
+	accuracy_policy: 0.40641
+	loss_value: 1.37648
+Optimization_Done 9500
+[2025-04-08 06:53:07] [command] train weight_iter_9500.pkl 1 20
+[2025-04-08 06:53:44] nn step 9600, lr: 0.02.
+	loss_policy: 1.50616
+	accuracy_policy: 0.40478
+	loss_value: 1.38525
+[2025-04-08 06:54:22] nn step 9700, lr: 0.02.
+	loss_policy: 1.5044
+	accuracy_policy: 0.40534
+	loss_value: 1.38648
+[2025-04-08 06:55:01] nn step 9800, lr: 0.02.
+	loss_policy: 1.49464
+	accuracy_policy: 0.40527
+	loss_value: 1.37441
+[2025-04-08 06:55:40] nn step 9900, lr: 0.02.
+	loss_policy: 1.49208
+	accuracy_policy: 0.40696
+	loss_value: 1.37595
+[2025-04-08 06:56:18] nn step 10000, lr: 0.02.
+	loss_policy: 1.48837
+	accuracy_policy: 0.40907
+	loss_value: 1.37823
+Optimization_Done 10000
+[2025-04-08 07:16:00] [command] train weight_iter_10000.pkl 2 21
+[2025-04-08 07:16:38] nn step 10100, lr: 0.02.
+	loss_policy: 1.52959
+	accuracy_policy: 0.40942
+	loss_value: 1.41021
+[2025-04-08 07:17:18] nn step 10200, lr: 0.02.
+	loss_policy: 1.52407
+	accuracy_policy: 0.41266
+	loss_value: 1.40121
+[2025-04-08 07:17:58] nn step 10300, lr: 0.02.
+	loss_policy: 1.51867
+	accuracy_policy: 0.41248
+	loss_value: 1.39422
+[2025-04-08 07:18:38] nn step 10400, lr: 0.02.
+	loss_policy: 1.51387
+	accuracy_policy: 0.41417
+	loss_value: 1.39583
+[2025-04-08 07:19:18] nn step 10500, lr: 0.02.
+	loss_policy: 1.50904
+	accuracy_policy: 0.41522
+	loss_value: 1.39416
+Optimization_Done 10500
+[2025-04-08 07:38:38] [command] train weight_iter_10500.pkl 3 22
+[2025-04-08 07:39:16] nn step 10600, lr: 0.02.
+	loss_policy: 1.53174
+	accuracy_policy: 0.40997
+	loss_value: 1.41022
+[2025-04-08 07:39:55] nn step 10700, lr: 0.02.
+	loss_policy: 1.52387
+	accuracy_policy: 0.41542
+	loss_value: 1.393
+[2025-04-08 07:40:33] nn step 10800, lr: 0.02.
+	loss_policy: 1.51224
+	accuracy_policy: 0.41736
+	loss_value: 1.39045
+[2025-04-08 07:41:12] nn step 10900, lr: 0.02.
+	loss_policy: 1.50938
+	accuracy_policy: 0.41715
+	loss_value: 1.39205
+[2025-04-08 07:41:52] nn step 11000, lr: 0.02.
+	loss_policy: 1.50181
+	accuracy_policy: 0.42179
+	loss_value: 1.38553
+Optimization_Done 11000
+[2025-04-08 08:00:51] [command] train weight_iter_11000.pkl 4 23
+[2025-04-08 08:01:29] nn step 11100, lr: 0.02.
+	loss_policy: 1.53196
+	accuracy_policy: 0.41187
+	loss_value: 1.40192
+[2025-04-08 08:02:07] nn step 11200, lr: 0.02.
+	loss_policy: 1.51905
+	accuracy_policy: 0.41469
+	loss_value: 1.38426
+[2025-04-08 08:02:46] nn step 11300, lr: 0.02.
+	loss_policy: 1.51747
+	accuracy_policy: 0.41633
+	loss_value: 1.37748
+[2025-04-08 08:03:24] nn step 11400, lr: 0.02.
+	loss_policy: 1.50864
+	accuracy_policy: 0.41954
+	loss_value: 1.37857
+[2025-04-08 08:04:03] nn step 11500, lr: 0.02.
+	loss_policy: 1.50715
+	accuracy_policy: 0.41926
+	loss_value: 1.37416
+Optimization_Done 11500
+[2025-04-08 08:23:22] [command] train weight_iter_11500.pkl 5 24
+[2025-04-08 08:24:00] nn step 11600, lr: 0.02.
+	loss_policy: 1.52982
+	accuracy_policy: 0.41464
+	loss_value: 1.38306
+[2025-04-08 08:24:40] nn step 11700, lr: 0.02.
+	loss_policy: 1.52869
+	accuracy_policy: 0.41436
+	loss_value: 1.37404
+[2025-04-08 08:25:20] nn step 11800, lr: 0.02.
+	loss_policy: 1.50988
+	accuracy_policy: 0.41884
+	loss_value: 1.37506
+[2025-04-08 08:25:59] nn step 11900, lr: 0.02.
+	loss_policy: 1.50699
+	accuracy_policy: 0.42057
+	loss_value: 1.35868
+[2025-04-08 08:26:39] nn step 12000, lr: 0.02.
+	loss_policy: 1.50004
+	accuracy_policy: 0.42173
+	loss_value: 1.36756
+Optimization_Done 12000
+[2025-04-08 08:45:48] [command] train weight_iter_12000.pkl 6 25
+[2025-04-08 08:46:26] nn step 12100, lr: 0.02.
+	loss_policy: 1.5133
+	accuracy_policy: 0.42218
+	loss_value: 1.37523
+[2025-04-08 08:47:04] nn step 12200, lr: 0.02.
+	loss_policy: 1.51587
+	accuracy_policy: 0.42038
+	loss_value: 1.3746
+[2025-04-08 08:47:42] nn step 12300, lr: 0.02.
+	loss_policy: 1.50867
+	accuracy_policy: 0.42273
+	loss_value: 1.36308
+[2025-04-08 08:48:20] nn step 12400, lr: 0.02.
+	loss_policy: 1.5029
+	accuracy_policy: 0.41997
+	loss_value: 1.36326
+[2025-04-08 08:48:59] nn step 12500, lr: 0.02.
+	loss_policy: 1.50153
+	accuracy_policy: 0.42201
+	loss_value: 1.35263
+Optimization_Done 12500
+[2025-04-08 09:08:30] [command] train weight_iter_12500.pkl 7 26
+[2025-04-08 09:09:06] nn step 12600, lr: 0.02.
+	loss_policy: 1.52458
+	accuracy_policy: 0.41793
+	loss_value: 1.36291
+[2025-04-08 09:09:45] nn step 12700, lr: 0.02.
+	loss_policy: 1.50409
+	accuracy_policy: 0.42301
+	loss_value: 1.35912
+[2025-04-08 09:10:22] nn step 12800, lr: 0.02.
+	loss_policy: 1.50307
+	accuracy_policy: 0.42329
+	loss_value: 1.35121
+[2025-04-08 09:11:01] nn step 12900, lr: 0.02.
+	loss_policy: 1.50195
+	accuracy_policy: 0.42467
+	loss_value: 1.34776
+[2025-04-08 09:11:39] nn step 13000, lr: 0.02.
+	loss_policy: 1.49293
+	accuracy_policy: 0.42854
+	loss_value: 1.34949
+Optimization_Done 13000
+[2025-04-08 09:30:24] [command] train weight_iter_13000.pkl 8 27
+[2025-04-08 09:31:02] nn step 13100, lr: 0.02.
+	loss_policy: 1.51475
+	accuracy_policy: 0.42133
+	loss_value: 1.3472
+[2025-04-08 09:31:42] nn step 13200, lr: 0.02.
+	loss_policy: 1.51258
+	accuracy_policy: 0.42099
+	loss_value: 1.34881
+[2025-04-08 09:32:20] nn step 13300, lr: 0.02.
+	loss_policy: 1.50356
+	accuracy_policy: 0.42421
+	loss_value: 1.33381
+[2025-04-08 09:32:59] nn step 13400, lr: 0.02.
+	loss_policy: 1.49703
+	accuracy_policy: 0.42438
+	loss_value: 1.33311
+[2025-04-08 09:33:37] nn step 13500, lr: 0.02.
+	loss_policy: 1.48898
+	accuracy_policy: 0.42809
+	loss_value: 1.32688
+Optimization_Done 13500
+[2025-04-08 09:52:00] [command] train weight_iter_13500.pkl 9 28
+[2025-04-08 09:52:38] nn step 13600, lr: 0.02.
+	loss_policy: 1.5103
+	accuracy_policy: 0.42266
+	loss_value: 1.33827
+[2025-04-08 09:53:17] nn step 13700, lr: 0.02.
+	loss_policy: 1.50582
+	accuracy_policy: 0.42226
+	loss_value: 1.3392
+[2025-04-08 09:53:56] nn step 13800, lr: 0.02.
+	loss_policy: 1.49321
+	accuracy_policy: 0.42681
+	loss_value: 1.32414
+[2025-04-08 09:54:36] nn step 13900, lr: 0.02.
+	loss_policy: 1.48802
+	accuracy_policy: 0.42986
+	loss_value: 1.32756
+[2025-04-08 09:55:16] nn step 14000, lr: 0.02.
+	loss_policy: 1.48024
+	accuracy_policy: 0.43201
+	loss_value: 1.31951
+Optimization_Done 14000
+[2025-04-08 10:14:29] [command] train weight_iter_14000.pkl 10 29
+[2025-04-08 10:15:07] nn step 14100, lr: 0.02.
+	loss_policy: 1.5066
+	accuracy_policy: 0.42261
+	loss_value: 1.33275
+[2025-04-08 10:15:47] nn step 14200, lr: 0.02.
+	loss_policy: 1.49772
+	accuracy_policy: 0.42529
+	loss_value: 1.33263
+[2025-04-08 10:16:27] nn step 14300, lr: 0.02.
+	loss_policy: 1.48336
+	accuracy_policy: 0.42962
+	loss_value: 1.33051
+[2025-04-08 10:17:06] nn step 14400, lr: 0.02.
+	loss_policy: 1.48772
+	accuracy_policy: 0.42846
+	loss_value: 1.33322
+[2025-04-08 10:17:46] nn step 14500, lr: 0.02.
+	loss_policy: 1.47897
+	accuracy_policy: 0.43061
+	loss_value: 1.32336
+Optimization_Done 14500
+[2025-04-08 10:36:35] [command] train weight_iter_14500.pkl 11 30
+[2025-04-08 10:37:13] nn step 14600, lr: 0.02.
+	loss_policy: 1.50034
+	accuracy_policy: 0.42688
+	loss_value: 1.33365
+[2025-04-08 10:37:53] nn step 14700, lr: 0.02.
+	loss_policy: 1.48721
+	accuracy_policy: 0.42894
+	loss_value: 1.32722
+[2025-04-08 10:38:33] nn step 14800, lr: 0.02.
+	loss_policy: 1.48637
+	accuracy_policy: 0.42853
+	loss_value: 1.32611
+[2025-04-08 10:39:13] nn step 14900, lr: 0.02.
+	loss_policy: 1.47167
+	accuracy_policy: 0.43424
+	loss_value: 1.317
+[2025-04-08 10:39:54] nn step 15000, lr: 0.02.
+	loss_policy: 1.47662
+	accuracy_policy: 0.43333
+	loss_value: 1.31327
+Optimization_Done 15000
+[2025-04-08 10:58:32] [command] train weight_iter_15000.pkl 12 31
+[2025-04-08 10:59:09] nn step 15100, lr: 0.02.
+	loss_policy: 1.4869
+	accuracy_policy: 0.43056
+	loss_value: 1.32895
+[2025-04-08 10:59:46] nn step 15200, lr: 0.02.
+	loss_policy: 1.47421
+	accuracy_policy: 0.4319
+	loss_value: 1.32233
+[2025-04-08 11:00:24] nn step 15300, lr: 0.02.
+	loss_policy: 1.47759
+	accuracy_policy: 0.42988
+	loss_value: 1.31734
+[2025-04-08 11:01:00] nn step 15400, lr: 0.02.
+	loss_policy: 1.46752
+	accuracy_policy: 0.43483
+	loss_value: 1.31562
+[2025-04-08 11:01:37] nn step 15500, lr: 0.02.
+	loss_policy: 1.46517
+	accuracy_policy: 0.43737
+	loss_value: 1.31459
+Optimization_Done 15500
+[2025-04-08 11:19:45] [command] train weight_iter_15500.pkl 13 32
+[2025-04-08 11:20:21] nn step 15600, lr: 0.02.
+	loss_policy: 1.48395
+	accuracy_policy: 0.43128
+	loss_value: 1.33346
+[2025-04-08 11:20:59] nn step 15700, lr: 0.02.
+	loss_policy: 1.47304
+	accuracy_policy: 0.43431
+	loss_value: 1.32043
+[2025-04-08 11:21:36] nn step 15800, lr: 0.02.
+	loss_policy: 1.4664
+	accuracy_policy: 0.43536
+	loss_value: 1.31803
+[2025-04-08 11:22:13] nn step 15900, lr: 0.02.
+	loss_policy: 1.46399
+	accuracy_policy: 0.43773
+	loss_value: 1.31347
+[2025-04-08 11:22:49] nn step 16000, lr: 0.02.
+	loss_policy: 1.45917
+	accuracy_policy: 0.438
+	loss_value: 1.31481
+Optimization_Done 16000
+[2025-04-08 11:41:01] [command] train weight_iter_16000.pkl 14 33
+[2025-04-08 11:41:37] nn step 16100, lr: 0.02.
+	loss_policy: 1.48079
+	accuracy_policy: 0.43348
+	loss_value: 1.32742
+[2025-04-08 11:42:14] nn step 16200, lr: 0.02.
+	loss_policy: 1.47052
+	accuracy_policy: 0.43621
+	loss_value: 1.31973
+[2025-04-08 11:42:51] nn step 16300, lr: 0.02.
+	loss_policy: 1.46823
+	accuracy_policy: 0.43627
+	loss_value: 1.31579
+[2025-04-08 11:43:28] nn step 16400, lr: 0.02.
+	loss_policy: 1.46282
+	accuracy_policy: 0.43936
+	loss_value: 1.30966
+[2025-04-08 11:44:04] nn step 16500, lr: 0.02.
+	loss_policy: 1.45713
+	accuracy_policy: 0.44025
+	loss_value: 1.29988
+Optimization_Done 16500
+[2025-04-08 12:02:06] [command] train weight_iter_16500.pkl 15 34
+[2025-04-08 12:02:42] nn step 16600, lr: 0.02.
+	loss_policy: 1.47558
+	accuracy_policy: 0.43429
+	loss_value: 1.32988
+[2025-04-08 12:03:20] nn step 16700, lr: 0.02.
+	loss_policy: 1.4666
+	accuracy_policy: 0.43928
+	loss_value: 1.32285
+[2025-04-08 12:03:56] nn step 16800, lr: 0.02.
+	loss_policy: 1.45982
+	accuracy_policy: 0.43988
+	loss_value: 1.31929
+[2025-04-08 12:04:33] nn step 16900, lr: 0.02.
+	loss_policy: 1.45329
+	accuracy_policy: 0.44199
+	loss_value: 1.31761
+[2025-04-08 12:05:11] nn step 17000, lr: 0.02.
+	loss_policy: 1.45225
+	accuracy_policy: 0.44089
+	loss_value: 1.30118
+Optimization_Done 17000
+[2025-04-08 12:23:08] [command] train weight_iter_17000.pkl 16 35
+[2025-04-08 12:23:45] nn step 17100, lr: 0.02.
+	loss_policy: 1.46682
+	accuracy_policy: 0.43979
+	loss_value: 1.32966
+[2025-04-08 12:24:21] nn step 17200, lr: 0.02.
+	loss_policy: 1.45697
+	accuracy_policy: 0.44219
+	loss_value: 1.32106
+[2025-04-08 12:24:58] nn step 17300, lr: 0.02.
+	loss_policy: 1.45123
+	accuracy_policy: 0.44354
+	loss_value: 1.30965
+[2025-04-08 12:25:36] nn step 17400, lr: 0.02.
+	loss_policy: 1.44622
+	accuracy_policy: 0.44493
+	loss_value: 1.30991
+[2025-04-08 12:26:13] nn step 17500, lr: 0.02.
+	loss_policy: 1.44297
+	accuracy_policy: 0.44468
+	loss_value: 1.31119
+Optimization_Done 17500
+[2025-04-08 12:40:52] [command] train weight_iter_17500.pkl 17 36
+[2025-04-08 12:41:30] nn step 17600, lr: 0.02.
+	loss_policy: 1.46338
+	accuracy_policy: 0.4429
+	loss_value: 1.32677
+[2025-04-08 12:42:08] nn step 17700, lr: 0.02.
+	loss_policy: 1.4567
+	accuracy_policy: 0.44257
+	loss_value: 1.31591
+[2025-04-08 12:42:45] nn step 17800, lr: 0.02.
+	loss_policy: 1.44681
+	accuracy_policy: 0.44577
+	loss_value: 1.30935
+[2025-04-08 12:43:23] nn step 17900, lr: 0.02.
+	loss_policy: 1.45272
+	accuracy_policy: 0.4438
+	loss_value: 1.31487
+[2025-04-08 12:43:59] nn step 18000, lr: 0.02.
+	loss_policy: 1.43993
+	accuracy_policy: 0.44947
+	loss_value: 1.31186
+Optimization_Done 18000
+[2025-04-08 13:01:08] [command] train weight_iter_18000.pkl 18 37
+[2025-04-08 13:01:44] nn step 18100, lr: 0.02.
+	loss_policy: 1.45278
+	accuracy_policy: 0.44759
+	loss_value: 1.32169
+[2025-04-08 13:02:21] nn step 18200, lr: 0.02.
+	loss_policy: 1.44649
+	accuracy_policy: 0.44688
+	loss_value: 1.3166
+[2025-04-08 13:02:59] nn step 18300, lr: 0.02.
+	loss_policy: 1.43789
+	accuracy_policy: 0.44965
+	loss_value: 1.31442
+[2025-04-08 13:03:36] nn step 18400, lr: 0.02.
+	loss_policy: 1.43569
+	accuracy_policy: 0.44679
+	loss_value: 1.30978
+[2025-04-08 13:04:14] nn step 18500, lr: 0.02.
+	loss_policy: 1.42921
+	accuracy_policy: 0.45159
+	loss_value: 1.3112
+Optimization_Done 18500
+[2025-04-08 13:21:58] [command] train weight_iter_18500.pkl 19 38
+[2025-04-08 13:22:34] nn step 18600, lr: 0.02.
+	loss_policy: 1.45542
+	accuracy_policy: 0.44411
+	loss_value: 1.32454
+[2025-04-08 13:23:12] nn step 18700, lr: 0.02.
+	loss_policy: 1.44404
+	accuracy_policy: 0.44646
+	loss_value: 1.32064
+[2025-04-08 13:23:50] nn step 18800, lr: 0.02.
+	loss_policy: 1.43484
+	accuracy_policy: 0.45069
+	loss_value: 1.31656
+[2025-04-08 13:24:27] nn step 18900, lr: 0.02.
+	loss_policy: 1.43019
+	accuracy_policy: 0.45429
+	loss_value: 1.30963
+[2025-04-08 13:25:04] nn step 19000, lr: 0.02.
+	loss_policy: 1.42442
+	accuracy_policy: 0.45461
+	loss_value: 1.30592
+Optimization_Done 19000
+[2025-04-08 13:42:22] [command] train weight_iter_19000.pkl 20 39
+[2025-04-08 13:42:59] nn step 19100, lr: 0.02.
+	loss_policy: 1.4342
+	accuracy_policy: 0.45452
+	loss_value: 1.32335
+[2025-04-08 13:43:37] nn step 19200, lr: 0.02.
+	loss_policy: 1.42806
+	accuracy_policy: 0.45313
+	loss_value: 1.31282
+[2025-04-08 13:44:14] nn step 19300, lr: 0.02.
+	loss_policy: 1.42532
+	accuracy_policy: 0.45484
+	loss_value: 1.31678
+[2025-04-08 13:44:51] nn step 19400, lr: 0.02.
+	loss_policy: 1.41459
+	accuracy_policy: 0.45942
+	loss_value: 1.31022
+[2025-04-08 13:45:29] nn step 19500, lr: 0.02.
+	loss_policy: 1.40921
+	accuracy_policy: 0.46031
+	loss_value: 1.30374
+Optimization_Done 19500
+[2025-04-08 14:03:09] [command] train weight_iter_19500.pkl 21 40
+[2025-04-08 14:03:45] nn step 19600, lr: 0.02.
+	loss_policy: 1.4295
+	accuracy_policy: 0.45543
+	loss_value: 1.317
+[2025-04-08 14:04:23] nn step 19700, lr: 0.02.
+	loss_policy: 1.41277
+	accuracy_policy: 0.46067
+	loss_value: 1.3116
+[2025-04-08 14:05:00] nn step 19800, lr: 0.02.
+	loss_policy: 1.40905
+	accuracy_policy: 0.46175
+	loss_value: 1.31227
+[2025-04-08 14:05:37] nn step 19900, lr: 0.02.
+	loss_policy: 1.40894
+	accuracy_policy: 0.46054
+	loss_value: 1.30432
+[2025-04-08 14:06:15] nn step 20000, lr: 0.02.
+	loss_policy: 1.40854
+	accuracy_policy: 0.46209
+	loss_value: 1.30331
+Optimization_Done 20000
+[2025-04-08 14:23:36] [command] train weight_iter_20000.pkl 22 41
+[2025-04-08 14:24:11] nn step 20100, lr: 0.02.
+	loss_policy: 1.41254
+	accuracy_policy: 0.46087
+	loss_value: 1.3189
+[2025-04-08 14:24:47] nn step 20200, lr: 0.02.
+	loss_policy: 1.40938
+	accuracy_policy: 0.46309
+	loss_value: 1.31429
+[2025-04-08 14:25:23] nn step 20300, lr: 0.02.
+	loss_policy: 1.40263
+	accuracy_policy: 0.46247
+	loss_value: 1.31209
+[2025-04-08 14:26:00] nn step 20400, lr: 0.02.
+	loss_policy: 1.39377
+	accuracy_policy: 0.46713
+	loss_value: 1.30882
+[2025-04-08 14:26:38] nn step 20500, lr: 0.02.
+	loss_policy: 1.38984
+	accuracy_policy: 0.46849
+	loss_value: 1.30148
+Optimization_Done 20500
+[2025-04-08 14:42:38] [command] train weight_iter_20500.pkl 23 42
+[2025-04-08 14:43:16] nn step 20600, lr: 0.02.
+	loss_policy: 1.4133
+	accuracy_policy: 0.4636
+	loss_value: 1.32123
+[2025-04-08 14:43:53] nn step 20700, lr: 0.02.
+	loss_policy: 1.3977
+	accuracy_policy: 0.46619
+	loss_value: 1.31009
+[2025-04-08 14:44:31] nn step 20800, lr: 0.02.
+	loss_policy: 1.39447
+	accuracy_policy: 0.46915
+	loss_value: 1.30405
+[2025-04-08 14:45:10] nn step 20900, lr: 0.02.
+	loss_policy: 1.39255
+	accuracy_policy: 0.46961
+	loss_value: 1.30032
+[2025-04-08 14:45:47] nn step 21000, lr: 0.02.
+	loss_policy: 1.38789
+	accuracy_policy: 0.46902
+	loss_value: 1.30601
+Optimization_Done 21000
+[2025-04-08 15:01:42] [command] train weight_iter_21000.pkl 24 43
+[2025-04-08 15:02:17] nn step 21100, lr: 0.02.
+	loss_policy: 1.39812
+	accuracy_policy: 0.46661
+	loss_value: 1.31759
+[2025-04-08 15:02:54] nn step 21200, lr: 0.02.
+	loss_policy: 1.38871
+	accuracy_policy: 0.46923
+	loss_value: 1.3125
+[2025-04-08 15:03:30] nn step 21300, lr: 0.02.
+	loss_policy: 1.3831
+	accuracy_policy: 0.47168
+	loss_value: 1.30182
+[2025-04-08 15:04:07] nn step 21400, lr: 0.02.
+	loss_policy: 1.37451
+	accuracy_policy: 0.4757
+	loss_value: 1.30152
+[2025-04-08 15:04:44] nn step 21500, lr: 0.02.
+	loss_policy: 1.36728
+	accuracy_policy: 0.47974
+	loss_value: 1.29874
+Optimization_Done 21500
+[2025-04-08 15:20:21] [command] train weight_iter_21500.pkl 25 44
+[2025-04-08 15:20:58] nn step 21600, lr: 0.02.
+	loss_policy: 1.38368
+	accuracy_policy: 0.47525
+	loss_value: 1.31404
+[2025-04-08 15:21:35] nn step 21700, lr: 0.02.
+	loss_policy: 1.37419
+	accuracy_policy: 0.47437
+	loss_value: 1.30599
+[2025-04-08 15:22:12] nn step 21800, lr: 0.02.
+	loss_policy: 1.36668
+	accuracy_policy: 0.47655
+	loss_value: 1.29967
+[2025-04-08 15:22:50] nn step 21900, lr: 0.02.
+	loss_policy: 1.36404
+	accuracy_policy: 0.47741
+	loss_value: 1.30398
+[2025-04-08 15:23:27] nn step 22000, lr: 0.02.
+	loss_policy: 1.35863
+	accuracy_policy: 0.47961
+	loss_value: 1.2948
+Optimization_Done 22000
+[2025-04-08 15:40:27] [command] train weight_iter_22000.pkl 26 45
+[2025-04-08 15:41:02] nn step 22100, lr: 0.02.
+	loss_policy: 1.37423
+	accuracy_policy: 0.47652
+	loss_value: 1.3141
+[2025-04-08 15:41:39] nn step 22200, lr: 0.02.
+	loss_policy: 1.3624
+	accuracy_policy: 0.4803
+	loss_value: 1.30407
+[2025-04-08 15:42:16] nn step 22300, lr: 0.02.
+	loss_policy: 1.35599
+	accuracy_policy: 0.47996
+	loss_value: 1.30239
+[2025-04-08 15:42:53] nn step 22400, lr: 0.02.
+	loss_policy: 1.35492
+	accuracy_policy: 0.48292
+	loss_value: 1.29652
+[2025-04-08 15:43:29] nn step 22500, lr: 0.02.
+	loss_policy: 1.34534
+	accuracy_policy: 0.48639
+	loss_value: 1.29189
+Optimization_Done 22500
+[2025-04-08 16:00:33] [command] train weight_iter_22500.pkl 27 46
+[2025-04-08 16:01:09] nn step 22600, lr: 0.02.
+	loss_policy: 1.36529
+	accuracy_policy: 0.48146
+	loss_value: 1.31494
+[2025-04-08 16:01:45] nn step 22700, lr: 0.02.
+	loss_policy: 1.34917
+	accuracy_policy: 0.4862
+	loss_value: 1.30044
+[2025-04-08 16:02:21] nn step 22800, lr: 0.02.
+	loss_policy: 1.34138
+	accuracy_policy: 0.4898
+	loss_value: 1.28811
+[2025-04-08 16:02:58] nn step 22900, lr: 0.02.
+	loss_policy: 1.34124
+	accuracy_policy: 0.48801
+	loss_value: 1.29557
+[2025-04-08 16:03:36] nn step 23000, lr: 0.02.
+	loss_policy: 1.33581
+	accuracy_policy: 0.49116
+	loss_value: 1.29098
+Optimization_Done 23000
+[2025-04-08 16:20:27] [command] train weight_iter_23000.pkl 28 47
+[2025-04-08 16:21:03] nn step 23100, lr: 0.02.
+	loss_policy: 1.34304
+	accuracy_policy: 0.49099
+	loss_value: 1.31076
+[2025-04-08 16:21:39] nn step 23200, lr: 0.02.
+	loss_policy: 1.33797
+	accuracy_policy: 0.49101
+	loss_value: 1.30041
+[2025-04-08 16:22:15] nn step 23300, lr: 0.02.
+	loss_policy: 1.32659
+	accuracy_policy: 0.49312
+	loss_value: 1.2978
+[2025-04-08 16:22:52] nn step 23400, lr: 0.02.
+	loss_policy: 1.32272
+	accuracy_policy: 0.49492
+	loss_value: 1.29664
+[2025-04-08 16:23:28] nn step 23500, lr: 0.02.
+	loss_policy: 1.31433
+	accuracy_policy: 0.49675
+	loss_value: 1.28585
+Optimization_Done 23500
+[2025-04-08 16:40:10] [command] train weight_iter_23500.pkl 29 48
+[2025-04-08 16:40:46] nn step 23600, lr: 0.02.
+	loss_policy: 1.3267
+	accuracy_policy: 0.49567
+	loss_value: 1.30212
+[2025-04-08 16:41:23] nn step 23700, lr: 0.02.
+	loss_policy: 1.31999
+	accuracy_policy: 0.49517
+	loss_value: 1.29401
+[2025-04-08 16:41:59] nn step 23800, lr: 0.02.
+	loss_policy: 1.31407
+	accuracy_policy: 0.4992
+	loss_value: 1.29533
+[2025-04-08 16:42:35] nn step 23900, lr: 0.02.
+	loss_policy: 1.31608
+	accuracy_policy: 0.49651
+	loss_value: 1.29609
+[2025-04-08 16:43:11] nn step 24000, lr: 0.02.
+	loss_policy: 1.30497
+	accuracy_policy: 0.50161
+	loss_value: 1.28846
+Optimization_Done 24000
+[2025-04-08 16:59:48] [command] train weight_iter_24000.pkl 30 49
+[2025-04-08 17:00:22] nn step 24100, lr: 0.02.
+	loss_policy: 1.31209
+	accuracy_policy: 0.50073
+	loss_value: 1.3054
+[2025-04-08 17:00:58] nn step 24200, lr: 0.02.
+	loss_policy: 1.30219
+	accuracy_policy: 0.50376
+	loss_value: 1.29728
+[2025-04-08 17:01:34] nn step 24300, lr: 0.02.
+	loss_policy: 1.29614
+	accuracy_policy: 0.50547
+	loss_value: 1.29227
+[2025-04-08 17:02:10] nn step 24400, lr: 0.02.
+	loss_policy: 1.29044
+	accuracy_policy: 0.50794
+	loss_value: 1.28775
+[2025-04-08 17:02:46] nn step 24500, lr: 0.02.
+	loss_policy: 1.29046
+	accuracy_policy: 0.50609
+	loss_value: 1.28606
+Optimization_Done 24500
+[2025-04-08 17:19:09] [command] train weight_iter_24500.pkl 31 50
+[2025-04-08 17:19:45] nn step 24600, lr: 0.02.
+	loss_policy: 1.30087
+	accuracy_policy: 0.50268
+	loss_value: 1.30139
+[2025-04-08 17:20:22] nn step 24700, lr: 0.02.
+	loss_policy: 1.29405
+	accuracy_policy: 0.50657
+	loss_value: 1.29905
+[2025-04-08 17:20:58] nn step 24800, lr: 0.02.
+	loss_policy: 1.28689
+	accuracy_policy: 0.50835
+	loss_value: 1.29677
+[2025-04-08 17:21:34] nn step 24900, lr: 0.02.
+	loss_policy: 1.2805
+	accuracy_policy: 0.51026
+	loss_value: 1.29097
+[2025-04-08 17:22:12] nn step 25000, lr: 0.02.
+	loss_policy: 1.27914
+	accuracy_policy: 0.51302
+	loss_value: 1.28003
+Optimization_Done 25000
+[2025-04-08 17:38:33] [command] train weight_iter_25000.pkl 32 51
+[2025-04-08 17:39:09] nn step 25100, lr: 0.02.
+	loss_policy: 1.29198
+	accuracy_policy: 0.50762
+	loss_value: 1.30528
+[2025-04-08 17:39:45] nn step 25200, lr: 0.02.
+	loss_policy: 1.28193
+	accuracy_policy: 0.50973
+	loss_value: 1.29422
+[2025-04-08 17:40:21] nn step 25300, lr: 0.02.
+	loss_policy: 1.27602
+	accuracy_policy: 0.5122
+	loss_value: 1.28736
+[2025-04-08 17:40:59] nn step 25400, lr: 0.02.
+	loss_policy: 1.26953
+	accuracy_policy: 0.5151
+	loss_value: 1.28825
+[2025-04-08 17:41:36] nn step 25500, lr: 0.02.
+	loss_policy: 1.26673
+	accuracy_policy: 0.51712
+	loss_value: 1.28497
+Optimization_Done 25500
+[2025-04-08 17:58:19] [command] train weight_iter_25500.pkl 33 52
+[2025-04-08 17:58:55] nn step 25600, lr: 0.02.
+	loss_policy: 1.291
+	accuracy_policy: 0.50824
+	loss_value: 1.30438
+[2025-04-08 17:59:31] nn step 25700, lr: 0.02.
+	loss_policy: 1.2689
+	accuracy_policy: 0.51445
+	loss_value: 1.29836
+[2025-04-08 18:00:08] nn step 25800, lr: 0.02.
+	loss_policy: 1.2621
+	accuracy_policy: 0.51626
+	loss_value: 1.29453
+[2025-04-08 18:00:45] nn step 25900, lr: 0.02.
+	loss_policy: 1.25839
+	accuracy_policy: 0.51914
+	loss_value: 1.29237
+[2025-04-08 18:01:22] nn step 26000, lr: 0.02.
+	loss_policy: 1.25881
+	accuracy_policy: 0.51819
+	loss_value: 1.28761
+Optimization_Done 26000
+[2025-04-08 18:17:24] [command] train weight_iter_26000.pkl 34 53
+[2025-04-08 18:18:00] nn step 26100, lr: 0.02.
+	loss_policy: 1.26743
+	accuracy_policy: 0.51803
+	loss_value: 1.30094
+[2025-04-08 18:18:36] nn step 26200, lr: 0.02.
+	loss_policy: 1.25975
+	accuracy_policy: 0.51976
+	loss_value: 1.29059
+[2025-04-08 18:19:13] nn step 26300, lr: 0.02.
+	loss_policy: 1.25036
+	accuracy_policy: 0.52163
+	loss_value: 1.29061
+[2025-04-08 18:19:51] nn step 26400, lr: 0.02.
+	loss_policy: 1.24634
+	accuracy_policy: 0.52094
+	loss_value: 1.286
+[2025-04-08 18:20:28] nn step 26500, lr: 0.02.
+	loss_policy: 1.24235
+	accuracy_policy: 0.5244
+	loss_value: 1.28267
+Optimization_Done 26500
+[2025-04-08 18:37:08] [command] train weight_iter_26500.pkl 35 54
+[2025-04-08 18:37:44] nn step 26600, lr: 0.02.
+	loss_policy: 1.2579
+	accuracy_policy: 0.51914
+	loss_value: 1.31071
+[2025-04-08 18:38:21] nn step 26700, lr: 0.02.
+	loss_policy: 1.25172
+	accuracy_policy: 0.52248
+	loss_value: 1.29853
+[2025-04-08 18:38:57] nn step 26800, lr: 0.02.
+	loss_policy: 1.24817
+	accuracy_policy: 0.51895
+	loss_value: 1.29392
+[2025-04-08 18:39:33] nn step 26900, lr: 0.02.
+	loss_policy: 1.24456
+	accuracy_policy: 0.52285
+	loss_value: 1.29525
+[2025-04-08 18:40:10] nn step 27000, lr: 0.02.
+	loss_policy: 1.23106
+	accuracy_policy: 0.52841
+	loss_value: 1.28548
+Optimization_Done 27000
+[2025-04-08 18:56:26] [command] train weight_iter_27000.pkl 36 55
+[2025-04-08 18:57:01] nn step 27100, lr: 0.02.
+	loss_policy: 1.24088
+	accuracy_policy: 0.5272
+	loss_value: 1.29972
+[2025-04-08 18:57:38] nn step 27200, lr: 0.02.
+	loss_policy: 1.23566
+	accuracy_policy: 0.52804
+	loss_value: 1.29932
+[2025-04-08 18:58:15] nn step 27300, lr: 0.02.
+	loss_policy: 1.22457
+	accuracy_policy: 0.53108
+	loss_value: 1.28901
+[2025-04-08 18:58:51] nn step 27400, lr: 0.02.
+	loss_policy: 1.22704
+	accuracy_policy: 0.53123
+	loss_value: 1.29157
+[2025-04-08 18:59:27] nn step 27500, lr: 0.02.
+	loss_policy: 1.22074
+	accuracy_policy: 0.53185
+	loss_value: 1.28476
+Optimization_Done 27500
+[2025-04-08 19:15:07] [command] train weight_iter_27500.pkl 37 56
+[2025-04-08 19:15:43] nn step 27600, lr: 0.02.
+	loss_policy: 1.2419
+	accuracy_policy: 0.52718
+	loss_value: 1.30508
+[2025-04-08 19:16:20] nn step 27700, lr: 0.02.
+	loss_policy: 1.2296
+	accuracy_policy: 0.53127
+	loss_value: 1.29421
+[2025-04-08 19:16:57] nn step 27800, lr: 0.02.
+	loss_policy: 1.22022
+	accuracy_policy: 0.53176
+	loss_value: 1.29043
+[2025-04-08 19:17:35] nn step 27900, lr: 0.02.
+	loss_policy: 1.21858
+	accuracy_policy: 0.53249
+	loss_value: 1.29293
+[2025-04-08 19:18:11] nn step 28000, lr: 0.02.
+	loss_policy: 1.20697
+	accuracy_policy: 0.53555
+	loss_value: 1.28425
+Optimization_Done 28000
+[2025-04-08 19:33:41] [command] train weight_iter_28000.pkl 38 57
+[2025-04-08 19:34:16] nn step 28100, lr: 0.02.
+	loss_policy: 1.22606
+	accuracy_policy: 0.53104
+	loss_value: 1.30623
+[2025-04-08 19:34:54] nn step 28200, lr: 0.02.
+	loss_policy: 1.21195
+	accuracy_policy: 0.53546
+	loss_value: 1.29359
+[2025-04-08 19:35:30] nn step 28300, lr: 0.02.
+	loss_policy: 1.20775
+	accuracy_policy: 0.53486
+	loss_value: 1.28765
+[2025-04-08 19:36:07] nn step 28400, lr: 0.02.
+	loss_policy: 1.20766
+	accuracy_policy: 0.53547
+	loss_value: 1.28328
+[2025-04-08 19:36:44] nn step 28500, lr: 0.02.
+	loss_policy: 1.19984
+	accuracy_policy: 0.53696
+	loss_value: 1.28865
+Optimization_Done 28500
+[2025-04-08 19:52:18] [command] train weight_iter_28500.pkl 39 58
+[2025-04-08 19:52:54] nn step 28600, lr: 0.02.
+	loss_policy: 1.20887
+	accuracy_policy: 0.53811
+	loss_value: 1.29266
+[2025-04-08 19:53:31] nn step 28700, lr: 0.02.
+	loss_policy: 1.1995
+	accuracy_policy: 0.53878
+	loss_value: 1.28914
+[2025-04-08 19:54:07] nn step 28800, lr: 0.02.
+	loss_policy: 1.19286
+	accuracy_policy: 0.54062
+	loss_value: 1.2885
+[2025-04-08 19:54:43] nn step 28900, lr: 0.02.
+	loss_policy: 1.19283
+	accuracy_policy: 0.54128
+	loss_value: 1.28651
+[2025-04-08 19:55:19] nn step 29000, lr: 0.02.
+	loss_policy: 1.18648
+	accuracy_policy: 0.54119
+	loss_value: 1.27825
+Optimization_Done 29000
+[2025-04-08 20:11:23] [command] train weight_iter_29000.pkl 40 59
+[2025-04-08 20:11:59] nn step 29100, lr: 0.02.
+	loss_policy: 1.20001
+	accuracy_policy: 0.54138
+	loss_value: 1.30049
+[2025-04-08 20:12:35] nn step 29200, lr: 0.02.
+	loss_policy: 1.19555
+	accuracy_policy: 0.54173
+	loss_value: 1.2997
+[2025-04-08 20:13:12] nn step 29300, lr: 0.02.
+	loss_policy: 1.19255
+	accuracy_policy: 0.5438
+	loss_value: 1.28602
+[2025-04-08 20:13:48] nn step 29400, lr: 0.02.
+	loss_policy: 1.17888
+	accuracy_policy: 0.54689
+	loss_value: 1.28769
+[2025-04-08 20:14:25] nn step 29500, lr: 0.02.
+	loss_policy: 1.18351
+	accuracy_policy: 0.5457
+	loss_value: 1.2844
+Optimization_Done 29500
+[2025-04-08 20:30:11] [command] train weight_iter_29500.pkl 41 60
+[2025-04-08 20:30:47] nn step 29600, lr: 0.02.
+	loss_policy: 1.18904
+	accuracy_policy: 0.54518
+	loss_value: 1.29954
+[2025-04-08 20:31:24] nn step 29700, lr: 0.02.
+	loss_policy: 1.18038
+	accuracy_policy: 0.54749
+	loss_value: 1.28728
+[2025-04-08 20:32:02] nn step 29800, lr: 0.02.
+	loss_policy: 1.17243
+	accuracy_policy: 0.54944
+	loss_value: 1.28332
+[2025-04-08 20:32:39] nn step 29900, lr: 0.02.
+	loss_policy: 1.16828
+	accuracy_policy: 0.55036
+	loss_value: 1.28215
+[2025-04-08 20:33:17] nn step 30000, lr: 0.02.
+	loss_policy: 1.17061
+	accuracy_policy: 0.55077
+	loss_value: 1.28745
+Optimization_Done 30000
+[2025-04-08 20:49:15] [command] train weight_iter_30000.pkl 42 61
+[2025-04-08 20:49:52] nn step 30100, lr: 0.02.
+	loss_policy: 1.18808
+	accuracy_policy: 0.54664
+	loss_value: 1.29709
+[2025-04-08 20:50:29] nn step 30200, lr: 0.02.
+	loss_policy: 1.16885
+	accuracy_policy: 0.55304
+	loss_value: 1.28965
+[2025-04-08 20:51:07] nn step 30300, lr: 0.02.
+	loss_policy: 1.1687
+	accuracy_policy: 0.55368
+	loss_value: 1.28728
+[2025-04-08 20:51:45] nn step 30400, lr: 0.02.
+	loss_policy: 1.16887
+	accuracy_policy: 0.55335
+	loss_value: 1.28554
+[2025-04-08 20:52:22] nn step 30500, lr: 0.02.
+	loss_policy: 1.16399
+	accuracy_policy: 0.55344
+	loss_value: 1.28268
+Optimization_Done 30500
+[2025-04-08 21:07:09] [command] train weight_iter_30500.pkl 43 62
+[2025-04-08 21:07:46] nn step 30600, lr: 0.02.
+	loss_policy: 1.16808
+	accuracy_policy: 0.55506
+	loss_value: 1.29534
+[2025-04-08 21:08:23] nn step 30700, lr: 0.02.
+	loss_policy: 1.16599
+	accuracy_policy: 0.55379
+	loss_value: 1.28959
+[2025-04-08 21:09:01] nn step 30800, lr: 0.02.
+	loss_policy: 1.15956
+	accuracy_policy: 0.55516
+	loss_value: 1.28191
+[2025-04-08 21:09:39] nn step 30900, lr: 0.02.
+	loss_policy: 1.15309
+	accuracy_policy: 0.55738
+	loss_value: 1.28072
+[2025-04-08 21:10:16] nn step 31000, lr: 0.02.
+	loss_policy: 1.14921
+	accuracy_policy: 0.55813
+	loss_value: 1.27505
+Optimization_Done 31000
+[2025-04-08 21:26:06] [command] train weight_iter_31000.pkl 44 63
+[2025-04-08 21:26:45] nn step 31100, lr: 0.02.
+	loss_policy: 1.16259
+	accuracy_policy: 0.55488
+	loss_value: 1.29615
+[2025-04-08 21:27:26] nn step 31200, lr: 0.02.
+	loss_policy: 1.15623
+	accuracy_policy: 0.55871
+	loss_value: 1.28586
+[2025-04-08 21:28:05] nn step 31300, lr: 0.02.
+	loss_policy: 1.15227
+	accuracy_policy: 0.55767
+	loss_value: 1.28464
+[2025-04-08 21:28:44] nn step 31400, lr: 0.02.
+	loss_policy: 1.14977
+	accuracy_policy: 0.55908
+	loss_value: 1.28572
+[2025-04-08 21:29:24] nn step 31500, lr: 0.02.
+	loss_policy: 1.13552
+	accuracy_policy: 0.5635
+	loss_value: 1.27756
+Optimization_Done 31500
+[2025-04-08 21:46:14] [command] train weight_iter_31500.pkl 45 64
+[2025-04-08 21:46:51] nn step 31600, lr: 0.02.
+	loss_policy: 1.15786
+	accuracy_policy: 0.55803
+	loss_value: 1.29741
+[2025-04-08 21:47:30] nn step 31700, lr: 0.02.
+	loss_policy: 1.14466
+	accuracy_policy: 0.56219
+	loss_value: 1.28231
+[2025-04-08 21:48:09] nn step 31800, lr: 0.02.
+	loss_policy: 1.14011
+	accuracy_policy: 0.56296
+	loss_value: 1.28472
+[2025-04-08 21:48:49] nn step 31900, lr: 0.02.
+	loss_policy: 1.13983
+	accuracy_policy: 0.56318
+	loss_value: 1.27714
+[2025-04-08 21:49:28] nn step 32000, lr: 0.02.
+	loss_policy: 1.13567
+	accuracy_policy: 0.56186
+	loss_value: 1.28262
+Optimization_Done 32000
+[2025-04-08 22:05:54] [command] train weight_iter_32000.pkl 46 65
+[2025-04-08 22:06:32] nn step 32100, lr: 0.02.
+	loss_policy: 1.15156
+	accuracy_policy: 0.5596
+	loss_value: 1.29317
+[2025-04-08 22:07:11] nn step 32200, lr: 0.02.
+	loss_policy: 1.14327
+	accuracy_policy: 0.55975
+	loss_value: 1.28748
+[2025-04-08 22:07:51] nn step 32300, lr: 0.02.
+	loss_policy: 1.13602
+	accuracy_policy: 0.56347
+	loss_value: 1.28554
+[2025-04-08 22:08:30] nn step 32400, lr: 0.02.
+	loss_policy: 1.13366
+	accuracy_policy: 0.56415
+	loss_value: 1.2807
+[2025-04-08 22:09:11] nn step 32500, lr: 0.02.
+	loss_policy: 1.12359
+	accuracy_policy: 0.56694
+	loss_value: 1.28373
+Optimization_Done 32500
+[2025-04-08 22:25:53] [command] train weight_iter_32500.pkl 47 66
+[2025-04-08 22:26:32] nn step 32600, lr: 0.02.
+	loss_policy: 1.14665
+	accuracy_policy: 0.5609
+	loss_value: 1.29626
+[2025-04-08 22:27:11] nn step 32700, lr: 0.02.
+	loss_policy: 1.13713
+	accuracy_policy: 0.56218
+	loss_value: 1.29498
+[2025-04-08 22:27:52] nn step 32800, lr: 0.02.
+	loss_policy: 1.12958
+	accuracy_policy: 0.56654
+	loss_value: 1.28619
+[2025-04-08 22:28:32] nn step 32900, lr: 0.02.
+	loss_policy: 1.13278
+	accuracy_policy: 0.56601
+	loss_value: 1.28613
+[2025-04-08 22:29:13] nn step 33000, lr: 0.02.
+	loss_policy: 1.12681
+	accuracy_policy: 0.56566
+	loss_value: 1.28271
+Optimization_Done 33000
+[2025-04-08 22:45:24] [command] train weight_iter_33000.pkl 48 67
+[2025-04-08 22:46:04] nn step 33100, lr: 0.02.
+	loss_policy: 1.14885
+	accuracy_policy: 0.56287
+	loss_value: 1.29968
+[2025-04-08 22:46:44] nn step 33200, lr: 0.02.
+	loss_policy: 1.12598
+	accuracy_policy: 0.56737
+	loss_value: 1.2936
+[2025-04-08 22:47:24] nn step 33300, lr: 0.02.
+	loss_policy: 1.13166
+	accuracy_policy: 0.56752
+	loss_value: 1.28869
+[2025-04-08 22:48:04] nn step 33400, lr: 0.02.
+	loss_policy: 1.12063
+	accuracy_policy: 0.56773
+	loss_value: 1.28206
+[2025-04-08 22:48:44] nn step 33500, lr: 0.02.
+	loss_policy: 1.11885
+	accuracy_policy: 0.56871
+	loss_value: 1.28461
+Optimization_Done 33500
+[2025-04-08 23:04:38] [command] train weight_iter_33500.pkl 49 68
+[2025-04-08 23:05:17] nn step 33600, lr: 0.02.
+	loss_policy: 1.1401
+	accuracy_policy: 0.56394
+	loss_value: 1.29488
+[2025-04-08 23:05:56] nn step 33700, lr: 0.02.
+	loss_policy: 1.13518
+	accuracy_policy: 0.56716
+	loss_value: 1.29337
+[2025-04-08 23:06:35] nn step 33800, lr: 0.02.
+	loss_policy: 1.1197
+	accuracy_policy: 0.57041
+	loss_value: 1.28661
+[2025-04-08 23:07:16] nn step 33900, lr: 0.02.
+	loss_policy: 1.11796
+	accuracy_policy: 0.57055
+	loss_value: 1.2825
+[2025-04-08 23:07:57] nn step 34000, lr: 0.02.
+	loss_policy: 1.11705
+	accuracy_policy: 0.56936
+	loss_value: 1.28389
+Optimization_Done 34000
+[2025-04-08 23:23:54] [command] train weight_iter_34000.pkl 50 69
+[2025-04-08 23:24:32] nn step 34100, lr: 0.02.
+	loss_policy: 1.13793
+	accuracy_policy: 0.56554
+	loss_value: 1.29783
+[2025-04-08 23:25:13] nn step 34200, lr: 0.02.
+	loss_policy: 1.12691
+	accuracy_policy: 0.56749
+	loss_value: 1.29614
+[2025-04-08 23:25:52] nn step 34300, lr: 0.02.
+	loss_policy: 1.12548
+	accuracy_policy: 0.56898
+	loss_value: 1.29414
+[2025-04-08 23:26:32] nn step 34400, lr: 0.02.
+	loss_policy: 1.12295
+	accuracy_policy: 0.56638
+	loss_value: 1.28802
+[2025-04-08 23:27:12] nn step 34500, lr: 0.02.
+	loss_policy: 1.11688
+	accuracy_policy: 0.56993
+	loss_value: 1.28681
+Optimization_Done 34500
+[2025-04-08 23:43:56] [command] train weight_iter_34500.pkl 51 70
+[2025-04-08 23:44:35] nn step 34600, lr: 0.02.
+	loss_policy: 1.13685
+	accuracy_policy: 0.56565
+	loss_value: 1.29698
+[2025-04-08 23:45:15] nn step 34700, lr: 0.02.
+	loss_policy: 1.12774
+	accuracy_policy: 0.56774
+	loss_value: 1.28574
+[2025-04-08 23:45:56] nn step 34800, lr: 0.02.
+	loss_policy: 1.11733
+	accuracy_policy: 0.56896
+	loss_value: 1.28661
+[2025-04-08 23:46:36] nn step 34900, lr: 0.02.
+	loss_policy: 1.11615
+	accuracy_policy: 0.57115
+	loss_value: 1.28829
+[2025-04-08 23:47:17] nn step 35000, lr: 0.02.
+	loss_policy: 1.10457
+	accuracy_policy: 0.57526
+	loss_value: 1.28641
+Optimization_Done 35000
+[2025-04-09 00:03:22] [command] train weight_iter_35000.pkl 52 71
+[2025-04-09 00:04:01] nn step 35100, lr: 0.02.
+	loss_policy: 1.12785
+	accuracy_policy: 0.56799
+	loss_value: 1.30341
+[2025-04-09 00:04:41] nn step 35200, lr: 0.02.
+	loss_policy: 1.12195
+	accuracy_policy: 0.57082
+	loss_value: 1.28768
+[2025-04-09 00:05:21] nn step 35300, lr: 0.02.
+	loss_policy: 1.1242
+	accuracy_policy: 0.56799
+	loss_value: 1.288
+[2025-04-09 00:06:02] nn step 35400, lr: 0.02.
+	loss_policy: 1.10952
+	accuracy_policy: 0.57312
+	loss_value: 1.28856
+[2025-04-09 00:06:43] nn step 35500, lr: 0.02.
+	loss_policy: 1.11132
+	accuracy_policy: 0.57005
+	loss_value: 1.28132
+Optimization_Done 35500
+[2025-04-09 00:23:12] [command] train weight_iter_35500.pkl 53 72
+[2025-04-09 00:23:51] nn step 35600, lr: 0.02.
+	loss_policy: 1.13491
+	accuracy_policy: 0.5646
+	loss_value: 1.30763
+[2025-04-09 00:24:31] nn step 35700, lr: 0.02.
+	loss_policy: 1.11683
+	accuracy_policy: 0.57284
+	loss_value: 1.29747
+[2025-04-09 00:25:11] nn step 35800, lr: 0.02.
+	loss_policy: 1.11853
+	accuracy_policy: 0.57004
+	loss_value: 1.29936
+[2025-04-09 00:25:52] nn step 35900, lr: 0.02.
+	loss_policy: 1.11383
+	accuracy_policy: 0.57193
+	loss_value: 1.29249
+[2025-04-09 00:26:33] nn step 36000, lr: 0.02.
+	loss_policy: 1.10809
+	accuracy_policy: 0.57261
+	loss_value: 1.28532
+Optimization_Done 36000
+[2025-04-09 00:43:49] [command] train weight_iter_36000.pkl 54 73
+[2025-04-09 00:44:28] nn step 36100, lr: 0.02.
+	loss_policy: 1.13712
+	accuracy_policy: 0.56446
+	loss_value: 1.31221
+[2025-04-09 00:45:09] nn step 36200, lr: 0.02.
+	loss_policy: 1.12612
+	accuracy_policy: 0.56811
+	loss_value: 1.29932
+[2025-04-09 00:45:49] nn step 36300, lr: 0.02.
+	loss_policy: 1.11991
+	accuracy_policy: 0.56971
+	loss_value: 1.29718
+[2025-04-09 00:46:28] nn step 36400, lr: 0.02.
+	loss_policy: 1.11295
+	accuracy_policy: 0.57179
+	loss_value: 1.29448
+[2025-04-09 00:47:08] nn step 36500, lr: 0.02.
+	loss_policy: 1.11077
+	accuracy_policy: 0.57176
+	loss_value: 1.29521
+Optimization_Done 36500
+[2025-04-09 01:03:46] [command] train weight_iter_36500.pkl 55 74
+[2025-04-09 01:04:25] nn step 36600, lr: 0.02.
+	loss_policy: 1.12585
+	accuracy_policy: 0.56844
+	loss_value: 1.31322
+[2025-04-09 01:05:04] nn step 36700, lr: 0.02.
+	loss_policy: 1.11976
+	accuracy_policy: 0.56631
+	loss_value: 1.30476
+[2025-04-09 01:05:45] nn step 36800, lr: 0.02.
+	loss_policy: 1.11372
+	accuracy_policy: 0.56942
+	loss_value: 1.29869
+[2025-04-09 01:06:24] nn step 36900, lr: 0.02.
+	loss_policy: 1.10907
+	accuracy_policy: 0.57018
+	loss_value: 1.30136
+[2025-04-09 01:07:03] nn step 37000, lr: 0.02.
+	loss_policy: 1.10493
+	accuracy_policy: 0.57224
+	loss_value: 1.29691
+Optimization_Done 37000
+[2025-04-09 01:24:04] [command] train weight_iter_37000.pkl 56 75
+[2025-04-09 01:24:43] nn step 37100, lr: 0.02.
+	loss_policy: 1.1287
+	accuracy_policy: 0.56906
+	loss_value: 1.31513
+[2025-04-09 01:25:24] nn step 37200, lr: 0.02.
+	loss_policy: 1.12036
+	accuracy_policy: 0.56962
+	loss_value: 1.30575
+[2025-04-09 01:26:04] nn step 37300, lr: 0.02.
+	loss_policy: 1.11098
+	accuracy_policy: 0.57358
+	loss_value: 1.30254
+[2025-04-09 01:26:43] nn step 37400, lr: 0.02.
+	loss_policy: 1.11003
+	accuracy_policy: 0.57156
+	loss_value: 1.30002
+[2025-04-09 01:27:23] nn step 37500, lr: 0.02.
+	loss_policy: 1.10422
+	accuracy_policy: 0.57367
+	loss_value: 1.29999
+Optimization_Done 37500
+[2025-04-09 01:43:55] [command] train weight_iter_37500.pkl 57 76
+[2025-04-09 01:44:34] nn step 37600, lr: 0.02.
+	loss_policy: 1.12393
+	accuracy_policy: 0.56939
+	loss_value: 1.31907
+[2025-04-09 01:45:15] nn step 37700, lr: 0.02.
+	loss_policy: 1.11713
+	accuracy_policy: 0.56827
+	loss_value: 1.31755
+[2025-04-09 01:45:54] nn step 37800, lr: 0.02.
+	loss_policy: 1.10832
+	accuracy_policy: 0.57294
+	loss_value: 1.30467
+[2025-04-09 01:46:35] nn step 37900, lr: 0.02.
+	loss_policy: 1.1036
+	accuracy_policy: 0.57269
+	loss_value: 1.3006
+[2025-04-09 01:47:14] nn step 38000, lr: 0.02.
+	loss_policy: 1.09772
+	accuracy_policy: 0.57556
+	loss_value: 1.29724
+Optimization_Done 38000
+[2025-04-09 02:03:22] [command] train weight_iter_38000.pkl 58 77
+[2025-04-09 02:04:01] nn step 38100, lr: 0.02.
+	loss_policy: 1.12285
+	accuracy_policy: 0.56892
+	loss_value: 1.31628
+[2025-04-09 02:04:42] nn step 38200, lr: 0.02.
+	loss_policy: 1.11687
+	accuracy_policy: 0.56935
+	loss_value: 1.31052
+[2025-04-09 02:05:23] nn step 38300, lr: 0.02.
+	loss_policy: 1.10872
+	accuracy_policy: 0.5709
+	loss_value: 1.30731
+[2025-04-09 02:06:03] nn step 38400, lr: 0.02.
+	loss_policy: 1.10364
+	accuracy_policy: 0.57252
+	loss_value: 1.30088
+[2025-04-09 02:06:44] nn step 38500, lr: 0.02.
+	loss_policy: 1.10381
+	accuracy_policy: 0.57299
+	loss_value: 1.30013
+Optimization_Done 38500
+[2025-04-09 02:22:48] [command] train weight_iter_38500.pkl 59 78
+[2025-04-09 02:23:27] nn step 38600, lr: 0.02.
+	loss_policy: 1.12072
+	accuracy_policy: 0.5707
+	loss_value: 1.32086
+[2025-04-09 02:24:06] nn step 38700, lr: 0.02.
+	loss_policy: 1.10609
+	accuracy_policy: 0.57559
+	loss_value: 1.30974
+[2025-04-09 02:24:47] nn step 38800, lr: 0.02.
+	loss_policy: 1.10056
+	accuracy_policy: 0.57608
+	loss_value: 1.30593
+[2025-04-09 02:25:27] nn step 38900, lr: 0.02.
+	loss_policy: 1.09752
+	accuracy_policy: 0.57642
+	loss_value: 1.31033
+[2025-04-09 02:26:07] nn step 39000, lr: 0.02.
+	loss_policy: 1.10157
+	accuracy_policy: 0.57301
+	loss_value: 1.30129
+Optimization_Done 39000
+[2025-04-09 02:42:37] [command] train weight_iter_39000.pkl 60 79
+[2025-04-09 02:43:15] nn step 39100, lr: 0.02.
+	loss_policy: 1.11763
+	accuracy_policy: 0.57023
+	loss_value: 1.31667
+[2025-04-09 02:43:56] nn step 39200, lr: 0.02.
+	loss_policy: 1.10804
+	accuracy_policy: 0.57246
+	loss_value: 1.31022
+[2025-04-09 02:44:36] nn step 39300, lr: 0.02.
+	loss_policy: 1.10442
+	accuracy_policy: 0.57362
+	loss_value: 1.3105
+[2025-04-09 02:45:15] nn step 39400, lr: 0.02.
+	loss_policy: 1.10022
+	accuracy_policy: 0.57574
+	loss_value: 1.30772
+[2025-04-09 02:45:54] nn step 39500, lr: 0.02.
+	loss_policy: 1.0952
+	accuracy_policy: 0.57389
+	loss_value: 1.30529
+Optimization_Done 39500
+[2025-04-09 03:02:03] [command] train weight_iter_39500.pkl 61 80
+[2025-04-09 03:02:39] nn step 39600, lr: 0.02.
+	loss_policy: 1.12349
+	accuracy_policy: 0.56894
+	loss_value: 1.32468
+[2025-04-09 03:03:18] nn step 39700, lr: 0.02.
+	loss_policy: 1.11496
+	accuracy_policy: 0.56716
+	loss_value: 1.31915
+[2025-04-09 03:03:58] nn step 39800, lr: 0.02.
+	loss_policy: 1.11181
+	accuracy_policy: 0.56857
+	loss_value: 1.32056
+[2025-04-09 03:04:37] nn step 39900, lr: 0.02.
+	loss_policy: 1.11023
+	accuracy_policy: 0.56888
+	loss_value: 1.31578
+[2025-04-09 03:05:17] nn step 40000, lr: 0.02.
+	loss_policy: 1.10862
+	accuracy_policy: 0.56879
+	loss_value: 1.3059
+Optimization_Done 40000
+[2025-04-09 03:21:42] [command] train weight_iter_40000.pkl 62 81
+[2025-04-09 03:22:21] nn step 40100, lr: 0.02.
+	loss_policy: 1.12245
+	accuracy_policy: 0.56696
+	loss_value: 1.32769
+[2025-04-09 03:23:00] nn step 40200, lr: 0.02.
+	loss_policy: 1.11961
+	accuracy_policy: 0.5683
+	loss_value: 1.32635
+[2025-04-09 03:23:39] nn step 40300, lr: 0.02.
+	loss_policy: 1.11435
+	accuracy_policy: 0.56935
+	loss_value: 1.31602
+[2025-04-09 03:24:18] nn step 40400, lr: 0.02.
+	loss_policy: 1.10919
+	accuracy_policy: 0.57247
+	loss_value: 1.32372
+[2025-04-09 03:24:59] nn step 40500, lr: 0.02.
+	loss_policy: 1.10019
+	accuracy_policy: 0.57405
+	loss_value: 1.31434
+Optimization_Done 40500
+[2025-04-09 03:41:46] [command] train weight_iter_40500.pkl 63 82
+[2025-04-09 03:42:25] nn step 40600, lr: 0.02.
+	loss_policy: 1.12038
+	accuracy_policy: 0.56615
+	loss_value: 1.33539
+[2025-04-09 03:43:05] nn step 40700, lr: 0.02.
+	loss_policy: 1.11536
+	accuracy_policy: 0.56843
+	loss_value: 1.33418
+[2025-04-09 03:43:44] nn step 40800, lr: 0.02.
+	loss_policy: 1.1113
+	accuracy_policy: 0.57014
+	loss_value: 1.328
+[2025-04-09 03:44:25] nn step 40900, lr: 0.02.
+	loss_policy: 1.10662
+	accuracy_policy: 0.57134
+	loss_value: 1.32519
+[2025-04-09 03:45:05] nn step 41000, lr: 0.02.
+	loss_policy: 1.10651
+	accuracy_policy: 0.57268
+	loss_value: 1.32208
+Optimization_Done 41000
+[2025-04-09 04:01:14] [command] train weight_iter_41000.pkl 64 83
+[2025-04-09 04:01:53] nn step 41100, lr: 0.02.
+	loss_policy: 1.12785
+	accuracy_policy: 0.56464
+	loss_value: 1.33945
+[2025-04-09 04:02:34] nn step 41200, lr: 0.02.
+	loss_policy: 1.11412
+	accuracy_policy: 0.5688
+	loss_value: 1.33328
+[2025-04-09 04:03:14] nn step 41300, lr: 0.02.
+	loss_policy: 1.11413
+	accuracy_policy: 0.56743
+	loss_value: 1.33125
+[2025-04-09 04:03:54] nn step 41400, lr: 0.02.
+	loss_policy: 1.11229
+	accuracy_policy: 0.57098
+	loss_value: 1.325
+[2025-04-09 04:04:35] nn step 41500, lr: 0.02.
+	loss_policy: 1.10358
+	accuracy_policy: 0.57154
+	loss_value: 1.32321
+Optimization_Done 41500
+[2025-04-09 04:20:11] [command] train weight_iter_41500.pkl 65 84
+[2025-04-09 04:20:50] nn step 41600, lr: 0.02.
+	loss_policy: 1.12628
+	accuracy_policy: 0.56563
+	loss_value: 1.35215
+[2025-04-09 04:21:30] nn step 41700, lr: 0.02.
+	loss_policy: 1.11964
+	accuracy_policy: 0.56788
+	loss_value: 1.33643
+[2025-04-09 04:22:09] nn step 41800, lr: 0.02.
+	loss_policy: 1.1133
+	accuracy_policy: 0.57017
+	loss_value: 1.33208
+[2025-04-09 04:22:49] nn step 41900, lr: 0.02.
+	loss_policy: 1.11008
+	accuracy_policy: 0.56857
+	loss_value: 1.33327
+[2025-04-09 04:23:30] nn step 42000, lr: 0.02.
+	loss_policy: 1.11061
+	accuracy_policy: 0.5698
+	loss_value: 1.33691
+Optimization_Done 42000
+[2025-04-09 04:40:32] [command] train weight_iter_42000.pkl 66 85
+[2025-04-09 04:41:11] nn step 42100, lr: 0.02.
+	loss_policy: 1.14132
+	accuracy_policy: 0.55867
+	loss_value: 1.35075
+[2025-04-09 04:41:51] nn step 42200, lr: 0.02.
+	loss_policy: 1.12416
+	accuracy_policy: 0.56753
+	loss_value: 1.3379
+[2025-04-09 04:42:31] nn step 42300, lr: 0.02.
+	loss_policy: 1.12501
+	accuracy_policy: 0.56603
+	loss_value: 1.33572
+[2025-04-09 04:43:10] nn step 42400, lr: 0.02.
+	loss_policy: 1.11363
+	accuracy_policy: 0.56995
+	loss_value: 1.34052
+[2025-04-09 04:43:51] nn step 42500, lr: 0.02.
+	loss_policy: 1.11555
+	accuracy_policy: 0.56812
+	loss_value: 1.33704
+Optimization_Done 42500
+[2025-04-09 05:00:25] [command] train weight_iter_42500.pkl 67 86
+[2025-04-09 05:01:04] nn step 42600, lr: 0.02.
+	loss_policy: 1.13515
+	accuracy_policy: 0.56092
+	loss_value: 1.35441
+[2025-04-09 05:01:43] nn step 42700, lr: 0.02.
+	loss_policy: 1.12434
+	accuracy_policy: 0.56459
+	loss_value: 1.34963
+[2025-04-09 05:02:24] nn step 42800, lr: 0.02.
+	loss_policy: 1.12561
+	accuracy_policy: 0.56317
+	loss_value: 1.35092
+[2025-04-09 05:03:04] nn step 42900, lr: 0.02.
+	loss_policy: 1.11988
+	accuracy_policy: 0.56539
+	loss_value: 1.33606
+[2025-04-09 05:03:44] nn step 43000, lr: 0.02.
+	loss_policy: 1.11246
+	accuracy_policy: 0.56947
+	loss_value: 1.3423
+Optimization_Done 43000
+[2025-04-09 05:20:26] [command] train weight_iter_43000.pkl 68 87
+[2025-04-09 05:21:05] nn step 43100, lr: 0.02.
+	loss_policy: 1.13977
+	accuracy_policy: 0.55941
+	loss_value: 1.36038
+[2025-04-09 05:21:46] nn step 43200, lr: 0.02.
+	loss_policy: 1.13081
+	accuracy_policy: 0.56398
+	loss_value: 1.35331
+[2025-04-09 05:22:27] nn step 43300, lr: 0.02.
+	loss_policy: 1.12454
+	accuracy_policy: 0.56575
+	loss_value: 1.35459
+[2025-04-09 05:23:07] nn step 43400, lr: 0.02.
+	loss_policy: 1.12343
+	accuracy_policy: 0.56518
+	loss_value: 1.34808
+[2025-04-09 05:23:47] nn step 43500, lr: 0.02.
+	loss_policy: 1.11374
+	accuracy_policy: 0.56917
+	loss_value: 1.34
+Optimization_Done 43500
+[2025-04-09 05:40:28] [command] train weight_iter_43500.pkl 69 88
+[2025-04-09 05:41:07] nn step 43600, lr: 0.02.
+	loss_policy: 1.13746
+	accuracy_policy: 0.56422
+	loss_value: 1.36837
+[2025-04-09 05:41:47] nn step 43700, lr: 0.02.
+	loss_policy: 1.1251
+	accuracy_policy: 0.56687
+	loss_value: 1.35864
+[2025-04-09 05:42:28] nn step 43800, lr: 0.02.
+	loss_policy: 1.12568
+	accuracy_policy: 0.56576
+	loss_value: 1.34997
+[2025-04-09 05:43:09] nn step 43900, lr: 0.02.
+	loss_policy: 1.11986
+	accuracy_policy: 0.56771
+	loss_value: 1.35439
+[2025-04-09 05:43:49] nn step 44000, lr: 0.02.
+	loss_policy: 1.1152
+	accuracy_policy: 0.56847
+	loss_value: 1.34489
+Optimization_Done 44000
+[2025-04-09 05:59:46] [command] train weight_iter_44000.pkl 70 89
+[2025-04-09 06:00:23] nn step 44100, lr: 0.02.
+	loss_policy: 1.13081
+	accuracy_policy: 0.56586
+	loss_value: 1.37164
+[2025-04-09 06:01:02] nn step 44200, lr: 0.02.
+	loss_policy: 1.13
+	accuracy_policy: 0.56598
+	loss_value: 1.36578
+[2025-04-09 06:01:39] nn step 44300, lr: 0.02.
+	loss_policy: 1.12525
+	accuracy_policy: 0.56626
+	loss_value: 1.35652
+[2025-04-09 06:02:18] nn step 44400, lr: 0.02.
+	loss_policy: 1.12131
+	accuracy_policy: 0.56822
+	loss_value: 1.3526
+[2025-04-09 06:02:58] nn step 44500, lr: 0.02.
+	loss_policy: 1.11583
+	accuracy_policy: 0.56658
+	loss_value: 1.3516
+Optimization_Done 44500
+[2025-04-09 06:19:08] [command] train weight_iter_44500.pkl 71 90
+[2025-04-09 06:19:47] nn step 44600, lr: 0.02.
+	loss_policy: 1.13697
+	accuracy_policy: 0.56393
+	loss_value: 1.38301
+[2025-04-09 06:20:26] nn step 44700, lr: 0.02.
+	loss_policy: 1.13304
+	accuracy_policy: 0.56464
+	loss_value: 1.36592
+[2025-04-09 06:21:06] nn step 44800, lr: 0.02.
+	loss_policy: 1.13004
+	accuracy_policy: 0.56183
+	loss_value: 1.36876
+[2025-04-09 06:21:47] nn step 44900, lr: 0.02.
+	loss_policy: 1.12129
+	accuracy_policy: 0.56585
+	loss_value: 1.36711
+[2025-04-09 06:22:26] nn step 45000, lr: 0.02.
+	loss_policy: 1.12015
+	accuracy_policy: 0.56647
+	loss_value: 1.35788
+Optimization_Done 45000
+[2025-04-09 06:39:16] [command] train weight_iter_45000.pkl 72 91
+[2025-04-09 06:39:55] nn step 45100, lr: 0.02.
+	loss_policy: 1.1414
+	accuracy_policy: 0.56126
+	loss_value: 1.38078
+[2025-04-09 06:40:35] nn step 45200, lr: 0.02.
+	loss_policy: 1.13079
+	accuracy_policy: 0.56378
+	loss_value: 1.37477
+[2025-04-09 06:41:15] nn step 45300, lr: 0.02.
+	loss_policy: 1.12858
+	accuracy_policy: 0.56639
+	loss_value: 1.37174
+[2025-04-09 06:41:55] nn step 45400, lr: 0.02.
+	loss_policy: 1.12712
+	accuracy_policy: 0.56553
+	loss_value: 1.37045
+[2025-04-09 06:42:35] nn step 45500, lr: 0.02.
+	loss_policy: 1.12211
+	accuracy_policy: 0.56562
+	loss_value: 1.37127
+Optimization_Done 45500
+[2025-04-09 06:58:20] [command] train weight_iter_45500.pkl 73 92
+[2025-04-09 06:58:59] nn step 45600, lr: 0.02.
+	loss_policy: 1.14287
+	accuracy_policy: 0.5601
+	loss_value: 1.38716
+[2025-04-09 06:59:38] nn step 45700, lr: 0.02.
+	loss_policy: 1.13481
+	accuracy_policy: 0.56244
+	loss_value: 1.37787
+[2025-04-09 07:00:17] nn step 45800, lr: 0.02.
+	loss_policy: 1.13062
+	accuracy_policy: 0.56194
+	loss_value: 1.37666
+[2025-04-09 07:00:57] nn step 45900, lr: 0.02.
+	loss_policy: 1.1268
+	accuracy_policy: 0.56272
+	loss_value: 1.37302
+[2025-04-09 07:01:36] nn step 46000, lr: 0.02.
+	loss_policy: 1.12508
+	accuracy_policy: 0.56578
+	loss_value: 1.36603
+Optimization_Done 46000
+[2025-04-09 07:18:56] [command] train weight_iter_46000.pkl 74 93
+[2025-04-09 07:19:35] nn step 46100, lr: 0.02.
+	loss_policy: 1.14134
+	accuracy_policy: 0.5617
+	loss_value: 1.39335
+[2025-04-09 07:20:16] nn step 46200, lr: 0.02.
+	loss_policy: 1.13084
+	accuracy_policy: 0.56544
+	loss_value: 1.38227
+[2025-04-09 07:20:56] nn step 46300, lr: 0.02.
+	loss_policy: 1.12833
+	accuracy_policy: 0.56208
+	loss_value: 1.38094
+[2025-04-09 07:21:36] nn step 46400, lr: 0.02.
+	loss_policy: 1.1289
+	accuracy_policy: 0.56348
+	loss_value: 1.37957
+[2025-04-09 07:22:17] nn step 46500, lr: 0.02.
+	loss_policy: 1.12087
+	accuracy_policy: 0.56506
+	loss_value: 1.37599
+Optimization_Done 46500
+[2025-04-09 07:38:17] [command] train weight_iter_46500.pkl 75 94
+[2025-04-09 07:38:54] nn step 46600, lr: 0.02.
+	loss_policy: 1.1521
+	accuracy_policy: 0.55808
+	loss_value: 1.38802
+[2025-04-09 07:39:33] nn step 46700, lr: 0.02.
+	loss_policy: 1.13315
+	accuracy_policy: 0.56125
+	loss_value: 1.37828
+[2025-04-09 07:40:12] nn step 46800, lr: 0.02.
+	loss_policy: 1.12953
+	accuracy_policy: 0.56373
+	loss_value: 1.38185
+[2025-04-09 07:40:52] nn step 46900, lr: 0.02.
+	loss_policy: 1.12862
+	accuracy_policy: 0.56401
+	loss_value: 1.38034
+[2025-04-09 07:41:31] nn step 47000, lr: 0.02.
+	loss_policy: 1.12014
+	accuracy_policy: 0.56626
+	loss_value: 1.37251
+Optimization_Done 47000
+[2025-04-09 07:57:27] [command] train weight_iter_47000.pkl 76 95
+[2025-04-09 07:58:06] nn step 47100, lr: 0.02.
+	loss_policy: 1.1435
+	accuracy_policy: 0.56121
+	loss_value: 1.39348
+[2025-04-09 07:58:47] nn step 47200, lr: 0.02.
+	loss_policy: 1.1306
+	accuracy_policy: 0.56459
+	loss_value: 1.38087
+[2025-04-09 07:59:26] nn step 47300, lr: 0.02.
+	loss_policy: 1.12807
+	accuracy_policy: 0.56469
+	loss_value: 1.37971
+[2025-04-09 08:00:06] nn step 47400, lr: 0.02.
+	loss_policy: 1.12643
+	accuracy_policy: 0.56299
+	loss_value: 1.38608
+[2025-04-09 08:00:45] nn step 47500, lr: 0.02.
+	loss_policy: 1.12104
+	accuracy_policy: 0.56616
+	loss_value: 1.38194
+Optimization_Done 47500
+[2025-04-09 08:17:34] [command] train weight_iter_47500.pkl 77 96
+[2025-04-09 08:18:14] nn step 47600, lr: 0.02.
+	loss_policy: 1.14351
+	accuracy_policy: 0.56014
+	loss_value: 1.40434
+[2025-04-09 08:18:53] nn step 47700, lr: 0.02.
+	loss_policy: 1.14059
+	accuracy_policy: 0.56028
+	loss_value: 1.39625
+[2025-04-09 08:19:34] nn step 47800, lr: 0.02.
+	loss_policy: 1.14394
+	accuracy_policy: 0.56043
+	loss_value: 1.39255
+[2025-04-09 08:20:14] nn step 47900, lr: 0.02.
+	loss_policy: 1.13083
+	accuracy_policy: 0.56247
+	loss_value: 1.38679
+[2025-04-09 08:20:55] nn step 48000, lr: 0.02.
+	loss_policy: 1.13306
+	accuracy_policy: 0.56171
+	loss_value: 1.38522
+Optimization_Done 48000
+[2025-04-09 08:37:30] [command] train weight_iter_48000.pkl 78 97
+[2025-04-09 08:38:09] nn step 48100, lr: 0.02.
+	loss_policy: 1.14786
+	accuracy_policy: 0.55952
+	loss_value: 1.40505
+[2025-04-09 08:38:50] nn step 48200, lr: 0.02.
+	loss_policy: 1.13468
+	accuracy_policy: 0.56347
+	loss_value: 1.39481
+[2025-04-09 08:39:31] nn step 48300, lr: 0.02.
+	loss_policy: 1.13842
+	accuracy_policy: 0.56114
+	loss_value: 1.39124
+[2025-04-09 08:40:11] nn step 48400, lr: 0.02.
+	loss_policy: 1.12889
+	accuracy_policy: 0.56417
+	loss_value: 1.39036
+[2025-04-09 08:40:52] nn step 48500, lr: 0.02.
+	loss_policy: 1.12662
+	accuracy_policy: 0.56328
+	loss_value: 1.38624
+Optimization_Done 48500
+[2025-04-09 08:57:41] [command] train weight_iter_48500.pkl 79 98
+[2025-04-09 08:58:20] nn step 48600, lr: 0.02.
+	loss_policy: 1.15034
+	accuracy_policy: 0.55923
+	loss_value: 1.40598
+[2025-04-09 08:58:59] nn step 48700, lr: 0.02.
+	loss_policy: 1.14005
+	accuracy_policy: 0.56062
+	loss_value: 1.39549
+[2025-04-09 08:59:40] nn step 48800, lr: 0.02.
+	loss_policy: 1.13641
+	accuracy_policy: 0.55951
+	loss_value: 1.39471
+[2025-04-09 09:00:21] nn step 48900, lr: 0.02.
+	loss_policy: 1.1322
+	accuracy_policy: 0.56108
+	loss_value: 1.39641
+[2025-04-09 09:01:01] nn step 49000, lr: 0.02.
+	loss_policy: 1.13306
+	accuracy_policy: 0.56283
+	loss_value: 1.39902
+Optimization_Done 49000
+[2025-04-09 09:17:24] [command] train weight_iter_49000.pkl 80 99
+[2025-04-09 09:18:03] nn step 49100, lr: 0.02.
+	loss_policy: 1.15599
+	accuracy_policy: 0.55501
+	loss_value: 1.41241
+[2025-04-09 09:18:44] nn step 49200, lr: 0.02.
+	loss_policy: 1.14952
+	accuracy_policy: 0.55562
+	loss_value: 1.40325
+[2025-04-09 09:19:23] nn step 49300, lr: 0.02.
+	loss_policy: 1.14495
+	accuracy_policy: 0.55746
+	loss_value: 1.4044
+[2025-04-09 09:20:04] nn step 49400, lr: 0.02.
+	loss_policy: 1.14477
+	accuracy_policy: 0.55555
+	loss_value: 1.39929
+[2025-04-09 09:20:45] nn step 49500, lr: 0.02.
+	loss_policy: 1.14373
+	accuracy_policy: 0.55878
+	loss_value: 1.39816
+Optimization_Done 49500
+[2025-04-09 09:36:54] [command] train weight_iter_49500.pkl 81 100
+[2025-04-09 09:37:33] nn step 49600, lr: 0.02.
+	loss_policy: 1.15565
+	accuracy_policy: 0.55583
+	loss_value: 1.40378
+[2025-04-09 09:38:13] nn step 49700, lr: 0.02.
+	loss_policy: 1.14764
+	accuracy_policy: 0.55736
+	loss_value: 1.40082
+[2025-04-09 09:38:54] nn step 49800, lr: 0.02.
+	loss_policy: 1.14187
+	accuracy_policy: 0.55913
+	loss_value: 1.39267
+[2025-04-09 09:39:34] nn step 49900, lr: 0.02.
+	loss_policy: 1.13785
+	accuracy_policy: 0.55776
+	loss_value: 1.39604
+[2025-04-09 09:40:14] nn step 50000, lr: 0.02.
+	loss_policy: 1.13412
+	accuracy_policy: 0.55946
+	loss_value: 1.39735
+Optimization_Done 50000
