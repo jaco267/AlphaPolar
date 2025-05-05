@@ -1,4 +1,8 @@
-todo opensource the training environment in the future
+The AlphaZero source code is based on [minizero](https://github.com/rlglab/minizero.git), please read the readme in [minizero](https://github.com/rlglab/minizero.git) to setup the training enviroment.  
+
+The AlphaPolar environment can be found in environment/kernsearch folder,
+Currently, we didn't opensource our decoding algorithm (RMLD),    
+
 
 ```sh
 podman run --device nvidia.com/gpu=all  --cap-add=SYS_PTRACE --security-opt seccomp=unconfined \
