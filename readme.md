@@ -1,3 +1,5 @@
+Source code for the paper ["Reinforcement Learning-Aided Design of Efficient Polarization Kernels"](https://arxiv.org/abs/2505.04127)
+
 The AlphaZero source code is based on [minizero](https://github.com/rlglab/minizero.git), please read the readme in [minizero](https://github.com/rlglab/minizero.git) to setup the training enviroment.  
 
 The AlphaPolar environment can be found in minizero/environment/kernsearch folder,
